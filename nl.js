@@ -1,9 +1,9 @@
-l10n.translations.en = {
+l10n.translations.nl = {
   logout: 'Uitloggen',
   error: {
-    a: 'Er gigng Something went wrong. Please',
-    b: 'reload',
-    c: 'Here some technical details:'
+    a: 'Er ging iets mis.',
+    b: 'ververs',
+    c: 'Hier zijn enkele technische details:'
   },
   sourceName: {
     gdrive: 'Google Drive',
@@ -17,94 +17,94 @@ l10n.translations.en = {
     flickr: 'Flickr'
   },
   login: {
-    title: 'Upload a file from %source',
+    title: 'Upload een bestand van %source',
     lineA: {
-      gdrive: 'Get files from your Google account.',
-      dropbox: 'Get files from your Dropbox account.',
-      box: 'Get files from your Box account.',
-      evernote: 'Get files from your Evernote account.',
-      instagram: 'Get your or your friend\'s photos.',
-      flickr: 'Get your or your friend\'s photos.',
-      facebook: 'Get images from your or your friend\'s albums.',
-      vk: 'Get photos and docs from your account.'
+      gdrive: 'Upload vanuit je Google Drive',
+      dropbox: 'Upload vanuit je Dropbox',
+      box: 'Upload vanuit je Box account',
+      evernote: 'Upload vanuit Evernote',
+      instagram: 'Upload vanuit Instagram foto\'s',
+      flickr: 'Upload vanuit je Flickr foto\'s',
+      facebook: 'Upload vanuit je Facebook foto\'s',
+      vk: 'Upload vanuit vKontakte'
     },
-    lineB: 'We play nice. You just need to login.',
-    button: 'Connect to %source',
-    note: 'We will open a new page to connect your %source account.'
+    lineB: 'Login om je bestanden te kunnen zien.',
+    button: 'Maak verbinding met %source',
+    note: 'Er wordt een verbinding gelegd met je %source account.'
   },
   pagination: {
-    loading: 'Loading more items...',
-    loadMore: 'Load more',
+    loading: 'Items worden geladen..',
+    loadMore: 'Meer items..',
     failed: {
-      a: 'Loading failed.',
-      b: 'Try again'
+      a: 'Laden mislukt.',
+      b: 'Probeer opnieuw'
     }
   },
   instagram: {
     menu: {
-      myPhotos: 'My Photos',
-      myLikes: 'My Likes',
-      myFollowings: 'My Followings',
-      search: 'Search'
+      myPhotos: 'Mijn foto\'s',
+      myLikes: 'Mijn likes',
+      myFollowings: 'Mijn volgers',
+      search: 'Zoeken'
     },
     search: {
-      placeholder: 'Search photos by hashtags',
-      button: 'Search'
+      placeholder: 'Zoek op hashtag',
+      button: 'Zoeken'
     }
   },
   gdrive: {
     menu: {
-      myFiles: 'My Files',
-      starred: 'Starred'
+      myFiles: 'Mijn bestanden',
+      starred: 'Met ster'
     }
   },
   facebook: {
     menu: {
-      myAlbums: 'My Albums',
-      myFriends: 'My Friends'
+      myAlbums: 'Mijn albums',
+      myFriends: 'Mijn vrienden'
     }
   },
   vk: {
     menu: {
-      myAlbums: 'My Albums',
-      page: 'Profile Pictures',
-      withMe: 'Photos with Me',
-      saved: 'Saved Photos',
-      myFriends: 'My Friends',
-      docs: 'My Documents'
+      myAlbums: 'Mijn albums',
+      page: 'Profiel foto\'s',
+      withMe: 'Foto\'s van mij',
+      saved: 'Opgeslagen foto\'s',
+      myFriends: 'Mijn vrienden',
+      docs: 'Mijn documenten'
     }
   },
   evernote: {
     menu: {
       notebooks: 'Notebooks',
       tags: 'Tags',
-      search: 'Search'
+      search: 'Zoeken'
     },
     search: {
-      placeholder: 'Search files in notes',
-      button: 'Search'
+      placeholder: 'Zoek binnen je notes',
+      button: 'Zoeken'
     }
   },
   flickr: {
     menu: {
-      myPhotostream: 'Photostream',
+      myPhotostream: 'Stream',
       myAlbums: 'Albums',
-      myFavorites: 'Favorites',
-      follows: 'Followings'
+      myFavorites: 'Favorieten',
+      follows: 'Volgers'
     }
   },
   files: { // pluralization example
-    one: '1 file',
-    other: '%n files'
+    one: '1 bestand',
+    other: '%n bestanden'
   },
   list: {
     table: {
-      title: 'Title',
-      size: 'Size'
+      title: 'Bestandsnaam',
+      size: 'Grootte'
     }
   }
 };
 
-l10n.pluralize.en = function (n) {
+l10n.pluralize.nl = function (n) {
   return n === 1 ? 'one' : 'other';
 };
