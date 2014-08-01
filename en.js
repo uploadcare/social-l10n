@@ -108,3 +108,10 @@ l10n.translations.en = {
 l10n.pluralize.en = function (n) {
   return n === 1 ? 'one' : 'other';
 };
+
+
+l10n.date = function(d) {
+  var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+                'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
+};
