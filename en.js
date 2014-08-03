@@ -82,7 +82,7 @@ l10n.translations.en = {
       search: 'Search'
     },
     search: {
-      placeholder: 'Search files in notes',
+      placeholder: 'Search notes',
       button: 'Search'
     }
   },

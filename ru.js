@@ -74,7 +74,7 @@ l10n.translations.ru = {
       search: 'Поиск'
     },
     search: {
-      placeholder: 'Искать файлы в заметках',
+      placeholder: 'Искать заметки',
       button: 'Искать'
     }
   },
