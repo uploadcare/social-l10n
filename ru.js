@@ -68,6 +68,7 @@ l10n.translations.ru = {
   },
   evernote: {
     menu: {
+      allNotes: 'Все заметки',
       notebooks: 'Блокноты',
       tags: 'Метки',
       search: 'Поиск'

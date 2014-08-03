@@ -76,6 +76,7 @@ l10n.translations.en = {
   },
   evernote: {
     menu: {
+      allNotes: 'All Notes',
       notebooks: 'Notebooks',
       tags: 'Tags',
       search: 'Search'
