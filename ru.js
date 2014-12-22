@@ -78,6 +78,11 @@ l10n.translations.ru = {
       button: 'Искать'
     }
   },
+  huddle: {
+    menu: {
+      workspaces: 'Пространства',
+    }
+  },
   files: {
     one: '1 файл',
     few: '%n файла',

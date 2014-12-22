@@ -14,7 +14,8 @@ l10n.translations.en = {
     box: 'Box',
     evernote: 'Evernote',
     skydrive: 'OneDrive',
-    flickr: 'Flickr'
+    flickr: 'Flickr',
+    huddle: 'Huddle'
   },
   login: {
     title: 'Upload a file from %source',
@@ -92,6 +93,11 @@ l10n.translations.en = {
       myAlbums: 'Albums',
       myFavorites: 'Favorites',
       follows: 'Followings'
+    }
+  },
+  huddle: {
+    menu: {
+      workspaces: 'Workspaces',
     }
   },
   files: { // pluralization example
