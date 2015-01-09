@@ -25,7 +25,8 @@ l10n.translations.ru = {
     note: 'Страница входа откроется в новом окне.',
     cookieWarning: 'В вашем браузере заблокированы сторонние куки. ' +
       'Для авторизации необходимо снять ограничение хотя бы для домена ' +
-      '<code>social.uploadcare.com</code>.'
+      '<code>social.uploadcare.com</code>.',
+    cookieRetry: 'Я разблокировал куки, попробовать снова.'
   },
   pagination: {
     loading: 'Загрузка...',

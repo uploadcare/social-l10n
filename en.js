@@ -34,7 +34,8 @@ l10n.translations.en = {
     note: 'We will open a new page to connect your %source account.',
     cookieWarning: "You have blocked third-party cookies in your browser. " +
       "Authorization requires third-party cookies at least for " +
-      "<code>social.uploadcare.com</code> domain."
+      "<code>social.uploadcare.com</code> domain.",
+   cookieRetry: "I've unblocked cookies and want to try again."
   },
   pagination: {
     loading: 'Loading more items...',
