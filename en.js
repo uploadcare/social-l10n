@@ -31,7 +31,10 @@ l10n.translations.en = {
     },
     lineB: 'We play nice. You just need to login.',
     button: 'Connect to %source',
-    note: 'We will open a new page to connect your %source account.'
+    note: 'We will open a new page to connect your %source account.',
+    cookieWarning: "You have blocked third-party cookies in your browser. " +
+      "Authorization requires third-party cookies at least for " +
+      "<code>social.uploadcare.com</code> domain."
   },
   pagination: {
     loading: 'Loading more items...',
