@@ -57,7 +57,8 @@ l10n.translations.ru = {
   facebook: {
     menu: {
       myAlbums: 'Альбомы',
-      myFriends: 'Друзья'
+      myFriends: 'Друзья',
+      likedPages: 'Страницы'
     }
   },
   vk: {
