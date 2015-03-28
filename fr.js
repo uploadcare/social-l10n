@@ -3,7 +3,7 @@ l10n.translations.fr = {
   error: {
     a: 'Il y a eu un petit soucis. Merci de',
     b: 'recharger',
-    c: 'Voici quelques détails techniques :'
+    c: 'Voici quelques détails techniques\xA0:'
   },
   sourceName: {
     gdrive: 'Google Drive',
@@ -41,7 +41,7 @@ l10n.translations.fr = {
     loading: 'Chargement...',
     loadMore: 'Charger plus d\'éléments',
     failed: {
-      a: 'Le chargement a échoué..',
+      a: 'Le chargement a échoué...',
       b: 'Réessayer'
     }
   },
