@@ -6,7 +6,16 @@ l10n.translations.ru = {
     c: 'Технические подробности:'
   },
   sourceName: {
-    vk: 'ВКонтакте'
+    gdrive: 'Google Drive',
+    dropbox: 'Dropbox',
+    facebook: 'Facebook',
+    instagram: 'Instagram',
+    vk: 'ВКонтакте',
+    box: 'Box',
+    evernote: 'Evernote',
+    skydrive: 'OneDrive',
+    flickr: 'Flickr',
+    huddle: 'Huddle'
   },
   login: {
     title: 'Выбор файлов из %source',
@@ -20,13 +29,11 @@ l10n.translations.ru = {
       facebook: 'Вы сможете выбрать фотографии<br> из своих альбомов и альбомов друзей.',
       vk: 'Вы сможете выбрать фотографии<br> и документы из своего аккаунта.'
     },
-    lineB: ' ',
     button: 'Войти через %source',
+    lineB: 'Мы обо всем позаботимся. Вам достаточно только войти в систему',
     note: 'Страница входа откроется в новом окне.',
-    cookieWarning: 'В вашем браузере заблокированы сторонние куки. ' +
-      'Для авторизации необходимо снять ограничение хотя бы для домена ' +
-      '<code>social.uploadcare.com</code>.',
-    cookieRetry: 'Я разблокировал куки, попробовать снова.'
+    cookieWarning: 'В вашем браузере заблокированы сторонние куки. Для авторизации необходимо снять ограничение хотя бы для домена <code>social.uploadcare.com</code>.',
+    cookieRetry: 'Я разблокировал куки| попробовать снова.'
   },
   pagination: {
     loading: 'Загрузка...',
@@ -64,10 +71,10 @@ l10n.translations.ru = {
   vk: {
     menu: {
       myAlbums: 'Мои альбомы',
-      myFriends: 'Мои друзья',
       page: 'Фотографии с моей страницы',
       withMe: 'Фотографии со мной',
       saved: 'Сохранённые фотографии',
+      myFriends: 'Мои друзья',
       docs: 'Документы'
     }
   },
@@ -83,9 +90,17 @@ l10n.translations.ru = {
       button: 'Искать'
     }
   },
+  flickr: {
+    menu: {
+      myPhotostream: 'Photostream',
+      myAlbums: 'Альбомы',
+      myFavorites: 'Избранное',
+      follows: 'Фолловинг'
+    }
+  },
   huddle: {
     menu: {
-      workspaces: 'Пространства',
+      workspaces: 'Пространства'
     }
   },
   files: {

@@ -3,7 +3,7 @@ l10n.translations.fr = {
   error: {
     a: 'Il y a eu un petit soucis. Merci de',
     b: 'recharger',
-    c: 'Voici quelques détails techniques\xA0:'
+    c: 'Voici quelques détails techniques:'
   },
   sourceName: {
     gdrive: 'Google Drive',
@@ -32,10 +32,8 @@ l10n.translations.fr = {
     lineB: 'On s\'occupe de tout. Vous n\'avez qu\'à vous connecter.',
     button: 'Se connecter à %source',
     note: 'Nous allons ouvrir une nouvelle page pour vous connecter à votre compte %source.',
-    cookieWarning: "Vous avez bloqué les cookies tiers dans votre navigateur. " +
-      "Vous devez autoriser les cookies pour le domaine " +
-      "<code>social.uploadcare.com</code>.",
-   cookieRetry: "J'ai autorisé les cookies et je veux réessayer."
+    cookieWarning: 'Vous avez bloqué les cookies tiers dans votre navigateur. Vous devez autoriser les cookies pour le domaine <code>social.uploadcare.com</code>.',
+    cookieRetry: 'J\'ai autorisé les cookies et je veux réessayer.'
   },
   pagination: {
     loading: 'Chargement...',
@@ -66,7 +64,8 @@ l10n.translations.fr = {
   facebook: {
     menu: {
       myAlbums: 'Mes albums',
-      myFriends: 'Mes amis'
+      myFriends: 'Mes amis',
+      likedPages: 'Pages'
     }
   },
   vk: {
@@ -101,11 +100,13 @@ l10n.translations.fr = {
   },
   huddle: {
     menu: {
-      workspaces: 'Workspaces',
+      workspaces: 'Workspaces'
     }
   },
-  files: { // pluralization example
+  files: {
     one: '1 fichier',
+    few: '',
+    many: '',
     other: '%n fichiers'
   },
   list: {

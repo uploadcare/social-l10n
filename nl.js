@@ -14,7 +14,8 @@ l10n.translations.nl = {
     box: 'Box',
     evernote: 'Evernote',
     skydrive: 'OneDrive',
-    flickr: 'Flickr'
+    flickr: 'Flickr',
+    huddle: 'Huddle'
   },
   login: {
     title: 'Upload een bestand van %source',
@@ -30,7 +31,9 @@ l10n.translations.nl = {
     },
     lineB: 'Login om je bestanden te kunnen zien.',
     button: 'Maak verbinding met %source',
-    note: 'Er wordt een verbinding gelegd met je %source account.'
+    note: 'Er wordt een verbinding gelegd met je %source account.',
+    cookieWarning: 'Je hebt cookies van derden in je browser geblokkeerd. Voor autorisatie zijn minimaal cookies noodzakelijk voor het domein <code>social.uploadcare.com</code>.',
+    cookieRetry: 'Ik heb de blokkade op de cookies opgeheven en wil het nogmaals proberen.'
   },
   pagination: {
     loading: 'Items worden geladen..',
@@ -61,7 +64,8 @@ l10n.translations.nl = {
   facebook: {
     menu: {
       myAlbums: 'Mijn albums',
-      myFriends: 'Mijn vrienden'
+      myFriends: 'Mijn vrienden',
+      likedPages: 'Pagina\'s'
     }
   },
   vk: {
@@ -76,6 +80,7 @@ l10n.translations.nl = {
   },
   evernote: {
     menu: {
+      allNotes: 'Alle documenten',
       notebooks: 'Notebooks',
       tags: 'Tags',
       search: 'Zoeken'
@@ -93,8 +98,15 @@ l10n.translations.nl = {
       follows: 'Volgers'
     }
   },
-  files: { // pluralization example
+  huddle: {
+    menu: {
+      workspaces: 'Werkruimte'
+    }
+  },
+  files: {
     one: '1 bestand',
+    few: '',
+    many: '',
     other: '%n bestanden'
   },
   list: {
@@ -102,9 +114,21 @@ l10n.translations.nl = {
       title: 'Bestandsnaam',
       size: 'Grootte'
     }
-  }
+  },
+  jan: 'Jan',
+  feb: 'Feb',
+  mar: 'Maa',
+  apr: 'Apr',
+  may: 'Mei',
+  jun: 'Jun',
+  jul: 'Jul',
+  aug: 'Aug',
+  sep: 'Sep',
+  oct: 'Okt',
+  nov: 'Nov',
+  dec: 'Dec'
 };
 
 l10n.pluralize.nl = function (n) {
-  return n === 1 ? 'one' : 'other';
+    return n === 1 ? 'one' : 'other';
 };
