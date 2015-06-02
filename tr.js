@@ -104,9 +104,7 @@ l10n.translations.tr = {
     }
   },
   files: {
-    one: '1 dosya',
-    few: '',
-    many: '',
+    one: '%n dosya',
     other: '%n dosyalar'
   },
   list: {
@@ -115,4 +113,11 @@ l10n.translations.tr = {
       size: 'Boyut'
     }
   }
+};
+
+
+l10n.date = function(d) {
+  var months = ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz',
+                'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara' ];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };

@@ -122,3 +122,10 @@ l10n.pluralize.ru = function (n) {
   return ((n/10%10|0) == 1) || (n%10 == 0) || (n%10 > 4) ?
     'many' : ((n%10 == 1) ? 'one' : 'few');
 };
+
+
+l10n.date = function(d) {
+  var months = ['Янв', 'Фев', 'Март', 'Апр', 'Май', 'Июнь',
+                'Июль', 'Авг', 'Сен', 'Окт', 'Ноя', 'Дек'];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
+};

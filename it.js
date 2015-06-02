@@ -104,9 +104,7 @@ l10n.translations.it = {
     }
   },
   files: {
-    one: '1 file',
-    few: '',
-    many: '',
+    one: '%n file',
     other: '%n file'
   },
   list: {
@@ -115,4 +113,11 @@ l10n.translations.it = {
       size: 'Dimensione'
     }
   }
+};
+
+
+l10n.date = function(d) {
+  var months = ['Gen', 'Feb', 'Mar', 'Apr', 'Mag', 'Giu',
+                'Lug', 'Ago', 'Set', 'Ott', 'Nov', 'Dic' ];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };
