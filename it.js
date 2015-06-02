@@ -18,7 +18,7 @@ l10n.translations.it = {
     huddle: 'Huddle'
   },
   login: {
-    title: 'Carica un file da %sorgente',
+    title: 'Carica un file da %source',
     lineA: {
       gdrive: 'Ottieni file dal tuo account Google.',
       dropbox: 'Ottieni file dal tuo account Dropbox.',
@@ -30,8 +30,8 @@ l10n.translations.it = {
       vk: 'Ottieni foto e documenti dal tuo account.'
     },
     lineB: 'Bel gioco. Devi fare il login.',
-    button: 'Impossibile connettersi a %origine',
-    note: 'Apriremo una nuova pagina per collegare il tuo account %sorgente.',
+    button: 'Impossibile connettersi a %source',
+    note: 'Apriremo una nuova pagina per collegare il tuo account %source.',
     cookieWarning: 'Hai bloccato i cookie di terzi nel tuo browser. L’autorizzazione richiede cookie di terzi almeno per il dominio <code>social.uploadcare.com</code>.',
     cookieRetry: 'Ho sbloccato i cookie e voglio riprovare.'
   },

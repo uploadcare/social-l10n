@@ -18,7 +18,6 @@ l10n.translations.tr = {
     huddle: 'Huddle'
   },
   login: {
-    title: 'Google Drive',
     lineA: {
       gdrive: 'Google hesabınızdan dosya alın.',
       dropbox: 'Dropbox hesabınızdan dosya alın.',
