@@ -104,9 +104,7 @@ l10n.translations.nl = {
     }
   },
   files: {
-    one: '1 bestand',
-    few: '',
-    many: '',
+    one: '%n bestand',
     other: '%n bestanden'
   },
   list: {
@@ -114,21 +112,16 @@ l10n.translations.nl = {
       title: 'Bestandsnaam',
       size: 'Grootte'
     }
-  },
-  jan: 'Jan',
-  feb: 'Feb',
-  mar: 'Maa',
-  apr: 'Apr',
-  may: 'Mei',
-  jun: 'Jun',
-  jul: 'Jul',
-  aug: 'Aug',
-  sep: 'Sep',
-  oct: 'Okt',
-  nov: 'Nov',
-  dec: 'Dec'
+  }
 };
 
 l10n.pluralize.nl = function (n) {
     return n === 1 ? 'one' : 'other';
+};
+
+
+l10n.date = function(d) {
+  var months = ['Jan', 'Feb', 'Maa', 'Apr', 'Mei', 'Jun',
+                'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec'];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };

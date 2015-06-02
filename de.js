@@ -104,9 +104,7 @@ l10n.translations.de = {
     }
   },
   files: {
-    one: '1 Datei',
-    few: '',
-    many: '',
+    one: '%n Datei',
     other: '%n Dateien'
   },
   list: {
@@ -115,4 +113,11 @@ l10n.translations.de = {
       size: 'Größe'
     }
   }
+};
+
+
+l10n.date = function(d) {
+  var months = ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun',
+                'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez' ];
+  return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };
