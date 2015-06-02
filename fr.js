@@ -32,8 +32,10 @@ l10n.translations.fr = {
     lineB: 'On s\'occupe de tout. Vous n\'avez qu\'à vous connecter.',
     button: 'Se connecter à %source',
     note: 'Nous allons ouvrir une nouvelle page pour vous connecter à votre compte %source.',
-    cookieWarning: 'Vous avez bloqué les cookies tiers dans votre navigateur. Vous devez autoriser les cookies pour le domaine <code>social.uploadcare.com</code>.',
-    cookieRetry: 'J\'ai autorisé les cookies et je veux réessayer.'
+    cookieWarning: 'Vous avez bloqué les cookies tiers dans votre navigateur. ' +
+      'Vous devez autoriser les cookies pour le domaine ' +
+      '<code>social.uploadcare.com</code>.',
+    cookieRetry: "J'ai autorisé les cookies et je veux réessayer."
   },
   pagination: {
     loading: 'Chargement...',
@@ -104,9 +106,7 @@ l10n.translations.fr = {
     }
   },
   files: {
-    one: '1 fichier',
-    few: '',
-    many: '',
+    one: '%n fichier',
     other: '%n fichiers'
   },
   list: {

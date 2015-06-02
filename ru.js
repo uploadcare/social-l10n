@@ -32,8 +32,10 @@ l10n.translations.ru = {
     button: 'Войти через %source',
     lineB: 'Мы обо всем позаботимся. Вам достаточно только войти в систему',
     note: 'Страница входа откроется в новом окне.',
-    cookieWarning: 'В вашем браузере заблокированы сторонние куки. Для авторизации необходимо снять ограничение хотя бы для домена <code>social.uploadcare.com</code>.',
-    cookieRetry: 'Я разблокировал куки| попробовать снова.'
+    cookieWarning: 'В вашем браузере заблокированы сторонние куки. ' +
+      'Для авторизации необходимо снять ограничение хотя бы для домена ' +
+      '<code>social.uploadcare.com</code>.',
+    cookieRetry: 'Я разблокировал куки, попробовать снова.'
   },
   pagination: {
     loading: 'Загрузка...',
@@ -104,10 +106,9 @@ l10n.translations.ru = {
     }
   },
   files: {
-    one: '1 файл',
+    one: '%n файл',
     few: '%n файла',
-    many: '%n файлов',
-    other: '%n файла'
+    many: '%n файлов'
   },
   list: {
     table: {
@@ -118,16 +119,6 @@ l10n.translations.ru = {
 };
 
 l10n.pluralize.ru = function (n) {
-  var m10 = n % 10,
-      m100 = n % 100;
-  if (m10 === 1 && m100 !== 11) {
-    return 'one';
-  }
-  if (_.contains([2, 3, 4], m10) && !_.contains([12, 13, 14], m100)) {
-    return 'few';
-  }
-  if (_.contains([0, 5, 6, 7, 8, 9], m10) || _.contains([11, 12, 13, 14], m100)) {
-    return 'many';
-  }
-  return 'other';
+  return ((n/10%10|0) == 1) || (n%10 == 0) || (n%10 > 4) ?
+    'many' : ((n%10 == 1) ? 'one' : 'few');
 };
