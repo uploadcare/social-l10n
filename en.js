@@ -60,6 +60,7 @@ l10n.translations.en = {
   gdrive: {
     menu: {
       myFiles: 'My Files',
+      shared: 'Shared with me',
       starred: 'Starred'
     }
   },
