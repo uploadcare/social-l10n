@@ -119,7 +119,7 @@ l10n.translations.pl = {
   }
 };
 
-l10n.pluralize.en = function (n) {
+l10n.pluralize.pl = function (n) {
   return n === 1 ? 'one' : 'other';
 };
 
