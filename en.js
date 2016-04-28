@@ -49,7 +49,7 @@ l10n.translations.en = {
     menu: {
       myPhotos: 'My Photos',
       myLikes: 'My Likes',
-      myFollowings: 'My Followings',
+      myFollowings: 'Following',
       search: 'Search'
     },
     search: {
