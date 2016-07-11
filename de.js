@@ -58,6 +58,7 @@ l10n.translations.de = {
   gdrive: {
     menu: {
       myFiles: 'Meine Dateien',
+      shared: 'Für mich freigegeben',
       starred: 'Favoriten'
     }
   },

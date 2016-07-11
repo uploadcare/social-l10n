@@ -58,6 +58,7 @@ l10n.translations.tr = {
   gdrive: {
     menu: {
       myFiles: 'Dosyalarım',
+      shared: 'Benimle paylaşılanlar',
       starred: 'Favoriler'
     }
   },

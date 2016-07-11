@@ -58,6 +58,7 @@ l10n.translations.nl = {
   gdrive: {
     menu: {
       myFiles: 'Mijn bestanden',
+      shared: 'Delt med mig',
       starred: 'Met ster'
     }
   },

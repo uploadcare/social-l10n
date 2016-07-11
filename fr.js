@@ -60,6 +60,7 @@ l10n.translations.fr = {
   gdrive: {
     menu: {
       myFiles: 'Mes fichiers',
+      shared: 'Partagés avec moi',
       starred: 'Favoris'
     }
   },
