@@ -58,6 +58,7 @@ l10n.translations.es = {
   gdrive: {
     menu: {
       myFiles: 'Mis archivos',
+      shared: 'Compartidos conmigo',
       starred: 'Favoritos'
     }
   },

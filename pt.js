@@ -49,6 +49,7 @@ l10n.translations.pt = {
   gdrive: {
     menu: {
       myFiles: 'Meus Arquivos',
+      shared: 'Compartilhados comigo',
       starred: 'Com Estrela'
     }
   },
