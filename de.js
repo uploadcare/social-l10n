@@ -15,7 +15,8 @@ l10n.translations.de = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Hochladen einer Datei von %source',
@@ -27,7 +28,8 @@ l10n.translations.de = {
       instagram: 'Holen Sie Ihre Fotos oder die Ihrer Freunde.',
       flickr: 'Holen Sie Ihre Fotos oder die Ihrer Freunde.',
       facebook: 'Holen Sie Bilder aus Ihren Alben oder denen Ihrer Freunde.',
-      vk: 'Holen Sie Fotos und Dokumente aus Ihrem Konto.'
+      vk: 'Holen Sie Fotos und Dokumente aus Ihrem Konto.',
+      gphotos: 'Holen Fotos aus Ihrem Google Photos-Konto.'
     },
     lineB: 'Wir machen es Ihnen einfach. Sie brauchen sich nur anzumelden.',
     button: 'Verbinden mit %source',

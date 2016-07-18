@@ -15,7 +15,8 @@ l10n.translations.zhTW = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: '從我的 %source 上傳',
@@ -27,7 +28,8 @@ l10n.translations.zhTW = {
       instagram: '從自己或好友的相簿上傳照片',
       flickr: '從自己或好友的相簿上傳照片',
       facebook: '從自己或好友的相簿上傳照片',
-      vk: '從自己的帳號上傳照片'
+      vk: '從自己的帳號上傳照片',
+      gphotos: '從自己的 Google Photos雲端硬碟帳號取得檔案並上傳'
     },
     lineB: '您只需要登入並連接您的帳號',
     button: '連接 %source',

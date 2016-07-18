@@ -15,7 +15,8 @@ l10n.translations.tr = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: '%source kaynağından bir dosya yükleyin',
@@ -27,7 +28,8 @@ l10n.translations.tr = {
       instagram: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
       flickr: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
       facebook: 'Kendinizin veya arkadaşlarınızın albümlerinden resim alın.',
-      vk: 'Hesabınızdan fotoğraf veya belge alın.'
+      vk: 'Hesabınızdan fotoğraf veya belge alın.',
+      gphotos: 'Google Photos fotoğraflarını dosya alın.'
     },
     lineB: 'İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.',
     button: '%source\'a bağlan',

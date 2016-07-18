@@ -15,7 +15,8 @@ l10n.translations.it = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Carica un file da %source',
@@ -27,7 +28,8 @@ l10n.translations.it = {
       instagram: 'Ottieni le tue foto o quelle dei tuoi amici',
       flickr: 'Ottieni le tue foto o quelle dei tuoi amici',
       facebook: 'Ottieni immagini dal tuo album o da quelli dei tuoi amici.',
-      vk: 'Ottieni foto e documenti dal tuo account.'
+      vk: 'Ottieni foto e documenti dal tuo account.',
+      gphotos: 'Ottieni immagini dal tuo account Google Photos.'
     },
     lineB: 'Bel gioco. Devi fare il login.',
     button: 'Impossibile connettersi a %source',

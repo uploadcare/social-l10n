@@ -15,7 +15,8 @@ l10n.translations.en = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Upload a file from %source',
@@ -27,7 +28,8 @@ l10n.translations.en = {
       instagram: 'Get your or your friend\'s photos.',
       flickr: 'Get your or your friend\'s photos.',
       facebook: 'Get images from your or your friend\'s albums.',
-      vk: 'Get photos and docs from your account.'
+      vk: 'Get photos and docs from your account.',
+      gphotos: 'Get photos from your Google Photos account.'
     },
     lineB: 'We play nice. You just need to login.',
     button: 'Connect to %source',
@@ -61,8 +63,7 @@ l10n.translations.en = {
     menu: {
       myFiles: 'My Files',
       shared: 'Shared with me',
-      starred: 'Starred',
-      photos: 'Google Photos'
+      starred: 'Starred'
     }
   },
   facebook: {

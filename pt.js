@@ -11,7 +11,8 @@ l10n.translations.pt = {
     facebook: 'Facebook',
     instagram: 'Instagram',
     vk: 'VK',
-    evernote: 'Evernote'
+    evernote: 'Evernote',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Faça upload de um arquivo do %source',
@@ -21,7 +22,8 @@ l10n.translations.pt = {
       facebook: 'Acesse imagens dos seus álbuns ou dos álbuns de seus amigos.',
       instagram: 'Acessar fotos do seu perfil está mais fácil do que nunca.',
       vk: 'Acesse fotos e documentos da sua conta.',
-      evernote: 'Acesse arquivos da sua conta do Evernote'
+      evernote: 'Acesse arquivos da sua conta do Evernote',
+      gphotos: 'Acesse imagens dos sua conta do Google Photos.'
     },
     lineB: 'Nós jogamos limpo. Você só precisa fazer login.',
     button: 'Conectar ao %source',
