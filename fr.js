@@ -15,7 +15,8 @@ l10n.translations.fr = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Envoyer un fichier depuis %source',
@@ -27,7 +28,8 @@ l10n.translations.fr = {
       instagram: 'Récupérer vos photos ou celles de vos amis.',
       flickr: 'Récupérer vos photos ou celles de vos amis.',
       facebook: 'Récupérer des images à partir de vos albums ou de ceux de vos amis.',
-      vk: 'Récupérer vos photos et vos documents depuis votre compte.'
+      vk: 'Récupérer vos photos et vos documents depuis votre compte.',
+      gphotos: 'Récupérer vos photos depuis votre compte Google Photos.'
     },
     lineB: 'On s\'occupe de tout. Vous n\'avez qu\'à vous connecter.',
     button: 'Se connecter à %source',

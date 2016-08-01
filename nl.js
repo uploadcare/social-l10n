@@ -15,7 +15,8 @@ l10n.translations.nl = {
     evernote: 'Evernote',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
-    huddle: 'Huddle'
+    huddle: 'Huddle',
+    gphotos: 'Google Photos'
   },
   login: {
     title: 'Upload een bestand van %source',
@@ -27,7 +28,8 @@ l10n.translations.nl = {
       instagram: 'Upload vanuit Instagram foto\'s',
       flickr: 'Upload vanuit je Flickr foto\'s',
       facebook: 'Upload vanuit je Facebook foto\'s',
-      vk: 'Upload vanuit vKontakte'
+      vk: 'Upload vanuit vKontakte',
+      gphotos: 'Upload vanuit je Google Photos'
     },
     lineB: 'Login om je bestanden te kunnen zien.',
     button: 'Maak verbinding met %source',
