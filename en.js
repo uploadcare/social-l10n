@@ -57,6 +57,10 @@ l10n.translations.en = {
     search: {
       placeholder: 'Search photos by hashtags',
       button: 'Search'
+    },
+    errors: {
+      account_is_private: 'This account is private and we can\'t fetch any '+
+        'media from him. Sorry for this inconvenience.'
     }
   },
   gdrive: {
