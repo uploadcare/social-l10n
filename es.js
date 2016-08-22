@@ -55,6 +55,10 @@ l10n.translations.es = {
     search: {
       placeholder: 'Buscar fotos por hashtags',
       button: 'Buscar'
+    },
+    errors: {
+      account_is_private: 'Esta cuenta es privada y no puede recuperar cualquier '+
+        'medios de él. Perdón por las molestias.'
     }
   },
   gdrive: {

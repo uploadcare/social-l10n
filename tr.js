@@ -55,6 +55,10 @@ l10n.translations.tr = {
     search: {
       placeholder: 'Hashtag\'lerle fotoğraf arma',
       button: 'Arama'
+    },
+    errors: {
+      account_is_private: 'Bu hesap özel ve biz herhangi getirme olamaz '+
+        'ondan medya. Bu rahatsızlıktan dolayı özür dilerim.'
     }
   },
   gdrive: {

@@ -55,6 +55,10 @@ l10n.translations.nl = {
     search: {
       placeholder: 'Zoek op hashtag',
       button: 'Zoeken'
+    },
+    errors: {
+      account_is_private: 'Dit account is privé en we kunnen niet halen geen '+
+        'media van hem. Sorry voor het ongemak.'
     }
   },
   gdrive: {

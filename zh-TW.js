@@ -57,6 +57,10 @@ l10n.translations.zhTW = {
     search: {
       placeholder: '從 hashtags 尋找照片',
       button: '尋找'
+    },
+    errors: {
+      account_is_private: '此帐户是私有的，我们不能获取任何 '+
+        '媒体从他身上。对不起，这种不便。'
     }
   },
   gdrive: {

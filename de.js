@@ -55,6 +55,10 @@ l10n.translations.de = {
     search: {
       placeholder: 'Suche Fotos nach Hashtags',
       button: 'Suche'
+    },
+    errors: {
+      account_is_private: 'Dieses Konto ist privat und wir können jede nicht holen '+
+        'Medien von ihm. Entschuldigung für diese Unannehmlichkeit.'
     }
   },
   gdrive: {
