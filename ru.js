@@ -59,8 +59,7 @@ l10n.translations.ru = {
       button: 'Искать'
     },
     errors: {
-      account_is_private: 'Это приватный аккаунт и мы не можем показать его ленту. '+
-        'Приносим извинения за неудобства.'
+      account_is_private: 'Это приватный аккаунт'
     }
   },
   gdrive: {

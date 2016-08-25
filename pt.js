@@ -48,8 +48,7 @@ l10n.translations.pt = {
       button: 'Buscar'
     },
     errors: {
-      account_is_private: 'Esta conta é privado e não pode buscar qualquer '+
-        'media dele. Desculpe pelo transtorno.'
+      account_is_private: 'Esse usuário tem um feed privado'
     }
   },
   gdrive: {

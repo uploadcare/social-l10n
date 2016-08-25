@@ -57,8 +57,7 @@ l10n.translations.de = {
       button: 'Suche'
     },
     errors: {
-      account_is_private: 'Dieses Konto ist privat und wir können jede nicht holen '+
-        'Medien von ihm. Entschuldigung für diese Unannehmlichkeit.'
+      account_is_private: 'Dieser Benutzer verfügt über einen eigenen Feed'
     }
   },
   gdrive: {

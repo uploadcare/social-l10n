@@ -57,8 +57,7 @@ l10n.translations.es = {
       button: 'Buscar'
     },
     errors: {
-      account_is_private: 'Esta cuenta es privada y no puede recuperar cualquier '+
-        'medios de él. Perdón por las molestias.'
+      account_is_private: 'Este usuario tiene una fuente privada'
     }
   },
   gdrive: {

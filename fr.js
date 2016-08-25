@@ -59,8 +59,7 @@ l10n.translations.fr = {
       button: 'Rechercher'
     },
     errors: {
-      account_is_private: 'Ce compte est privé et nous ne pouvons pas chercher tout '+
-        'médias de lui. Désolé pour ce désagrément.'
+      account_is_private: 'Cet utilisateur a une alimentation privée'
     }
   },
   gdrive: {

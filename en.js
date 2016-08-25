@@ -59,8 +59,7 @@ l10n.translations.en = {
       button: 'Search'
     },
     errors: {
-      account_is_private: 'This account is private and we can\'t fetch any '+
-        'media from him. Sorry for this inconvenience.'
+      account_is_private: 'This user has a private feed'
     }
   },
   gdrive: {

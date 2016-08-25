@@ -59,8 +59,7 @@ l10n.translations.zhTW = {
       button: '尋找'
     },
     errors: {
-      account_is_private: '此帐户是私有的，我们不能获取任何 '+
-        '媒体从他身上。对不起，这种不便。'
+      account_is_private: '此用户拥有一个私人饲料'
     }
   },
   gdrive: {

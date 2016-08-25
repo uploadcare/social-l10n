@@ -57,8 +57,7 @@ l10n.translations.tr = {
       button: 'Arama'
     },
     errors: {
-      account_is_private: 'Bu hesap özel ve biz herhangi getirme olamaz '+
-        'ondan medya. Bu rahatsızlıktan dolayı özür dilerim.'
+      account_is_private: 'Bu kullanıcıya özel feed vardır'
     }
   },
   gdrive: {

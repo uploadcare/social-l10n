@@ -57,8 +57,7 @@ l10n.translations.it = {
       button: 'Cerca'
     },
     errors: {
-      account_is_private: 'Questo account è privato e non siamo in grado di recuperare qualsiasi '+
-        'supporti da lui. Sono dispiaciuto per l\'inconveniente.'
+      account_is_private: 'Questo utente ha un feed privato'
     }
   },
   gdrive: {

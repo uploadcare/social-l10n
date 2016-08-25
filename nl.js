@@ -57,8 +57,7 @@ l10n.translations.nl = {
       button: 'Zoeken'
     },
     errors: {
-      account_is_private: 'Dit account is privé en we kunnen niet halen geen '+
-        'media van hem. Sorry voor het ongemak.'
+      account_is_private: 'Deze gebruiker heeft een eigen voeding'
     }
   },
   gdrive: {

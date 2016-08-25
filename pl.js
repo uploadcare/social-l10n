@@ -59,8 +59,7 @@ l10n.translations.pl = {
       button: 'Szukaj'
     },
     errors: {
-      account_is_private: 'To konto jest prywatna i nie możemy sprowadzić dowolny '+
-        'Media od niego. Przepraszamy za tę niedogodność.'
+      account_is_private: 'Ten użytkownik ma prywatny kanał'
     }
   },
   gdrive: {
