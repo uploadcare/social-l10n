@@ -55,6 +55,9 @@ l10n.translations.de = {
     search: {
       placeholder: 'Suche Fotos nach Hashtags',
       button: 'Suche'
+    },
+    errors: {
+      account_is_private: 'Dieser Benutzer verfügt über einen eigenen Feed'
     }
   },
   gdrive: {

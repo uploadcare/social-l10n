@@ -57,6 +57,9 @@ l10n.translations.zhTW = {
     search: {
       placeholder: '從 hashtags 尋找照片',
       button: '尋找'
+    },
+    errors: {
+      account_is_private: '此用户拥有一个私人饲料'
     }
   },
   gdrive: {

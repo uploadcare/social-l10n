@@ -55,6 +55,9 @@ l10n.translations.tr = {
     search: {
       placeholder: 'Hashtag\'lerle fotoğraf arma',
       button: 'Arama'
+    },
+    errors: {
+      account_is_private: 'Bu kullanıcıya özel feed vardır'
     }
   },
   gdrive: {

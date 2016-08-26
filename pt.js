@@ -46,6 +46,9 @@ l10n.translations.pt = {
     search: {
       placeholder: 'Procurar fotos por hashtags',
       button: 'Buscar'
+    },
+    errors: {
+      account_is_private: 'Esse usuário tem um feed privado'
     }
   },
   gdrive: {

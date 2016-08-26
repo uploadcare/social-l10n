@@ -55,6 +55,9 @@ l10n.translations.nl = {
     search: {
       placeholder: 'Zoek op hashtag',
       button: 'Zoeken'
+    },
+    errors: {
+      account_is_private: 'Deze gebruiker heeft een eigen voeding'
     }
   },
   gdrive: {

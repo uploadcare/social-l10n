@@ -57,6 +57,9 @@ l10n.translations.en = {
     search: {
       placeholder: 'Search photos by hashtags',
       button: 'Search'
+    },
+    errors: {
+      account_is_private: 'This user has a private feed'
     }
   },
   gdrive: {

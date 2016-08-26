@@ -57,6 +57,9 @@ l10n.translations.ru = {
     search: {
       placeholder: 'Искать фотографии по хеш-тегу',
       button: 'Искать'
+    },
+    errors: {
+      account_is_private: 'Это приватный аккаунт'
     }
   },
   gdrive: {
