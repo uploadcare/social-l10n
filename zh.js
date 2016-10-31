@@ -1,4 +1,4 @@
-l10n.translations.en = {
+l10n.translations.zh = {
   logout: '退出',
   error: {
     a: '发生错误，请',
@@ -112,7 +112,6 @@ l10n.translations.en = {
   },
   // pluralization example
   files: {
-    one: '%n文件',
     other: '%n文件'
   },
   list: {
@@ -125,8 +124,8 @@ l10n.translations.en = {
 
 // Pluralization rules taken from:
 // http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
-l10n.pluralize.en = function (n) {
-  return n === 1 ? 'one' : 'other';
+l10n.pluralize.zh = function (n) {
+  return 'other';
 };
 
 
