@@ -128,7 +128,7 @@ l10n.pluralize.fr = function (n) {
 };
 
 
-l10n.date = function(d) {
+l10n.date.fr = function(d) {
   var months = ['Jan', 'Fév', 'Mar', 'Avr', 'Mai', 'Jun',
                 'Jul', 'Aoû', 'Sep', 'Oct', 'Nov', 'Déc'];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

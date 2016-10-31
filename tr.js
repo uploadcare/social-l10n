@@ -122,7 +122,7 @@ l10n.translations.tr = {
 };
 
 
-l10n.date = function(d) {
+l10n.date.tr = function(d) {
   var months = ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz',
                 'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara' ];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

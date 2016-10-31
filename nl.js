@@ -126,7 +126,7 @@ l10n.pluralize.nl = function (n) {
 };
 
 
-l10n.date = function(d) {
+l10n.date.nl = function(d) {
   var months = ['Jan', 'Feb', 'Maa', 'Apr', 'Mei', 'Jun',
                 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec'];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

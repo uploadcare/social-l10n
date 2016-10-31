@@ -122,7 +122,7 @@ l10n.translations.de = {
 };
 
 
-l10n.date = function(d) {
+l10n.date.de = function(d) {
   var months = ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun',
                 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez' ];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

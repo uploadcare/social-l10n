@@ -131,7 +131,7 @@ l10n.pluralize.en = function (n) {
 };
 
 
-l10n.date = function(d) {
+l10n.date.en = function(d) {
   var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

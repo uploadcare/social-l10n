@@ -128,7 +128,7 @@ l10n.pluralize.pl = function (n) {
   return n === 1 ? 'one' : 'other';
 };
 
-l10n.date = function(d) {
+l10n.date.pl = function(d) {
   var months = ['Sty', 'Lut', 'Mar', 'Kwi', 'Maj', 'Cze',
                 'Lip', 'Sie', 'Wrz', 'Paź', 'Lis', 'Gru'];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();

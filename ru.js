@@ -130,7 +130,7 @@ l10n.pluralize.ru = function (n) {
 };
 
 
-l10n.date = function(d) {
+l10n.date.ru = function(d) {
   var months = ['Янв', 'Фев', 'Март', 'Апр', 'Май', 'Июнь',
                 'Июль', 'Авг', 'Сен', 'Окт', 'Ноя', 'Дек'];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
