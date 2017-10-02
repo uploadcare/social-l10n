@@ -31,7 +31,7 @@ l10n.translations.en = {
       vk: 'Get photos and docs from your account.',
       gphotos: 'Get photos from your Google Photos account.'
     },
-    lineB: 'We play nice. You just need to login.',
+    lineB: 'We take care of everything. You just need to login.',
     button: 'Connect to %source',
     note: 'We will open a new page to connect your %source account.',
     cookieWarning: 'You have blocked third-party cookies in your browser. ' +
