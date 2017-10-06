@@ -21,17 +21,17 @@ l10n.translations.en = {
   login: {
     title: 'Upload a file from %source',
     lineA: {
-      gdrive: 'Get files from your Google account.',
-      dropbox: 'Get files from your Dropbox account.',
-      box: 'Get files from your Box account.',
-      evernote: 'Get files from your Evernote account.',
-      instagram: 'Get your or your friend\'s photos.',
-      flickr: 'Get your or your friend\'s photos.',
-      facebook: 'Get images from your or your friend\'s albums.',
-      vk: 'Get photos and docs from your account.',
-      gphotos: 'Get photos from your Google Photos account.'
+      gdrive: 'You need to authenticate with Google.',
+      dropbox: 'You need to authenticate with Dropbox.',
+      box: 'You need to authenticate with Box.',
+      evernote: 'You need to authenticate with Evernote.',
+      instagram: 'You need to authenticate with Instagram.',
+      flickr: 'You need to authenticate with Flickr.',
+      facebook: 'You need to authenticate with Facebook.',
+      vk: 'You need to authenticate with VK.',
+      gphotos: 'You need to authenticate with Google Photos.'
     },
-    lineB: 'We take care of everything. You just need to login.',
+    lineB: 'We only extract images and never modify or delete them.',
     button: 'Connect to %source',
     note: 'We will open a new page to connect your %source account.',
     cookieWarning: 'You have blocked third-party cookies in your browser. ' +
