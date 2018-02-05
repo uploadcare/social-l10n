@@ -104,6 +104,11 @@ l10n.translations.tr = {
       follows: 'Takip Edilenler'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Albümler',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Çalışma alanları'

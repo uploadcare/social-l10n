@@ -104,6 +104,11 @@ l10n.translations.nl = {
       follows: 'Volgers'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Albums',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Werkruimte'

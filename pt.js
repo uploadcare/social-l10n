@@ -58,6 +58,11 @@ l10n.translations.pt = {
       starred: 'Com Estrela'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Álbuns',
+    }
+  },
   facebook: {
     menu: {
       myAlbums: 'Meus Álbuns',

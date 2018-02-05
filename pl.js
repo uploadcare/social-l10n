@@ -106,6 +106,11 @@ l10n.translations.pl = {
       follows: 'Polubienia'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Albumy',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Obszary robocze'

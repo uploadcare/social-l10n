@@ -106,6 +106,11 @@ l10n.translations.ru = {
       follows: 'Фолловинг'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Альбомы',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Пространства'

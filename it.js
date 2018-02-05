@@ -104,6 +104,11 @@ l10n.translations.it = {
       follows: 'Persone che seguo'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Album',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Aree di lavoro'

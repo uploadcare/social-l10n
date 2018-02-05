@@ -105,6 +105,11 @@ l10n.translations.zh = {
       follows: '我的关注'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: '相册',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Workspaces'

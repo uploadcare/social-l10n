@@ -106,6 +106,11 @@ l10n.translations.en = {
       follows: 'Followings'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: 'Albums',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Workspaces'

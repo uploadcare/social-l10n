@@ -106,6 +106,11 @@ l10n.translations.zhTW = {
       follows: '追蹤'
     }
   },
+  gphotos: {
+    menu: {
+      myAlbums: '相簿',
+    }
+  },
   huddle: {
     menu: {
       workspaces: 'Workspaces'
