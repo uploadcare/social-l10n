@@ -33,6 +33,7 @@ l10n.translations.zh = {
     },
     lineB: '您只需要登录',
     button: '链接%source',
+    facebookButton: '继续使用 Facebook 登录',
     note: '我们将新开页面来链接您的%source账号',
     cookieWarning: '您的浏览器停用了第三方的cookies.' +
                    '授权需要<code>social.uploadcare.com</code>域名的cookies',

@@ -33,6 +33,7 @@ l10n.translations.es = {
     },
     lineB: 'Le facilitamos las cosas, solo tiene que iniciar sesión.',
     button: 'Conectarse a la %source',
+    facebookButton: 'Continuar con Facebook',
     note: 'Abriremos una nueva página para que se conecte a su cuenta %source.',
     cookieWarning: 'Tiene bloqueadas las cookies de terceros en su navegador. Se requiere autorización de cookies de terceros al menos para el dominio <code>social.uploadcare.com</code>.',
     cookieRetry: 'He desbloqueado las cookies y quiero intertarlo de nuevo.'

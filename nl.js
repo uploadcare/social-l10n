@@ -33,6 +33,7 @@ l10n.translations.nl = {
     },
     lineB: 'Login om je bestanden te kunnen zien.',
     button: 'Maak verbinding met %source',
+    facebookButton: 'Doorgaan met Facebook',
     note: 'Er wordt een verbinding gelegd met je %source account.',
     cookieWarning: 'Je hebt cookies van derden in je browser geblokkeerd. Voor autorisatie zijn minimaal cookies noodzakelijk voor het domein <code>social.uploadcare.com</code>.',
     cookieRetry: 'Ik heb de blokkade op de cookies opgeheven en wil het nogmaals proberen.'

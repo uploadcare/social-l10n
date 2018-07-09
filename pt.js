@@ -27,6 +27,7 @@ l10n.translations.pt = {
     },
     lineB: 'Nós jogamos limpo. Você só precisa fazer login.',
     button: 'Conectar ao %source',
+    facebookButton: 'Continuar com o Facebook',
     note: 'Nós abriremos uma nova página para conectar sua conta %source.'
   },
   pagination: {

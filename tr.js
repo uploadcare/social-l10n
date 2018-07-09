@@ -33,6 +33,7 @@ l10n.translations.tr = {
     },
     lineB: 'İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.',
     button: '%source\'a bağlan',
+    facebookButton: 'Facebook ile Devam Et',
     note: '%source hesabınıza bağlanmak için yeni bir sayfa açacağız.',
     cookieWarning: 'Tarayıcınızdaki üçüncü taraf çerezleri engellediniz. En azından <code>social.uploadcare.com</code> alanı için üçüncü taraf çerezlerine izin vermeniz gerekiyor.',
     cookieRetry: 'Çerezlerin engelini kaldırdım ve tekrar denemek istiyorum.'

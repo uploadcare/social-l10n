@@ -33,6 +33,7 @@ l10n.translations.it = {
     },
     lineB: 'Bel gioco. Devi fare il login.',
     button: 'Impossibile connettersi a %source',
+    facebookButton: 'Continua con Facebook',
     note: 'Apriremo una nuova pagina per collegare il tuo account %source.',
     cookieWarning: 'Hai bloccato i cookie di terzi nel tuo browser. L’autorizzazione richiede cookie di terzi almeno per il dominio <code>social.uploadcare.com</code>.',
     cookieRetry: 'Ho sbloccato i cookie e voglio riprovare.'

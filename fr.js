@@ -33,6 +33,7 @@ l10n.translations.fr = {
     },
     lineB: 'On s\'occupe de tout. Vous n\'avez qu\'à vous connecter.',
     button: 'Se connecter à %source',
+    facebookButton: 'Continuer avec Facebook',
     note: 'Nous allons ouvrir une nouvelle page pour vous connecter à votre compte %source.',
     cookieWarning: 'Vous avez bloqué les cookies tiers dans votre navigateur. ' +
       'Vous devez autoriser les cookies pour le domaine ' +
