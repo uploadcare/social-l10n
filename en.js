@@ -33,6 +33,7 @@ l10n.translations.en = {
     },
     lineB: 'We play nice. You just need to login.',
     button: 'Connect to %source',
+    facebookButton: 'Continue with Facebook',
     note: 'We will open a new page to connect your %source account.',
     cookieWarning: 'You have blocked third-party cookies in your browser. ' +
       'Authorization requires third-party cookies at least for ' +
