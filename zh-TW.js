@@ -33,6 +33,7 @@ l10n.translations.zhTW = {
     },
     lineB: '您只需要登入並連接您的帳號',
     button: '連接 %source',
+    facebookButton: '以 Facebook 帳號繼續',
     note: '我們將另開視窗協助您連結您的 %source account 帳號，若您使用iPhone或iPad但不是直接使用Safari或Chrome，第一次連接可能出現空白畫面，敬請見諒',
     cookieWarning: '您的瀏覽器已阻擋了第三方 Cookie 的使用 ' +
       '連接授權至少需要 ' +

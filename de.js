@@ -33,6 +33,7 @@ l10n.translations.de = {
     },
     lineB: 'Wir machen es Ihnen einfach. Sie brauchen sich nur anzumelden.',
     button: 'Verbinden mit %source',
+    facebookButton: 'Weiter mit Facebook',
     note: 'Wir öffnen eine neue Seite für die Verbindung mit Ihrem %source-Konto.',
     cookieWarning: 'Sie haben in Ihrem Browser Cookies von Drittanbietern blockiert. Die Autorisierung benötigt Cookies von Drittanbietern zumindest für die <code>social.uploadcare.com</code> Domain.',
     cookieRetry: 'Ich habe das Speichern von Cookies erlaubt und möchte es erneut versuchen.'
