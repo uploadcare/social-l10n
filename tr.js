@@ -27,7 +27,7 @@ l10n.translations.tr = {
       evernote: 'Evernote hesabınızdan dosya alın.',
       instagram: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
       flickr: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
-      facebook: 'Kendinizin veya arkadaşlarınızın albümlerinden resim alın.',
+      facebook: 'Kendinizin albümlerinden resim alın.',
       vk: 'Hesabınızdan fotoğraf veya belge alın.',
       gphotos: 'Google Photos fotoğraflarını dosya alın.'
     },
@@ -71,7 +71,6 @@ l10n.translations.tr = {
   facebook: {
     menu: {
       myAlbums: 'Albümlerim',
-      myFriends: 'Arkadaşlarım',
       likedPages: 'Sayfalar'
     }
   },

@@ -27,7 +27,7 @@ l10n.translations.it = {
       evernote: 'Ottieni file dal tuo account Evernote.',
       instagram: 'Ottieni le tue foto o quelle dei tuoi amici',
       flickr: 'Ottieni le tue foto o quelle dei tuoi amici',
-      facebook: 'Ottieni immagini dal tuo album o da quelli dei tuoi amici.',
+      facebook: 'Ottieni immagini dal tuo album.',
       vk: 'Ottieni foto e documenti dal tuo account.',
       gphotos: 'Ottieni immagini dal tuo account Google Photos.'
     },
@@ -71,7 +71,6 @@ l10n.translations.it = {
   facebook: {
     menu: {
       myAlbums: 'I miei album',
-      myFriends: 'I miei amici',
       likedPages: 'Pagine'
     }
   },

@@ -19,7 +19,7 @@ l10n.translations.pt = {
     lineA: {
       gdrive: 'Acesse arquivos da sua conta do Google.',
       dropbox: 'Acesse arquivos da sua conta do Dropbox.',
-      facebook: 'Acesse imagens dos seus álbuns ou dos álbuns de seus amigos.',
+      facebook: 'Acesse imagens dos seus álbuns.',
       instagram: 'Acessar fotos do seu perfil está mais fácil do que nunca.',
       vk: 'Acesse fotos e documentos da sua conta.',
       evernote: 'Acesse arquivos da sua conta do Evernote',
@@ -66,8 +66,7 @@ l10n.translations.pt = {
   },
   facebook: {
     menu: {
-      myAlbums: 'Meus Álbuns',
-      myFriends: 'Meus Amigos'
+      myAlbums: 'Meus Álbuns'
     }
   },
   vk: {
