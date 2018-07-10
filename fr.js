@@ -27,7 +27,7 @@ l10n.translations.fr = {
       evernote: 'Récupérer des fichiers depuis votre compte Evernote.',
       instagram: 'Récupérer vos photos ou celles de vos amis.',
       flickr: 'Récupérer vos photos ou celles de vos amis.',
-      facebook: 'Récupérer des images à partir de vos albums ou de ceux de vos amis.',
+      facebook: 'Récupérer des images à partir de vos albums.',
       vk: 'Récupérer vos photos et vos documents depuis votre compte.',
       gphotos: 'Récupérer vos photos depuis votre compte Google Photos.'
     },
@@ -73,7 +73,6 @@ l10n.translations.fr = {
   facebook: {
     menu: {
       myAlbums: 'Mes albums',
-      myFriends: 'Mes amis',
       likedPages: 'Pages'
     }
   },

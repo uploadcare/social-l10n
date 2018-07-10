@@ -27,7 +27,7 @@ l10n.translations.zh = {
       evernote: '从Evernote账号获取文件并上传',
       instagram: '上传自己或好友的照片',
       flickr: '上传自己或好友的照片',
-      facebook: '从自己或好友的相册里上传照片',
+      facebook: '从自己相册里上传照片',
       vk: '从VK账号上传照片和文件',
       gphotos: '从Google Photos账号上传照片'
     },
@@ -72,7 +72,6 @@ l10n.translations.zh = {
   facebook: {
     menu: {
       myAlbums: '我的相册',
-      myFriends: '我的好友',
       likedPages: '我点赞的主页'
     }
   },

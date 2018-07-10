@@ -27,7 +27,7 @@ l10n.translations.en = {
       evernote: 'Get files from your Evernote account.',
       instagram: 'Get your or your friend\'s photos.',
       flickr: 'Get your or your friend\'s photos.',
-      facebook: 'Get images from your or your friend\'s albums.',
+      facebook: 'Get images from your albums.',
       vk: 'Get photos and docs from your account.',
       gphotos: 'Get photos from your Google Photos account.'
     },
@@ -73,7 +73,6 @@ l10n.translations.en = {
   facebook: {
     menu: {
       myAlbums: 'My Albums',
-      myFriends: 'My Friends',
       likedPages: 'Pages'
     }
   },

@@ -27,7 +27,7 @@ l10n.translations.de = {
       evernote: 'Holen Sie Dateien aus Ihrem Evernote-Konto.',
       instagram: 'Holen Sie Ihre Fotos oder die Ihrer Freunde.',
       flickr: 'Holen Sie Ihre Fotos oder die Ihrer Freunde.',
-      facebook: 'Holen Sie Bilder aus Ihren Alben oder denen Ihrer Freunde.',
+      facebook: 'Holen Sie Bilder aus Ihren Alben.',
       vk: 'Holen Sie Fotos und Dokumente aus Ihrem Konto.',
       gphotos: 'Holen Fotos aus Ihrem Google Photos-Konto.'
     },
@@ -71,7 +71,6 @@ l10n.translations.de = {
   facebook: {
     menu: {
       myAlbums: 'Meine Alben',
-      myFriends: 'Meine Freunde',
       likedPages: 'Seiten'
     }
   },

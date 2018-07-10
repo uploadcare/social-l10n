@@ -27,7 +27,7 @@ l10n.translations.zhTW = {
       evernote: '從自己的 Evernote 帳號取得檔案並上傳',
       instagram: '從自己或好友的相簿上傳照片',
       flickr: '從自己或好友的相簿上傳照片',
-      facebook: '從自己或好友的相簿上傳照片',
+      facebook: '從自己相簿上傳照片',
       vk: '從自己的帳號上傳照片',
       gphotos: '從自己的 Google Photos雲端硬碟帳號取得檔案並上傳'
     },
@@ -73,7 +73,6 @@ l10n.translations.zhTW = {
   facebook: {
     menu: {
       myAlbums: '我的相簿',
-      myFriends: '我的好友',
       likedPages: '專頁'
     }
   },

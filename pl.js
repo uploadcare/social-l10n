@@ -73,7 +73,6 @@ l10n.translations.pl = {
   facebook: {
     menu: {
       myAlbums: 'Moje albumy',
-      myFriends: 'Moi znajomi',
       likedPages: 'Moje polubienia'
     }
   },

@@ -71,7 +71,6 @@ l10n.translations.nl = {
   facebook: {
     menu: {
       myAlbums: 'Mijn albums',
-      myFriends: 'Mijn vrienden',
       likedPages: 'Pagina\'s'
     }
   },
