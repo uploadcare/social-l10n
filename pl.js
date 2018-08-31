@@ -67,7 +67,12 @@ l10n.translations.pl = {
     menu: {
       myFiles: 'Moje pliki',
       shared: 'Udostępnione',
-      starred: 'Wyróżnione'
+      starred: 'Wyróżnione',
+      search: 'Szukaj'
+    },
+    search: {
+      placeholder: 'Przeszukaj pliki',
+      button: 'Szukaj'
     }
   },
   facebook: {

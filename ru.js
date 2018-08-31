@@ -67,7 +67,12 @@ l10n.translations.ru = {
     menu: {
       myFiles: 'Мои файлы',
       shared: 'Доступные мне',
-      starred: 'Избранное'
+      starred: 'Избранное',
+      search: 'Поиск'
+    },
+    search: {
+      placeholder: 'Искать файлы',
+      button: 'Искать'
     }
   },
   facebook: {

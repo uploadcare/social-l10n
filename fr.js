@@ -67,7 +67,12 @@ l10n.translations.fr = {
     menu: {
       myFiles: 'Mes fichiers',
       shared: 'Partagés avec moi',
-      starred: 'Favoris'
+      starred: 'Favoris',
+      search: 'Recherche'
+    },
+    search: {
+      placeholder: 'Rechercher des fichiers',
+      button: 'Rechercher'
     }
   },
   facebook: {

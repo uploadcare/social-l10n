@@ -65,7 +65,12 @@ l10n.translations.tr = {
     menu: {
       myFiles: 'Dosyalarım',
       shared: 'Benimle paylaşılanlar',
-      starred: 'Favoriler'
+      starred: 'Favoriler',
+      search: 'Arama'
+    },
+    search: {
+      placeholder: 'Dosyaları ara',
+      button: 'Arama'
     }
   },
   facebook: {

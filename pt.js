@@ -56,7 +56,12 @@ l10n.translations.pt = {
     menu: {
       myFiles: 'Meus Arquivos',
       shared: 'Compartilhados comigo',
-      starred: 'Com Estrela'
+      starred: 'Com Estrela',
+      search: 'Busca'
+    },
+    search: {
+      placeholder: 'Procurar por arquivos',
+      button: 'Buscar'
     }
   },
   gphotos: {

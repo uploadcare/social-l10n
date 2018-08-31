@@ -65,7 +65,12 @@ l10n.translations.es = {
     menu: {
       myFiles: 'Mis archivos',
       shared: 'Compartidos conmigo',
-      starred: 'Favoritos'
+      starred: 'Favoritos',
+      search: 'Buscar'
+    },
+    search: {
+      placeholder: 'Buscar archivos',
+      button: 'Buscar'
     }
   },
   facebook: {

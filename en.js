@@ -67,7 +67,12 @@ l10n.translations.en = {
     menu: {
       myFiles: 'My Files',
       shared: 'Shared with me',
-      starred: 'Starred'
+      starred: 'Starred',
+      search: 'Search',
+    },
+    search: {
+      placeholder: 'Search files',
+      button: 'Search'
     }
   },
   facebook: {

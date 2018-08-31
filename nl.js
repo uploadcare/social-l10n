@@ -65,7 +65,12 @@ l10n.translations.nl = {
     menu: {
       myFiles: 'Mijn bestanden',
       shared: 'Delt med mig',
-      starred: 'Met ster'
+      starred: 'Met ster',
+      search: 'Zoeken'
+    },
+    search: {
+      placeholder: 'Zoek naar bestanden',
+      button: 'Zoeken'
     }
   },
   facebook: {

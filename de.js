@@ -65,7 +65,12 @@ l10n.translations.de = {
     menu: {
       myFiles: 'Meine Dateien',
       shared: 'Für mich freigegeben',
-      starred: 'Favoriten'
+      starred: 'Favoriten',
+      search: 'Suche'
+    },
+    search: {
+      placeholder: 'Suchnotizen',
+      button: 'Suche'
     }
   },
   facebook: {
