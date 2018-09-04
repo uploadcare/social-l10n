@@ -67,7 +67,12 @@ l10n.translations.zhTW = {
     menu: {
       myFiles: '我的文件',
       shared: '與我共用',
-      starred: '已加星號'
+      starred: '已加星號',
+      search: '尋找'
+    },
+    search: {
+      placeholder: '搜索文件',
+      button: '尋找'
     }
   },
   facebook: {

@@ -65,7 +65,12 @@ l10n.translations.it = {
     menu: {
       myFiles: 'I miei file',
       shared: 'Condivisi con me',
-      starred: 'Stellato'
+      starred: 'Stellato',
+      search: 'Cerca'
+    },
+    search: {
+      placeholder: 'Cerca i file',
+      button: 'Cerca'
     }
   },
   facebook: {

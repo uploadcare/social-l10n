@@ -66,7 +66,12 @@ l10n.translations.zh = {
     menu: {
       myFiles: '我的文件',
       shared: '分享给我的文件',
-      starred: '关注的文件'
+      starred: '关注的文件',
+      search: '搜索'
+    },
+    search: {
+      placeholder: '搜索文件',
+      button: '搜索'
     }
   },
   facebook: {
