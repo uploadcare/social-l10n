@@ -46,6 +46,11 @@ l10n.translations.tr = {
       b: 'Tekrar deneyin'
     }
   },
+  dropbox: {
+    menu: {
+      team: 'Ekip dosyalarım'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: 'Fotoğraflarım',

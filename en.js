@@ -48,6 +48,11 @@ l10n.translations.en = {
       b: 'Try again'
     }
   },
+  dropbox: {
+    menu: {
+      team: 'My team files'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: 'My Photos',

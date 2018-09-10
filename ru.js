@@ -48,6 +48,11 @@ l10n.translations.ru = {
       b: 'Повторить попытку'
     }
   },
+  dropbox: {
+    menu: {
+      team: 'Файлы моей команды'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: 'Мои фото',

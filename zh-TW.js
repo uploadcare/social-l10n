@@ -48,6 +48,11 @@ l10n.translations.zhTW = {
       b: '重試'
     }
   },
+  dropbox: {
+    menu: {
+      team: '我的团队档案'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: '我的相片',
