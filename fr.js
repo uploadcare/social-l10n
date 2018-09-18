@@ -48,6 +48,11 @@ l10n.translations.fr = {
       b: 'Réessayer'
     }
   },
+  dropbox: {
+    menu: {
+      team: 'Mes fichiers d‘équipe'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: 'Mes Photos',

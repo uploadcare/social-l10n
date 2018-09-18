@@ -46,6 +46,11 @@ l10n.translations.es = {
       b: 'Vuelva a intentarlo'
     }
   },
+  dropbox: {
+    menu: {
+      team: 'Mis archivos de equipo'
+    }
+  },
   instagram: {
     menu: {
       myPhotos: 'Mis fotos',
