@@ -50,7 +50,8 @@ l10n.translations.zhTW = {
   },
   dropbox: {
     menu: {
-      team: '我的团队档案'
+      myFiles: '我的文件',
+      team: '团队文件'
     }
   },
   instagram: {

@@ -50,7 +50,8 @@ l10n.translations.en = {
   },
   dropbox: {
     menu: {
-      team: 'My team files'
+      myFiles: 'Files',
+      team: 'Team files'
     }
   },
   instagram: {

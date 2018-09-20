@@ -50,7 +50,8 @@ l10n.translations.fr = {
   },
   dropbox: {
     menu: {
-      team: 'Mes fichiers d‘équipe'
+      myFiles: 'Mes fichiers',
+      team: 'Fichiers d‘équipe'
     }
   },
   instagram: {

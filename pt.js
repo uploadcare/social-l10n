@@ -39,7 +39,8 @@ l10n.translations.pt = {
   },
   dropbox: {
     menu: {
-      team: 'Meus arquivos da equipe'
+      myFiles: 'Meus Arquivos',
+      team: 'Arquivos da equipe'
     }
   },
   instagram: {

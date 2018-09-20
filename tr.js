@@ -48,7 +48,8 @@ l10n.translations.tr = {
   },
   dropbox: {
     menu: {
-      team: 'Ekip dosyalarım'
+      myFiles: 'Dosyalarım',
+      team: 'Takım dosyaları'
     }
   },
   instagram: {

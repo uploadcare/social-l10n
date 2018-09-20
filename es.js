@@ -48,6 +48,7 @@ l10n.translations.es = {
   },
   dropbox: {
     menu: {
+      myFiles: 'Mis archivos',
       team: 'Mis archivos de equipo'
     }
   },

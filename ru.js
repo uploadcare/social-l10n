@@ -50,7 +50,8 @@ l10n.translations.ru = {
   },
   dropbox: {
     menu: {
-      team: 'Файлы моей команды'
+      myFiles: 'Мои файлы',
+      team: 'Файлы команды'
     }
   },
   instagram: {
