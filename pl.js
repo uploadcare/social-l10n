@@ -13,7 +13,7 @@ l10n.translations.pl = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
-    skydrive: 'OneDrive',
+    onedrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
