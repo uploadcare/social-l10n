@@ -67,6 +67,12 @@ l10n.translations.es = {
       account_is_private: 'Este usuario tiene una fuente privada'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Mis archivos',
+      shared: 'Compartidos conmigo'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Mis archivos',

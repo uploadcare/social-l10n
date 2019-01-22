@@ -67,6 +67,12 @@ l10n.translations.de = {
       account_is_private: 'Dieser Benutzer verfügt über einen eigenen Feed'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Meine Dateien',
+      shared: 'Für mich freigegeben'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Meine Dateien',

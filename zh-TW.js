@@ -69,6 +69,12 @@ l10n.translations.zhTW = {
       account_is_private: '此用户拥有一个私人饲料'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: '我的文件',
+      shared: '與我共用'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: '我的文件',

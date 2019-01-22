@@ -68,6 +68,12 @@ l10n.translations.zh = {
       account_is_private: '该用户的账户设置了隐私'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: '我的文件',
+      shared: '分享给我的文件'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: '我的文件',

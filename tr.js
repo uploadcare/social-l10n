@@ -67,6 +67,12 @@ l10n.translations.tr = {
       account_is_private: 'Bu kullanıcıya özel feed vardır'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Dosyalarım',
+      shared: 'Benimle paylaşılanlar'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Dosyalarım',

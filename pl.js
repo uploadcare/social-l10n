@@ -69,6 +69,12 @@ l10n.translations.pl = {
       account_is_private: 'Ten użytkownik ma prywatny kanał'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Moje pliki',
+      shared: 'Udostępnione'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Moje pliki',

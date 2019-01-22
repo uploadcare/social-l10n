@@ -69,6 +69,12 @@ l10n.translations.fr = {
       account_is_private: 'Cet utilisateur a une alimentation privée'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Mes fichiers',
+      shared: 'Partagés avec moi'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Mes fichiers',

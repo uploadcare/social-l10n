@@ -67,6 +67,12 @@ l10n.translations.nl = {
       account_is_private: 'Deze gebruiker heeft een eigen voeding'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Mijn bestanden',
+      shared: 'Delt med mig'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Mijn bestanden',

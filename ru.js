@@ -69,6 +69,12 @@ l10n.translations.ru = {
       account_is_private: 'Это приватный аккаунт'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Мои файлы',
+      shared: 'Доступные мне'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Мои файлы',
