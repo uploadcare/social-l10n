@@ -13,7 +13,7 @@ l10n.translations.es = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
-    onedrive: 'OneDrive',
+    skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
@@ -67,7 +67,7 @@ l10n.translations.es = {
       account_is_private: 'Este usuario tiene una fuente privada'
     }
   },
-  onedrive: {
+  skydrive: {
     menu: {
       myFiles: 'Mis archivos',
       shared: 'Compartidos conmigo'

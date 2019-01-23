@@ -13,7 +13,7 @@ l10n.translations.nl = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
-    onedrive: 'OneDrive',
+    skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
@@ -67,7 +67,7 @@ l10n.translations.nl = {
       account_is_private: 'Deze gebruiker heeft een eigen voeding'
     }
   },
-  onedrive: {
+  skydrive: {
     menu: {
       myFiles: 'Mijn bestanden',
       shared: 'Delt med mig'

@@ -13,7 +13,7 @@ l10n.translations.tr = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
-    onedrive: 'OneDrive',
+    skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
@@ -67,7 +67,7 @@ l10n.translations.tr = {
       account_is_private: 'Bu kullanıcıya özel feed vardır'
     }
   },
-  onedrive: {
+  skydrive: {
     menu: {
       myFiles: 'Dosyalarım',
       shared: 'Benimle paylaşılanlar'
