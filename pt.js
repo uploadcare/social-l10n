@@ -58,7 +58,7 @@ l10n.translations.pt = {
       account_is_private: 'Esse usuário tem um feed privado'
     }
   },
-  skydrive: {
+  onedrive: {
     menu: {
       myFiles: 'Meus Arquivos',
       shared: 'Compartilhados comigo'

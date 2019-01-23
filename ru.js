@@ -13,6 +13,7 @@ l10n.translations.ru = {
     vk: 'ВКонтакте',
     box: 'Box',
     evernote: 'Evernote',
+    onedrive: 'OneDrive',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
@@ -69,7 +70,7 @@ l10n.translations.ru = {
       account_is_private: 'Это приватный аккаунт'
     }
   },
-  skydrive: {
+  onedrive: {
     menu: {
       myFiles: 'Мои файлы',
       shared: 'Доступные мне'

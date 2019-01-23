@@ -13,6 +13,7 @@ l10n.translations.zhTW = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
+    onedrive: 'OneDrive',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
@@ -69,7 +70,7 @@ l10n.translations.zhTW = {
       account_is_private: '此用户拥有一个私人饲料'
     }
   },
-  skydrive: {
+  onedrive: {
     menu: {
       myFiles: '我的文件',
       shared: '與我共用'
