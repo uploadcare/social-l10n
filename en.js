@@ -14,6 +14,7 @@ l10n.translations.en = {
     box: 'Box',
     evernote: 'Evernote',
     skydrive: 'OneDrive',
+    onedrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
@@ -21,6 +22,7 @@ l10n.translations.en = {
   login: {
     title: 'Upload a file from %source',
     lineA: {
+      oneDrive: 'Get files from your OneDrive account.',
       gdrive: 'Get files from your Google account.',
       dropbox: 'Get files from your Dropbox account.',
       box: 'Get files from your Box account.',
@@ -67,6 +69,12 @@ l10n.translations.en = {
     },
     errors: {
       account_is_private: 'This user has a private feed'
+    }
+  },
+  onedrive: {
+    menu: {
+        myFiles: 'My Files',
+        shared: 'Shared with me'
     }
   },
   gdrive: {

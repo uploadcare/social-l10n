@@ -58,6 +58,12 @@ l10n.translations.pt = {
       account_is_private: 'Esse usuário tem um feed privado'
     }
   },
+  onedrive: {
+    menu: {
+      myFiles: 'Meus Arquivos',
+      shared: 'Compartilhados comigo'
+    }
+  },
   gdrive: {
     menu: {
       myFiles: 'Meus Arquivos',

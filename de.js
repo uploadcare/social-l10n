@@ -14,6 +14,7 @@ l10n.translations.de = {
     box: 'Box',
     evernote: 'Evernote',
     skydrive: 'OneDrive',
+    onedrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos'
@@ -65,6 +66,12 @@ l10n.translations.de = {
     },
     errors: {
       account_is_private: 'Dieser Benutzer verfügt über einen eigenen Feed'
+    }
+  },
+  onedrive: {
+    menu: {
+      myFiles: 'Meine Dateien',
+      shared: 'Für mich freigegeben'
     }
   },
   gdrive: {

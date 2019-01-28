@@ -13,6 +13,7 @@ l10n.translations.it = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
+    onedrive: 'OneDrive',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
@@ -65,6 +66,12 @@ l10n.translations.it = {
     },
     errors: {
       account_is_private: 'Questo utente ha un feed privato'
+    }
+  },
+  onedrive: {
+    menu: {
+      myFiles: 'I miei file',
+      shared: 'Condivisi con me'
     }
   },
   gdrive: {

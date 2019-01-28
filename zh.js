@@ -13,6 +13,7 @@ l10n.translations.zh = {
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
+    onedrive: 'OneDrive',
     skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
@@ -66,6 +67,12 @@ l10n.translations.zh = {
     },
     errors: {
       account_is_private: '该用户的账户设置了隐私'
+    }
+  },
+  onedrive: {
+    menu: {
+      myFiles: '我的文件',
+      shared: '分享给我的文件'
     }
   },
   gdrive: {
