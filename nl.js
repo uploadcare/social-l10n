@@ -125,6 +125,7 @@ l10n.translations.nl = {
   gphotos: {
     menu: {
       myAlbums: 'Albums',
+      myPhotos: 'Foto\'s'
     }
   },
   huddle: {

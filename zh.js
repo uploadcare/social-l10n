@@ -126,6 +126,7 @@ l10n.translations.zh = {
   gphotos: {
     menu: {
       myAlbums: '相册',
+      myPhotos: '我的照片'
     }
   },
   huddle: {

@@ -79,6 +79,7 @@ l10n.translations.pt = {
   gphotos: {
     menu: {
       myAlbums: 'Álbuns',
+      myPhotos: 'Fotos'
     }
   },
   facebook: {

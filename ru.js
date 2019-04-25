@@ -127,6 +127,7 @@ l10n.translations.ru = {
   gphotos: {
     menu: {
       myAlbums: 'Альбомы',
+      myPhotos: 'Фотографии',
     }
   },
   huddle: {

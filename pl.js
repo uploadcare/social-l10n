@@ -127,6 +127,7 @@ l10n.translations.pl = {
   gphotos: {
     menu: {
       myAlbums: 'Albumy',
+      myPhotos: 'Zdjęcia'
     }
   },
   huddle: {
