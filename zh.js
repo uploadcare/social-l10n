@@ -72,7 +72,10 @@ l10n.translations.zh = {
   onedrive: {
     menu: {
       myFiles: '我的文件',
-      shared: '分享给我的文件'
+      shared: '分享给我的文件',
+      sharepoint: 'SharePoint',
+      myDrives: '我的驱动器',
+      groups: '我的团队'
     }
   },
   gdrive: {

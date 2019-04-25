@@ -61,7 +61,10 @@ l10n.translations.pt = {
   onedrive: {
     menu: {
       myFiles: 'Meus Arquivos',
-      shared: 'Compartilhados comigo'
+      shared: 'Compartilhados comigo',
+      sharepoint: 'SharePoint',
+      myDrives: 'Meus drives',
+      groups: 'Meus grupos'
     }
   },
   gdrive: {

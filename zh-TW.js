@@ -73,7 +73,10 @@ l10n.translations.zhTW = {
   onedrive: {
     menu: {
       myFiles: '我的文件',
-      shared: '與我共用'
+      shared: '與我共用',
+      sharepoint: 'SharePoint',
+      myDrives: '我的驱动器',
+      groups: '我的团队'
     }
   },
   gdrive: {
