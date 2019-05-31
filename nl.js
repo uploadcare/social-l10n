@@ -71,7 +71,10 @@ l10n.translations.nl = {
   onedrive: {
     menu: {
       myFiles: 'Mijn bestanden',
-      shared: 'Delt med mig'
+      shared: 'Delt med mig',
+      sharepoint: 'SharePoint',
+      myDrives: 'Mijn drives',
+      groups: 'Mijn groepen'
     }
   },
   gdrive: {

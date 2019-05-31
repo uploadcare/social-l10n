@@ -71,7 +71,10 @@ l10n.translations.tr = {
   onedrive: {
     menu: {
       myFiles: 'Dosyalarım',
-      shared: 'Benimle paylaşılanlar'
+      shared: 'Benimle paylaşılanlar',
+      sharepoint: 'SharePoint',
+      myDrives: 'Sürücülerim',
+      groups: 'Benim grupları'
     }
   },
   gdrive: {
