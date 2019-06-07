@@ -82,7 +82,8 @@ l10n.translations.en = {
       myFiles: 'My Files',
       shared: 'Shared with me',
       starred: 'Starred',
-      search: 'Search'
+      search: 'Search',
+      teamDrives: 'Team drives'
     },
     search: {
       placeholder: 'Search files',
