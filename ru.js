@@ -84,7 +84,8 @@ l10n.translations.ru = {
       myFiles: 'Мои файлы',
       shared: 'Доступные мне',
       starred: 'Избранное',
-      search: 'Поиск'
+      search: 'Поиск',
+      teamDrives: 'Диски моей команды'
     },
     search: {
       placeholder: 'Искать файлы',
