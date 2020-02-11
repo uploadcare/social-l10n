@@ -152,7 +152,7 @@ l10n.translations.zhTW = {
 };
 
 // Pluralization rules taken from:
-// http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
+// https://unicode.org/cldr/charts/34/supplemental/language_plural_rules.html
 l10n.pluralize.zhTW = function (n) {
   return n === 1 ? 'one' : 'other';
 };

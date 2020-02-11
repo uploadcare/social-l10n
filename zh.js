@@ -150,7 +150,7 @@ l10n.translations.zh = {
 };
 
 // Pluralization rules taken from:
-// http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
+// https://unicode.org/cldr/charts/34/supplemental/language_plural_rules.html
 l10n.pluralize.zh = function (n) {
   return 'other';
 };
