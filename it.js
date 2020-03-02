@@ -33,7 +33,7 @@ l10n.translations.it = {
       gphotos: 'Ottieni immagini dal tuo account Google Photos.'
     },
     lineB: 'Bel gioco. Devi fare il login.',
-    button: 'Impossibile connettersi a %source',
+    button: 'Connetti con %source',
     facebookButton: 'Continua con Facebook',
     note: 'Apriremo una nuova pagina per collegare il tuo account %source.',
     cookieWarning: 'Hai bloccato i cookie di terzi nel tuo browser. L’autorizzazione richiede cookie di terzi almeno per il dominio <code>social.uploadcare.com</code>.',
