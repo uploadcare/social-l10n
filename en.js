@@ -10,6 +10,7 @@ l10n.translations.en = {
     dropbox: 'Dropbox',
     facebook: 'Facebook',
     instagram: 'Instagram',
+    instagram_graph_api: 'Instagram',
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
@@ -27,7 +28,8 @@ l10n.translations.en = {
       dropbox: 'Get files from your Dropbox account.',
       box: 'Get files from your Box account.',
       evernote: 'Get files from your Evernote account.',
-      instagram: 'Get your or your friend\'s photos.',
+      instagram: 'Get your photos.',
+      instagram_graph_api: 'Get your photos.',
       flickr: 'Get your or your friend\'s photos.',
       facebook: 'Get images from your albums.',
       vk: 'Get photos and docs from your account.',
@@ -59,16 +61,11 @@ l10n.translations.en = {
   instagram: {
     menu: {
       myPhotos: 'My Photos',
-      myLikes: 'My Likes',
-      myFollowings: 'Following',
-      search: 'Search'
-    },
-    search: {
-      placeholder: 'Search photos by hashtags',
-      button: 'Search'
-    },
-    errors: {
-      account_is_private: 'This user has a private feed'
+    }
+  },
+  instagram_graph_api: {
+    menu: {
+      myPhotos: 'My Photos',
     }
   },
   onedrive: {
