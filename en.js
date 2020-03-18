@@ -55,7 +55,12 @@ l10n.translations.en = {
   dropbox: {
     menu: {
       myFiles: 'Files',
-      team: 'Team files'
+      team: 'Team files',
+      search: 'Search files'
+    },
+    search: {
+      placeholder: 'Search files',
+      button: 'Search files'
     }
   },
   instagram: {
