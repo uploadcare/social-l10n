@@ -68,11 +68,6 @@ l10n.translations.en = {
       myPhotos: 'My Photos',
     }
   },
-  instagram_graph_api: {
-    menu: {
-      myPhotos: 'My Photos',
-    }
-  },
   onedrive: {
     menu: {
         myFiles: 'My files',
