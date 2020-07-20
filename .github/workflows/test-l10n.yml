@@ -25,13 +25,22 @@ jobs:
               repo: context.repo.repo
             });
 
-            const users = list.data.map(comment => comment.user)
+            const comment = list.data.map(comment => comment.user.login === 'github-actions[bot]' && comment.user.type === 'Bot')
 
-            console.log(users)
-
-            await github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '**L10N stats**:\n\n' + info
-            })
+            if (comment) {
+              console.log('update comment', comment.id);
+              await github.issues.updateComment({
+                comment_id: comment.id,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '**L10N stats**:\n\n' + info
+              });
+            } else {
+              console.log('create new comment');
+              await github.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '**L10N stats**:\n\n' + info
+              })
+            }
