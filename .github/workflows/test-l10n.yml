@@ -25,7 +25,7 @@ jobs:
               repo: context.repo.repo
             });
 
-            const comment = list.data.map(comment => comment.user.login === 'github-actions[bot]' && comment.user.type === 'Bot')
+            const comment = list.data.find(comment => comment.user.login === 'github-actions[bot]' && comment.user.type === 'Bot')
 
             if (comment) {
               console.log('update comment', comment.id);
