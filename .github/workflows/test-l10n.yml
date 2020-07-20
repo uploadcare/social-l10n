@@ -10,17 +10,15 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
 
-      - name: "run diff script"
-        run: echo ::set-env name=DIFF::$(node ./scripts/compare.js)
+      - name: "run script and comment"
+        script: |
+          const path = require('path')
+          const scriptPath = path.resolve('scripts/compare.js')
+          const info = await require(scriptPath)
 
-      - name: "add comment"
-        uses: actions/github-script@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: 'L10N stats:\n\n\${{ env.DIFF }}'
-            })
+          await github.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'L10N stats:\n\n' + info
+          })

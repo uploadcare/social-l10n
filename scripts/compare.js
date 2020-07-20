@@ -65,14 +65,18 @@ var deepDiff = (function () {
     return diff;
   };
 
-  const pluralizeRegex = /(one|other|few)$/
-  const last = arr => arr[arr.length - 1]
+  const pluralizeRegex = /(one|other|few)$/;
+  const last = (arr) => arr[arr.length - 1];
 
   const compare = function (obj1, obj2) {
     const diff = map(obj1, obj2);
     return diff
-      .filter(({ result, path }) => last(path).search(pluralizeRegex) && result !== VALUE_OK)
-      .map(({ path, result }) => `'${path.join(".")}' is ${result}`).join('\n');
+      .filter(
+        ({ result, path }) =>
+          last(path).search(pluralizeRegex) && result !== VALUE_OK
+      )
+      .map(({ path, result }) => `'${path.join(".")}' is ${result}`)
+      .join("\n");
   };
 
   return {
@@ -80,7 +84,7 @@ var deepDiff = (function () {
   };
 })();
 
-readdir(directoryPath)
+module.exports = () => readdir(directoryPath)
   .then((files) =>
     Promise.all(files.map((file) => lstat(file).then((stat) => [file, stat])))
   )
@@ -103,18 +107,14 @@ readdir(directoryPath)
   .then((infos) => {
     var reference = infos.find((info) => info[0] === "en.js");
 
-    return [
-      reference[1](),
-      infos.filter((info) => info[0] !== reference[0]),
-    ];
+    return [reference[1](), infos.filter((info) => info[0] !== reference[0])];
   })
-  .then(([ref, tests]) => {
-    tests.forEach(([path, exec]) => {
-      const result = deepDiff.compare(ref, exec())
+  .then(([ref, tests]) =>
+    tests.map(([path, exec]) => {
+      const result = deepDiff.compare(ref, exec());
 
-      console.log(`file — ${path}:\n\n${result}\n\n\n`)
+      return `file — ${path}:\n\n${result}\n\n\n`;
     })
-
-    
-  })
+  )
+  .then((rows) => rows.join(""))
   .catch(console.err);
