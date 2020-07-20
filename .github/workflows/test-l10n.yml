@@ -1,0 +1,26 @@
+name: test l10n
+
+on: [pull_request]
+
+jobs:
+  test:
+    name: setup node and test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+
+      - name: "run diff script"
+        run: echo ::set-env name=DIFF::$(node ./scripts/compare.js)
+
+      - name: "add comment"
+        uses: actions/github-script@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'L10N stats:\n\n${{ env.DIFF }}'
+            })
