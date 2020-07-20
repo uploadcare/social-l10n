@@ -19,6 +19,14 @@ jobs:
             const scriptPath = path.resolve('scripts/compare.js')
             const info = await require(scriptPath)()
 
+            const list = await octokit.issues.listComments({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            });
+
+            console.log(list)
+
             await github.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
