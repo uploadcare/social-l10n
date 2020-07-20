@@ -11,14 +11,17 @@ jobs:
       - uses: actions/setup-node@v1
 
       - name: "run script and comment"
-        script: |
-          const path = require('path')
-          const scriptPath = path.resolve('scripts/compare.js')
-          const info = await require(scriptPath)
+      uses: actions/github-script@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const path = require('path')
+            const scriptPath = path.resolve('scripts/compare.js')
+            const info = await require(scriptPath)
 
-          await github.issues.createComment({
-            issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            body: 'L10N stats:\n\n' + info
-          })
+            await github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'L10N stats:\n\n' + info
+            })
