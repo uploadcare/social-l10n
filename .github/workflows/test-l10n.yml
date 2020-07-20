@@ -1,0 +1,46 @@
+name: test l10n
+
+on: [pull_request]
+
+jobs:
+  test:
+    name: setup node and test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+
+      - name: "run script and comment"
+        uses: actions/github-script@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const path = require('path')
+            const scriptPath = path.resolve('scripts/compare.js')
+            const info = await require(scriptPath)()
+
+            const list = await github.issues.listComments({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            });
+
+            const comment = list.data.find(comment => comment.user.login === 'github-actions[bot]' && comment.user.type === 'Bot')
+
+            if (comment) {
+              console.log('update comment', comment.id);
+              await github.issues.updateComment({
+                comment_id: comment.id,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '**L10N stats**:\n\n' + info
+              });
+            } else {
+              console.log('create new comment');
+              await github.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '**L10N stats**:\n\n' + info
+              })
+            }
