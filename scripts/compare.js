@@ -84,37 +84,50 @@ var deepDiff = (function () {
   };
 })();
 
-module.exports = () => readdir(directoryPath)
-  .then((files) =>
-    Promise.all(files.map((file) => lstat(file).then((stat) => [file, stat])))
-  )
-  .then((stats) =>
-    stats.filter(
-      ([file, stat]) => stat.isFile() && path.extname(file) === ".js"
+module.exports = () =>
+  readdir(directoryPath)
+    .then((files) =>
+      Promise.all(files.map((file) => lstat(file).then((stat) => [file, stat])))
     )
-  )
-  .then((stats) => stats.map(([path]) => path))
-  .then((paths) =>
-    Promise.all(
-      paths.map((path) =>
-        readFile(path).then((content) => [
-          path,
-          contentToFn(content.toString("utf-8")),
-        ])
+    .then((stats) =>
+      stats.filter(
+        ([file, stat]) => stat.isFile() && path.extname(file) === ".js"
       )
     )
-  )
-  .then((infos) => {
-    var reference = infos.find((info) => info[0] === "en.js");
+    .then((stats) => stats.map(([path]) => path))
+    .then((paths) =>
+      Promise.all(
+        paths.map((path) =>
+          readFile(path).then((content) => [
+            path,
+            contentToFn(content.toString("utf-8")),
+          ])
+        )
+      )
+    )
+    .then((infos) => {
+      var reference = infos.find((info) => info[0] === "en.js");
 
-    return [reference[1](), infos.filter((info) => info[0] !== reference[0])];
-  })
-  .then(([ref, tests]) =>
-    tests.map(([path, exec]) => {
-      const result = deepDiff.compare(ref, exec());
-
-      return `file — ${path}:\n\n${result}\n\n\n`;
+      return [reference[1](), infos.filter((info) => info[0] !== reference[0])];
     })
-  )
-  .then((rows) => rows.join(""))
-  .catch(console.err);
+    .then(([ref, tests]) =>
+      tests.map(([path, exec]) => {
+        const result = deepDiff.compare(ref, exec());
+
+        return result && `
+<details>
+  <summary>
+    <strong>${path}</strong>
+  </summary>
+
+\`\`\`
+${result}
+\`\`\` 
+
+</details>
+
+`;
+      })
+    )
+    .then((rows) => rows.join(""))
+    .catch(console.err);
