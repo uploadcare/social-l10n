@@ -25,7 +25,9 @@ jobs:
               repo: context.repo.repo
             });
 
-            console.log(list)
+            const users = list.data.map(comment => comment.user)
+
+            console.log(users)
 
             await github.issues.createComment({
               issue_number: context.issue.number,
