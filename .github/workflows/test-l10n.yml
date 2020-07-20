@@ -17,7 +17,7 @@ jobs:
           script: |
             const path = require('path')
             const scriptPath = path.resolve('scripts/compare.js')
-            const info = await require(scriptPath)
+            const info = await require(scriptPath)()
 
             await github.issues.createComment({
               issue_number: context.issue.number,
