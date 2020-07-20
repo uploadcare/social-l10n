@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v1
 
       - name: "run script and comment"
-      uses: actions/github-script@v2
+        uses: actions/github-script@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
