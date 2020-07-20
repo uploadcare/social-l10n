@@ -56,17 +56,7 @@ l10n.translations.tr = {
   instagram: {
     menu: {
       myPhotos: 'Fotoğraflarım',
-      myLikes: 'Beğenilerim',
-      myFollowings: 'Takip Ettiklerim',
-      search: 'Arama'
     },
-    search: {
-      placeholder: 'Hashtag\'lerle fotoğraf arma',
-      button: 'Arama'
-    },
-    errors: {
-      account_is_private: 'Bu kullanıcıya özel feed vardır'
-    }
   },
   onedrive: {
     menu: {

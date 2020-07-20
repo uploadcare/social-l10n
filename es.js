@@ -56,17 +56,7 @@ l10n.translations.es = {
   instagram: {
     menu: {
       myPhotos: 'Mis fotos',
-      myLikes: 'Mis Likes',
-      myFollowings: 'Mis Followings',
-      search: 'Buscar'
     },
-    search: {
-      placeholder: 'Buscar fotos por hashtags',
-      button: 'Buscar'
-    },
-    errors: {
-      account_is_private: 'Este usuario tiene una fuente privada'
-    }
   },
   onedrive: {
     menu: {

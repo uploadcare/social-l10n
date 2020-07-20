@@ -23,18 +23,8 @@ l10n.translations.uk = {
     },
     instagram: {
         menu: {
-            myPhotos: 'Мої фото',
-            myLikes: 'Мені подобається',
-            myFollowings: 'Мої підписки',
-            search: 'Пошук'
+            myPhotos: 'Мої фото'
         },
-        search: {
-            placeholder: 'Шукати фотографії за хештегом',
-            button: 'Пошук'
-        },
-        errors: {
-            account_is_private: 'Це приватний акаунт'
-        }
     },
     // pluralization example
     files: {

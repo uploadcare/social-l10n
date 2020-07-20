@@ -56,17 +56,7 @@ l10n.translations.de = {
   instagram: {
     menu: {
       myPhotos: 'Meine Fotos',
-      myLikes: 'Meine Likes',
-      myFollowings: 'Meine Followings',
-      search: 'Suche'
     },
-    search: {
-      placeholder: 'Suche Fotos nach Hashtags',
-      button: 'Suche'
-    },
-    errors: {
-      account_is_private: 'Dieser Benutzer verfügt über einen eigenen Feed'
-    }
   },
   onedrive: {
     menu: {

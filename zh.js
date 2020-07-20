@@ -56,18 +56,8 @@ l10n.translations.zh = {
   },
   instagram: {
     menu: {
-      myPhotos: '我的照片',
-      myLikes: '我点赞的照片',
-      myFollowings: '我关注的用户',
-      search: '搜索'
+      myPhotos: '我的照片'
     },
-    search: {
-      placeholder: '用hashtag搜索照片',
-      button: '搜索'
-    },
-    errors: {
-      account_is_private: '该用户的账户设置了隐私'
-    }
   },
   onedrive: {
     menu: {

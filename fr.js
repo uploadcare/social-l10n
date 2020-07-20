@@ -58,17 +58,7 @@ l10n.translations.fr = {
   instagram: {
     menu: {
       myPhotos: 'Mes Photos',
-      myLikes: 'Mes Likes',
-      myFollowings: 'Mes Followings',
-      search: 'Recherche'
     },
-    search: {
-      placeholder: 'Rechercher les photos par hashtags',
-      button: 'Rechercher'
-    },
-    errors: {
-      account_is_private: 'Cet utilisateur a une alimentation privée'
-    }
   },
   onedrive: {
     menu: {
