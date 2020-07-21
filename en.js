@@ -23,7 +23,7 @@ l10n.translations.en = {
   login: {
     title: 'Upload a file from %source',
     lineA: {
-      oneDrive: 'Get files from your OneDrive account.',
+      onedrive: 'Get files from your OneDrive account.',
       gdrive: 'Get files from your Google account.',
       dropbox: 'Get files from your Dropbox account.',
       box: 'Get files from your Box account.',
