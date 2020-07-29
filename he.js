@@ -10,7 +10,6 @@ l10n.translations.he = {
     dropbox: 'Dropbox',
     facebook: 'Facebook',
     instagram: 'Instagram',
-    instagram_graph_api: 'Instagram',
     vk: 'VK',
     box: 'Box',
     evernote: 'Evernote',
@@ -38,7 +37,7 @@ l10n.translations.he = {
     lineB: 'רק נשאר להתחבר למשתמש שלכם.',
     button: 'התחבר ל %source',
     facebookButton: 'להמשיך עם פייסבוק',
-    הערה: 'אנו נפתח דף חדש כדי לחבר %source account.',
+    note: 'אנו נפתח דף חדש לחיבור חשבון ה- %source שלך.',
     cookieWarning: 'חסמת קבצי קוקיס של צד שלישי בדפדפןשלך. ' +
       'הרשאה דורשת קובצי cookie של צד שלישי לפחות עבור ' +
       '<code>social.uploadcare.com</code> שם דומיין.',
