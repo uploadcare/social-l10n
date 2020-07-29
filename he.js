@@ -22,7 +22,7 @@ l10n.translations.he = {
   login: {
     title: 'העלו את תמונתכם %source',
     lineA: {
-      oneDrive: 'קבל קבצים מחשבון OneDrive שלך.',
+      onedrive: 'קבל קבצים מחשבון OneDrive שלך.',
       gdrive: 'קבל קבצים מחשבון גוגל.',
       dropbox: 'קבל קבצים מחשבון דרופבוקס.',
       box: 'קבל קבצים מחשבון Box שלך.',
