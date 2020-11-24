@@ -22,6 +22,7 @@ l10n.translations.de = {
   login: {
     title: 'Hochladen einer Datei von %source',
     lineA: {
+      onedrive: 'Holen Sie Dateien aus Ihrem OneDrive-Konto.',
       gdrive: 'Holen Sie Dateien aus Ihrem Google-Konto.',
       dropbox: 'Holen Sie Dateien aus Ihrem Dropbox-Konto.',
       box: 'Holen Sie Dateien aus Ihrem Box-Konto.',

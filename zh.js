@@ -22,6 +22,7 @@ l10n.translations.zh = {
   login: {
     title: '从%source上传文件',
     lineA: {
+      onedrive: '从OneDrive账号获取文件并上传',
       gdrive: '从Google账号获取文件并上传',
       dropbox: '从Dropbox账号获取文件并上传',
       box: '从Box账号获取文件并上传',
