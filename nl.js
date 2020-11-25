@@ -57,17 +57,7 @@ l10n.translations.nl = {
   instagram: {
     menu: {
       myPhotos: 'Mijn foto\'s',
-      myLikes: 'Mijn likes',
-      myFollowings: 'Mijn volgers',
-      search: 'Zoeken'
     },
-    search: {
-      placeholder: 'Zoek op hashtag',
-      button: 'Zoeken'
-    },
-    errors: {
-      account_is_private: 'Deze gebruiker heeft een eigen voeding'
-    }
   },
   onedrive: {
     menu: {

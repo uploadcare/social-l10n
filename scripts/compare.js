@@ -65,7 +65,7 @@ var deepDiff = (function () {
     return diff;
   };
 
-  const pluralizeRegex = /(one|other|few)$/;
+  const pluralizeRegex = /(one|other|few|many)$/;
   const last = (arr) => arr[arr.length - 1];
 
   const compare = function (obj1, obj2) {

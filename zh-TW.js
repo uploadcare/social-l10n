@@ -58,18 +58,8 @@ l10n.translations.zhTW = {
   },
   instagram: {
     menu: {
-      myPhotos: '我的相片',
-      myLikes: '我喜歡的',
-      myFollowings: '我正在追蹤的',
-      search: '尋找'
+      myPhotos: '我的相片'
     },
-    search: {
-      placeholder: '從 hashtags 尋找照片',
-      button: '尋找'
-    },
-    errors: {
-      account_is_private: '此用户拥有一个私人饲料'
-    }
   },
   onedrive: {
     menu: {

@@ -58,18 +58,8 @@ l10n.translations.ru = {
   },
   instagram: {
     menu: {
-      myPhotos: 'Мои фото',
-      myLikes: 'Избранное',
-      myFollowings: 'Подписки',
-      search: 'Поиск'
+      myPhotos: 'Мои фото'
     },
-    search: {
-      placeholder: 'Искать фотографии по хеш-тегу',
-      button: 'Искать'
-    },
-    errors: {
-      account_is_private: 'Это приватный аккаунт'
-    }
   },
   onedrive: {
     menu: {
