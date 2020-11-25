@@ -22,6 +22,7 @@ l10n.translations.it = {
   login: {
     title: 'Carica un file da %source',
     lineA: {
+      onedrive: 'Ottieni file dal tuo account OneDrive.',
       gdrive: 'Ottieni file dal tuo account Google.',
       dropbox: 'Ottieni file dal tuo account Dropbox.',
       box: 'Ottieni file dal tuo account Dropbox.',

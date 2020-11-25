@@ -22,6 +22,7 @@ l10n.translations.tr = {
   login: {
     title: '%source kaynağından bir dosya yükleyin',
     lineA: {
+      onedrive: 'OneDrive hesabınızdan dosya alın.',
       gdrive: 'Google hesabınızdan dosya alın.',
       dropbox: 'Dropbox hesabınızdan dosya alın.',
       box: 'Box hesabınızdan dosya alın.',

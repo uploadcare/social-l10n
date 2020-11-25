@@ -22,6 +22,7 @@ l10n.translations.fr = {
   login: {
     title: 'Envoyer un fichier depuis %source',
     lineA: {
+      onedrive: 'Récupérer des fichiers depuis votre compte OneDrive.',
       gdrive: 'Récupérer des fichiers depuis votre compte Google.',
       dropbox: 'Récupérer des fichiers depuis votre compte Dropbox.',
       box: 'Récupérer des fichiers depuis votre compte Box.',

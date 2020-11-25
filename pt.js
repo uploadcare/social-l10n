@@ -17,8 +17,10 @@ l10n.translations.pt = {
   login: {
     title: 'Faça upload de um arquivo do %source',
     lineA: {
+      onedrive: 'Acesse arquivos da sua conta do OneDrive.',
       gdrive: 'Acesse arquivos da sua conta do Google.',
       dropbox: 'Acesse arquivos da sua conta do Dropbox.',
+      box: 'Acesse arquivos da sua conta do Box.',
       facebook: 'Acesse imagens dos seus álbuns.',
       instagram: 'Acessar fotos do seu perfil está mais fácil do que nunca.',
       vk: 'Acesse fotos e documentos da sua conta.',
