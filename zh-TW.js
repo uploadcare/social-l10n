@@ -22,6 +22,7 @@ l10n.translations.zhTW = {
   login: {
     title: '從我的 %source 上傳',
     lineA: {
+      onedrive: '從自己的 OneDrive 雲端硬碟帳號取得檔案並上傳',
       gdrive: '從自己的 Google雲端硬碟帳號取得檔案並上傳',
       dropbox: '從自己的 Dropbox 帳號取得檔案並上傳',
       box: '從自己的 Box 帳號取得檔案並上傳',

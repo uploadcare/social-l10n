@@ -22,6 +22,7 @@ l10n.translations.nl = {
   login: {
     title: 'Upload een bestand van %source',
     lineA: {
+      onedrive: 'Upload vanuit je OneDrive',
       gdrive: 'Upload vanuit je Google Drive',
       dropbox: 'Upload vanuit je Dropbox',
       box: 'Upload vanuit je Box account',

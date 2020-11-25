@@ -22,6 +22,7 @@ l10n.translations.es = {
   login: {
     title: 'Cargue un archivo desde %source',
     lineA: {
+      onedrive: 'Obtenga archivos desde su cuenta de OneDrive.',
       gdrive: 'Obtenga archivos desde su cuenta de Google.',
       dropbox: 'Obtenga archivos desde su cuenta de Dropbox.',
       box: 'Obtenga archivos desde su cuenta de Box.',

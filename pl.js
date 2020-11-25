@@ -22,6 +22,7 @@ l10n.translations.pl = {
   login: {
     title: 'Skorzystaj z konta %source',
     lineA: {
+      onedrive: 'Wybierz pliki ze swojego konta OneDrive.',
       gdrive: 'Wybierz pliki ze swojego konta Google Drive.',
       dropbox: 'Wybierz pliki ze swojego konta Dropbox.',
       box: 'Wybierz pliki ze swojego konta Box.',
