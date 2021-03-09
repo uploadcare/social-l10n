@@ -22,16 +22,16 @@ l10n.translations.fr = {
   login: {
     title: 'Envoyer un fichier depuis %source',
     lineA: {
-      onedrive: 'Récupérer des fichiers depuis votre compte OneDrive.',
-      gdrive: 'Récupérer des fichiers depuis votre compte Google.',
-      dropbox: 'Récupérer des fichiers depuis votre compte Dropbox.',
-      box: 'Récupérer des fichiers depuis votre compte Box.',
-      evernote: 'Récupérer des fichiers depuis votre compte Evernote.',
-      instagram: 'Récupérer vos photos ou celles de vos amis.',
-      flickr: 'Récupérer vos photos ou celles de vos amis.',
-      facebook: 'Récupérer des images à partir de vos albums.',
-      vk: 'Récupérer vos photos et vos documents depuis votre compte.',
-      gphotos: 'Récupérer vos photos depuis votre compte Google Photos.'
+      onedrive: 'Récupérez des fichiers depuis votre compte OneDrive.',
+      gdrive: 'Récupérez des fichiers depuis votre compte Google.',
+      dropbox: 'Récupérez des fichiers depuis votre compte Dropbox.',
+      box: 'Récupérez des fichiers depuis votre compte Box.',
+      evernote: 'Récupérez des fichiers depuis votre compte Evernote.',
+      instagram: 'Récupérez vos photos ou celles de vos amis.',
+      flickr: 'Récupérez vos photos ou celles de vos amis.',
+      facebook: 'Récupérez des images à partir de vos albums.',
+      vk: 'Récupérez vos photos et vos documents depuis votre compte.',
+      gphotos: 'Récupérez vos photos depuis votre compte Google Photos.'
     },
     lineB: 'On s\'occupe de tout. Vous n\'avez qu\'à vous connecter.',
     button: 'Se connecter à %source',
