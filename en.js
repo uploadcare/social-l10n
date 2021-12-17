@@ -17,7 +17,8 @@ l10n.translations.en = {
     onedrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
-    gphotos: 'Google Photos'
+    gphotos: 'Google Photos',
+    nft: 'NFT',
   },
   login: {
     title: 'Upload a file from %source',
@@ -31,7 +32,8 @@ l10n.translations.en = {
       flickr: 'Get your or your friend\'s photos.',
       facebook: 'Get images from your albums.',
       vk: 'Get photos and docs from your account.',
-      gphotos: 'Get photos from your Google Photos account.'
+      gphotos: 'Get photos from your Google Photos account.',
+      nft: 'Get files from your NFT assets.',
     },
     lineB: 'We play nice. You just need to login.',
     button: 'Connect to %source',
@@ -133,6 +135,15 @@ l10n.translations.en = {
   huddle: {
     menu: {
       workspaces: 'Workspaces'
+    }
+  },
+  nft: {
+    menu: {
+      owner: 'Owner address'
+    },
+    assets: {
+      placeholder: 'Owner address',
+      button: 'Show'
     }
   },
   // pluralization example
