@@ -17,7 +17,8 @@ l10n.translations.ru = {
     skydrive: 'OneDrive',
     flickr: 'Flickr',
     huddle: 'Huddle',
-    gphotos: 'Google Photos'
+    gphotos: 'Google Photos',
+    nft: 'NFT'
   },
   login: {
     title: 'Выбор файлов из %source',
@@ -31,7 +32,8 @@ l10n.translations.ru = {
       flickr: 'Вы сможете выбрать свои фотографии<br> и фотографии друзей.',
       facebook: 'Вы сможете выбрать фотографии из своих альбомов.',
       vk: 'Вы сможете выбрать фотографии<br> и документы из своего аккаунта.',
-      gphotos: 'Вы сможете выбрать свои фотографии.'
+      gphotos: 'Вы сможете выбрать свои фотографии.',
+      nft: 'Вы сможете выбрать свои файлы.'
     },
     button: 'Войти через %source',
     facebookButton: 'Продолжить с Facebook',
@@ -128,6 +130,11 @@ l10n.translations.ru = {
   huddle: {
     menu: {
       workspaces: 'Пространства'
+    }
+  },
+  nft: {
+    menu: {
+      myAssets: 'Мои ассеты'
     }
   },
   files: {
