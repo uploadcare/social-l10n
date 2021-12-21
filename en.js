@@ -33,7 +33,7 @@ l10n.translations.en = {
       facebook: 'Get images from your albums.',
       vk: 'Get photos and docs from your account.',
       gphotos: 'Get photos from your Google Photos account.',
-      nft: 'Get files from your NFT assets.',
+      nft: 'Get files from your NFT assets.'
     },
     lineB: 'We play nice. You just need to login.',
     button: 'Connect to %source',
