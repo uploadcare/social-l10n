@@ -18,7 +18,7 @@ l10n.translations.en = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
+    nft: 'NFT'
   },
   login: {
     title: 'Upload a file from %source',
