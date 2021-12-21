@@ -18,7 +18,7 @@ l10n.translations.ru = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
+    nft: 'NFT'
   },
   login: {
     title: 'Выбор файлов из %source',
