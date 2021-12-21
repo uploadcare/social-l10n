@@ -139,12 +139,8 @@ l10n.translations.en = {
   },
   nft: {
     menu: {
-      owner: 'Owner address'
+      myAssets: 'My Assets'
     },
-    assets: {
-      placeholder: 'Owner address',
-      button: 'Show'
-    }
   },
   // pluralization example
   files: {

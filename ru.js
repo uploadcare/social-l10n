@@ -134,11 +134,7 @@ l10n.translations.ru = {
   },
   nft: {
     menu: {
-      owner: 'Адрес владельца'
-    },
-    assets: {
-      placeholder: 'Адрес владельца',
-      button: 'Показать'
+      myAssets: 'Мои ассеты'
     }
   },
   files: {
