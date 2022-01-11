@@ -18,7 +18,8 @@ l10n.translations.en = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT'
+    nft: 'NFT',
+    unsplash: 'Unsplash'
   },
   login: {
     title: 'Upload a file from %source',
@@ -144,6 +145,16 @@ l10n.translations.en = {
     },
     assets: {
       button: 'Show'
+    }
+  },
+  unsplash: {
+    menu: {
+      editorial: 'Editorial',
+      search: 'Search'
+    },
+    search: {
+      placeholder: 'Search photos',
+      button: 'Search'
     }
   },
   // pluralization example

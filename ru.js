@@ -18,7 +18,8 @@ l10n.translations.ru = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT'
+    nft: 'NFT',
+    unsplash: 'Unsplash'
   },
   login: {
     title: 'Выбор файлов из %source',
@@ -139,6 +140,16 @@ l10n.translations.ru = {
     },
     assets: {
       button: 'Показать'
+    }
+  },
+  unsplash: {
+    menu: {
+      editorial: 'Editorial',
+      search: 'Поиск'
+    },
+    search: {
+      placeholder: 'Искать фотографии',
+      button: 'Искать'
     }
   },
   files: {
