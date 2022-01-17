@@ -144,7 +144,7 @@ l10n.translations.ru = {
   },
   unsplash: {
     menu: {
-      editorial: 'Editorial',
+      editorial: 'Выбор редакции',
       search: 'Поиск'
     },
     search: {
