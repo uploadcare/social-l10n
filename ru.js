@@ -145,11 +145,39 @@ l10n.translations.ru = {
   unsplash: {
     menu: {
       editorial: 'Выбор редакции',
-      search: 'Поиск'
+      search: 'Поиск',
+      random: 'Случайная фотография'
     },
     search: {
       placeholder: 'Искать фотографии',
       button: 'Искать'
+    },
+    filters: {
+      orientation: {
+        any: 'Любая ориентация',
+        landscape: 'Альбомная',
+        portrait: 'Портретная',
+        squarish: 'Квадратная'
+      },
+      content_safety: {
+        any: 'Безопасность контента по умолчанию',
+        low: 'Низкая',
+        high: 'Высокая'
+      },
+      color: {
+        any: 'Любой цвет',
+        black_and_white: 'Черно-белый',
+        black: 'Черный',
+        white: 'Белый',
+        yellow: 'Желтый',
+        orange: 'Оранжевый',
+        red: 'Красный',
+        purple: 'Фиолетовый',
+        magenta: 'Пурпурный',
+        green: 'Зеленый',
+        teal: 'Бирюзовый',
+        blue: 'Синий'
+      }
     }
   },
   files: {
