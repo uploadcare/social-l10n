@@ -1,5 +1,6 @@
 l10n.translations.en = {
   logout: 'Log out',
+  disconnect: 'Disconnect from',
   error: {
     a: 'Something went wrong. Please',
     b: 'reload',
