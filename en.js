@@ -1,6 +1,6 @@
 l10n.translations.en = {
   logout: 'Log out',
-  disconnect: 'Disconnect from',
+  disconnect: 'Revoke access',
   error: {
     a: 'Something went wrong. Please',
     b: 'reload',
