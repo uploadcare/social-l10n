@@ -139,7 +139,14 @@ l10n.translations.zhTW = {
       title: '名稱',
       size: '大小'
     }
-  }
+  },
+  search: {
+    empty: '資料夾是空的',
+    noResult: '沒有結果',
+    retry: '請輸入搜尋查詢',
+    placeholder: '搜尋',
+    clear: '清除',
+  },
 };
 
 // Pluralization rules taken from:

@@ -153,6 +153,8 @@ l10n.translations.sk = {
     empty: "Priečinok je prázdny",
     noResult: "Žiadne výsledky pre",
     retry: "Prosím, zadajte hľadaný výraz",
+    placeholder: "Hľadať",
+    clear: "Vymazať"
   },
 
   files: {

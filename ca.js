@@ -150,9 +150,11 @@ l10n.translations.ca = {
   },
 
   search: {
-    empty: "La carpeta està buida",
-    noResult: "No hi ha resultats per a",
-    retry: "Si us plau, introduïu la consulta de cerca",
+    empty: 'La carpeta està buida',
+    noResult: 'No hi ha resultats per a',
+    retry: 'Si us plau, introduïu la consulta de cerca',
+    placeholder: 'Cerca',
+    clear: 'Esborra',
   },
 
   files: {

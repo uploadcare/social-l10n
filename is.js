@@ -153,6 +153,8 @@ l10n.translations.is = {
     empty: "Mappan er tóm",
     noResult: "Engar niðurstöður fyrir",
     retry: "Vinsamlegast sláðu inn leitarfyrirspurnina",
+    placeholder: "Leita",
+    clear: "Hreinsa",
   },
 
   files: {

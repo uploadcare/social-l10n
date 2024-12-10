@@ -153,6 +153,8 @@ l10n.translations.lv = {
     empty: "Mape ir tukša",
     noResult: "Nav rezultātu",
     retry: "Lūdzu, ievadiet meklēšanas vaicājumu",
+    placeholder: "Meklēt",
+    clear: "Notīrīt"
   },
 
   files: {

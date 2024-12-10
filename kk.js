@@ -153,6 +153,8 @@ l10n.translations.kk = {
     empty: "Қапшық бос",
     noResult: "Нәтижелер жоқ",
     retry: "Іздеу сұрауын енгізіңіз",
+    placeholder: "Іздеу",
+    clear: "Тазалау"
   },
 
   files: {

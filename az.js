@@ -150,9 +150,11 @@ l10n.translations.az = {
   },
 
   search: {
-    empty: "Qovluq boşdur",
-    noResult: "Nəticə yoxdur",
-    retry: "Zəhmət olmasa axtarış sorğusunu daxil edin",
+    empty: 'Qovluq boşdur',
+    noResult: 'Nəticə tapılmadı',
+    retry: 'Zəhmət olmasa axtarış sorğusunu daxil edin',
+    placeholder: 'Axtarış',
+    clear: 'Təmizlə',
   },
 
   files: {

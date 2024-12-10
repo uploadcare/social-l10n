@@ -149,9 +149,11 @@ l10n.translations.ar = {
     }
   },
   search: {
-    empty: "المجلد فارغ",
-    noResult: "لا توجد نتائج لـ",
-    retry: "يرجى إدخال استعلام البحث",
+    empty: 'المجلد فارغ',
+    noResult: 'لا توجد نتائج لـ',
+    retry: 'يرجى إدخال استعلام البحث',
+    placeholder: 'بحث',
+    clear: 'مسح',
   },
 
   files: {

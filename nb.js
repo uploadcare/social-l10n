@@ -153,6 +153,8 @@ l10n.translations.nb = {
     empty: "Mappen er tom",
     noResult: "Ingen resultater for",
     retry: "Vennligst skriv inn søkespørringen",
+    placeholder: "Søk",
+    clear: "Tøm"
   },
 
   files: {

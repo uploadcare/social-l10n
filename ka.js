@@ -153,6 +153,8 @@ l10n.translations.ka = {
     empty: "საქაღალდე ცარიელია",
     noResult: "შედეგები არ არის",
     retry: "გთხოვთ შეიყვანოთ საძიებო მოთხოვნა",
+    placeholder: "ძიება",
+    clear: "გასუფთავება"
   },
 
   files: {

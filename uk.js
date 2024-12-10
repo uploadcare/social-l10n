@@ -37,7 +37,14 @@ l10n.translations.uk = {
             title: 'Назва',
             size: 'Розмір'
         }
-    }
+    },
+    search: {
+        empty: 'Folder is empty',
+        noResult: 'No results for',
+        retry: 'Please enter the search query',
+        placeholder: 'Search',
+        clear: 'Clear',
+    },
 };
 
 // Pluralization rules taken from:

@@ -153,6 +153,8 @@ l10n.translations.ko = {
     empty: "폴더가 비어 있습니다",
     noResult: "결과가 없습니다",
     retry: "검색어를 입력하세요",
+    placeholder: "검색",
+    clear: "지우기",
   },
 
   files: {

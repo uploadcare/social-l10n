@@ -153,6 +153,8 @@ l10n.translations.sv = {
     empty: "Mappen är tom",
     noResult: "Inga resultat för",
     retry: "Vänligen ange sökfrågan",
+    placeholder: "Sök",
+    clear: "Rensa"
   },
 
   files: {

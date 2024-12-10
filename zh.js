@@ -137,7 +137,14 @@ l10n.translations.zh = {
       title: '名称',
       size: '大小'
     }
-  }
+  },
+  search: {
+    empty: '文件夹为空',
+    noResult: '没有结果',
+    retry: '请输入搜索查询',
+    placeholder: '搜索',
+    clear: '清除',
+  },
 };
 
 // Pluralization rules taken from:

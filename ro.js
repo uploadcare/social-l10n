@@ -153,6 +153,8 @@ l10n.translations.ro = {
     empty: "Folderul este gol",
     noResult: "Niciun rezultat pentru",
     retry: "Vă rugăm să introduceți interogarea de căutare",
+    placeholder: "Căutați",
+    clear: "Ștergeți"
   },
 
   files: {

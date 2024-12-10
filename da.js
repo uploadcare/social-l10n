@@ -150,9 +150,11 @@ l10n.translations.da = {
   },
 
   search: {
-    empty: "Mappen er tom",
-    noResult: "Ingen resultater for",
-    retry: "Indtast venligst søgeforespørgslen",
+    empty: 'Mappen er tom',
+    noResult: 'Ingen resultater for',
+    retry: 'Indtast venligst søgeforespørgslen',
+    placeholder: 'Søg',
+    clear: 'Ryd',
   },
 
   files: {

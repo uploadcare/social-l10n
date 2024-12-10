@@ -153,6 +153,8 @@ l10n.translations.sr = {
     empty: "Folder je prazan",
     noResult: "Nema rezultata za",
     retry: "Molimo unesite upit za pretragu",
+    placeholder: "Pretraži",
+    clear: "Očisti"
   },
 
   files: {

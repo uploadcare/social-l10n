@@ -153,6 +153,8 @@ l10n.translations.hy = {
     empty: "Թղթապանակը դատարկ է",
     noResult: "Արդյունքներ չկան",
     retry: "Խնդրում ենք մուտքագրել որոնման հարցումը",
+    placeholder: "Փնտրել",
+    clear: "Մաքրել",
   },
 
   files: {

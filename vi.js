@@ -153,6 +153,8 @@ l10n.translations.vi = {
     empty: "Thư mục trống",
     noResult: "Không có kết quả cho",
     retry: "Vui lòng nhập truy vấn tìm kiếm",
+    placeholder: "Tìm kiếm",
+    clear: "Xóa"
   },
 
   files: {

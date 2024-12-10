@@ -153,6 +153,8 @@ l10n.translations.ee = {
     empty: "Kaust on tühi",
     noResult: "Tulemusi ei leitud",
     retry: "Palun sisestage otsingupäring",
+    placeholder: "Otsi",
+    clear: "Tühjenda",
   },
 
   files: {

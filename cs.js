@@ -150,9 +150,11 @@ l10n.translations.cs = {
   },
 
   search: {
-    empty: "Složka je prázdná",
-    noResult: "Žádné výsledky pro",
-    retry: "Zadejte prosím hledaný dotaz",
+    empty: 'Složka je prázdná',
+    noResult: 'Žádné výsledky pro',
+    retry: 'Zadejte prosím hledaný dotaz',
+    placeholder: 'Hledat',
+    clear: 'Vymazat',
   },
 
   files: {

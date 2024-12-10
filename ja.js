@@ -145,7 +145,15 @@ l10n.translations.ja = {
       title: 'タイトル',
       size: 'サイズ'
     }
-  }
+  },
+
+  search: {
+    empty: "フォルダは空です",
+    noResult: "結果がありません",
+    retry: "検索クエリを入力してください",
+    placeholder: "検索",
+    clear: "クリア",
+  },
 };
 
 // Pluralization rules taken from:
