@@ -1,154 +1,166 @@
 l10n.translations.it = {
-  logout: 'Esci',
+  logout: "Esci",
   error: {
-    a: 'Si è verificato un problema. Si prega',
-    b: 'ricarica',
-    c: 'Alcuni dettagli tecnici:'
+    a: "Si è verificato un problema. Si prega",
+    b: "ricarica",
+    c: "Alcuni dettagli tecnici:",
   },
   sourceName: {
-    gdrive: 'Google Drive',
-    dropbox: 'Dropbox',
-    facebook: 'Facebook',
-    instagram: 'Instagram',
-    vk: 'VK',
-    box: 'Box',
-    evernote: 'Evernote',
-    onedrive: 'OneDrive',
-    skydrive: 'OneDrive',
-    flickr: 'Flickr',
-    huddle: 'Huddle',
-    gphotos: 'Google Photos'
+    gdrive: "Google Drive",
+    dropbox: "Dropbox",
+    facebook: "Facebook",
+    instagram: "Instagram",
+    vk: "VK",
+    box: "Box",
+    evernote: "Evernote",
+    onedrive: "OneDrive",
+    skydrive: "OneDrive",
+    flickr: "Flickr",
+    huddle: "Huddle",
+    gphotos: "Google Photos",
   },
   login: {
-    title: 'Carica un file da %source',
+    title: "Carica un file da %source",
     lineA: {
-      onedrive: 'Ottieni file dal tuo account OneDrive.',
-      gdrive: 'Ottieni file dal tuo account Google.',
-      dropbox: 'Ottieni file dal tuo account Dropbox.',
-      box: 'Ottieni file dal tuo account Dropbox.',
-      evernote: 'Ottieni file dal tuo account Evernote.',
-      instagram: 'Ottieni le tue foto o quelle dei tuoi amici',
-      flickr: 'Ottieni le tue foto o quelle dei tuoi amici',
-      facebook: 'Ottieni immagini dal tuo album.',
-      vk: 'Ottieni foto e documenti dal tuo account.',
-      gphotos: 'Ottieni immagini dal tuo account Google Photos.'
+      onedrive: "Ottieni file dal tuo account OneDrive.",
+      gdrive: "Ottieni file dal tuo account Google.",
+      dropbox: "Ottieni file dal tuo account Dropbox.",
+      box: "Ottieni file dal tuo account Dropbox.",
+      evernote: "Ottieni file dal tuo account Evernote.",
+      instagram: "Ottieni le tue foto o quelle dei tuoi amici",
+      flickr: "Ottieni le tue foto o quelle dei tuoi amici",
+      facebook: "Ottieni immagini dal tuo album.",
+      vk: "Ottieni foto e documenti dal tuo account.",
+      gphotos: "Ottieni immagini dal tuo account Google Photos.",
     },
-    lineB: 'Bel gioco. Devi fare il login.',
-    button: 'Connetti con %source',
-    facebookButton: 'Continua con Facebook',
-    note: 'Apriremo una nuova pagina per collegare il tuo account %source.',
-    cookieWarning: 'Hai bloccato i cookie di terzi nel tuo browser. L’autorizzazione richiede cookie di terzi almeno per il dominio <code>social.uploadcare.com</code>.',
-    cookieRetry: 'Ho sbloccato i cookie e voglio riprovare.'
+    lineB: "Bel gioco. Devi fare il login.",
+    button: "Connetti con %source",
+    facebookButton: "Continua con Facebook",
+    note: "Apriremo una nuova pagina per collegare il tuo account %source.",
+    cookieWarning:
+      "Hai bloccato i cookie di terzi nel tuo browser. L’autorizzazione richiede cookie di terzi almeno per il dominio <code>social.uploadcare.com</code>.",
+    cookieRetry: "Ho sbloccato i cookie e voglio riprovare.",
   },
   pagination: {
-    loading: 'Caricamento di altri oggetti in corso...',
-    loadMore: 'Carica altro',
+    loading: "Caricamento di altri oggetti in corso...",
+    loadMore: "Carica altro",
     failed: {
-      a: 'Caricamento non riuscito.',
-      b: 'Riprova'
-    }
+      a: "Caricamento non riuscito.",
+      b: "Riprova",
+    },
   },
   dropbox: {
     menu: {
-      myFiles: 'I miei file',
-      team: 'File del team'
-    }
+      myFiles: "I miei file",
+      team: "File del team",
+    },
   },
   instagram: {
     menu: {
-      myPhotos: 'Le mie foto'
+      myPhotos: "Le mie foto",
     },
   },
   onedrive: {
     menu: {
-      myFiles: 'I miei file',
-      shared: 'Condivisi con me',
-      sharepoint: 'SharePoint',
-      myDrives: 'I miei dischi',
-      groups: 'I miei gruppi'
-    }
+      myFiles: "I miei file",
+      shared: "Condivisi con me",
+      sharepoint: "SharePoint",
+      myDrives: "I miei dischi",
+      groups: "I miei gruppi",
+    },
   },
   gdrive: {
     menu: {
-      myFiles: 'I miei file',
-      shared: 'Condivisi con me',
-      starred: 'Stellato',
-      search: 'Cerca'
+      myFiles: "I miei file",
+      shared: "Condivisi con me",
+      starred: "Stellato",
+      search: "Cerca",
     },
     search: {
-      placeholder: 'Cerca i file',
-      button: 'Cerca'
-    }
+      placeholder: "Cerca i file",
+      button: "Cerca",
+    },
   },
   facebook: {
     menu: {
-      myAlbums: 'I miei album',
-      likedPages: 'Pagine'
-    }
+      myAlbums: "I miei album",
+      likedPages: "Pagine",
+    },
   },
   vk: {
     menu: {
-      myAlbums: 'I miei album',
-      page: 'Immagini del profilo',
-      withMe: 'Foto con me',
-      saved: 'Foto salvate',
-      myFriends: 'I miei amici',
-      docs: 'I miei documenti'
-    }
+      myAlbums: "I miei album",
+      page: "Immagini del profilo",
+      withMe: "Foto con me",
+      saved: "Foto salvate",
+      myFriends: "I miei amici",
+      docs: "I miei documenti",
+    },
   },
   evernote: {
     menu: {
-      allNotes: 'Tutte le note',
-      notebooks: 'Portatili',
-      tags: 'Tag',
-      search: 'Cerca'
+      allNotes: "Tutte le note",
+      notebooks: "Portatili",
+      tags: "Tag",
+      search: "Cerca",
     },
     search: {
-      placeholder: 'Cerca in note',
-      button: 'Cerca'
-    }
+      placeholder: "Cerca in note",
+      button: "Cerca",
+    },
   },
   flickr: {
     menu: {
-      myPhotostream: 'Galleria di immagini',
-      myAlbums: 'Album',
-      myFavorites: 'Preferiti',
-      follows: 'Persone che seguo'
-    }
+      myPhotostream: "Galleria di immagini",
+      myAlbums: "Album",
+      myFavorites: "Preferiti",
+      follows: "Persone che seguo",
+    },
   },
   gphotos: {
     menu: {
-      myAlbums: 'Album',
-      myPhotos: 'Foto'
-    }
+      myAlbums: "Album",
+      myPhotos: "Foto",
+    },
   },
   huddle: {
     menu: {
-      workspaces: 'Aree di lavoro'
-    }
+      workspaces: "Aree di lavoro",
+    },
   },
   search: {
-    empty: 'La cartella è vuota',
-    noResult: 'Nessun risultato per',
-    retry: 'Si prega di inserire la query di ricerca',
-    placeholder: 'Cerca',
-    clear: 'Cancella',
+    empty: "La cartella è vuota",
+    noResult: "Nessun risultato per",
+    retry: "Si prega di inserire la query di ricerca",
+    placeholder: "Cerca",
+    clear: "Cancella",
   },
   files: {
-    one: '%n file',
-    other: '%n file'
+    one: "%n file",
+    other: "%n file",
   },
   list: {
     table: {
-      title: 'Titolo',
-      size: 'Dimensione'
-    }
-  }
+      title: "Titolo",
+      size: "Dimensione",
+    },
+  },
 };
 
-
-l10n.date.it = function(d) {
-  var months = ['Gen', 'Feb', 'Mar', 'Apr', 'Mag', 'Giu',
-                'Lug', 'Ago', 'Set', 'Ott', 'Nov', 'Dic' ];
+l10n.date.it = function (d) {
+  var months = [
+    "Gen",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Mag",
+    "Giu",
+    "Lug",
+    "Ago",
+    "Set",
+    "Ott",
+    "Nov",
+    "Dic",
+  ];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };

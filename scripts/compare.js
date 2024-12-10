@@ -73,7 +73,7 @@ var deepDiff = (function () {
     return diff
       .filter(
         ({ result, path }) =>
-          last(path).search(pluralizeRegex) && result !== VALUE_OK
+          last(path).search(pluralizeRegex) && result !== VALUE_OK,
       )
       .map(({ path, result }) => `'${path.join(".")}' is ${result}`)
       .join("\n");
@@ -87,12 +87,14 @@ var deepDiff = (function () {
 module.exports = () =>
   readdir(directoryPath)
     .then((files) =>
-      Promise.all(files.map((file) => lstat(file).then((stat) => [file, stat])))
+      Promise.all(
+        files.map((file) => lstat(file).then((stat) => [file, stat])),
+      ),
     )
     .then((stats) =>
       stats.filter(
-        ([file, stat]) => stat.isFile() && path.extname(file) === ".js"
-      )
+        ([file, stat]) => stat.isFile() && path.extname(file) === ".js",
+      ),
     )
     .then((stats) => stats.map(([path]) => path))
     .then((paths) =>
@@ -101,9 +103,9 @@ module.exports = () =>
           readFile(path).then((content) => [
             path,
             contentToFn(content.toString("utf-8")),
-          ])
-        )
-      )
+          ]),
+        ),
+      ),
     )
     .then((infos) => {
       var reference = infos.find((info) => info[0] === "en.js");
@@ -114,7 +116,9 @@ module.exports = () =>
       tests.map(([path, exec]) => {
         const result = deepDiff.compare(ref, exec());
 
-        return result && `
+        return (
+          result &&
+          `
 <details>
   <summary>
     <strong>${path}</strong>
@@ -126,8 +130,9 @@ ${result}
 
 </details>
 
-`;
-      })
+`
+        );
+      }),
     )
     .then((rows) => rows.join(""))
     .catch(console.err);
