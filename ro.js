@@ -19,8 +19,7 @@ l10n.translations.ro = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Încărcați un fișier de la %source',
@@ -147,44 +146,6 @@ l10n.translations.ro = {
     },
     assets: {
       button: 'Afișați'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Editorial',
-      search: 'Căutați',
-      random: 'Aleatoriu'
-    },
-    search: {
-      placeholder: 'Căutați fotografii',
-      button: 'Căutați'
-    },
-    filters: {
-      orientation: {
-        any: 'Orice orientare',
-        landscape: 'Peisaj',
-        portrait: 'Portret',
-        squarish: 'Pătrat'
-      },
-      content_safety: {
-        any: 'Siguranța conținutului implicită',
-        low: 'Scăzută',
-        high: 'Ridicată'
-      },
-      color: {
-        any: 'Orice culoare',
-        black_and_white: 'Alb-negru',
-        black: 'Negru',
-        white: 'Alb',
-        yellow: 'Galben',
-        orange: 'Portocaliu',
-        red: 'Roșu',
-        purple: 'Violet',
-        magenta: 'Magenta',
-        green: 'Verde',
-        teal: 'Turcoaz',
-        blue: 'Albastru'
-      }
     }
   },
 

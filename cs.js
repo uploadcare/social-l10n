@@ -1,4 +1,3 @@
-
 l10n.translations.cs = {
   logout: 'Odhlásit se',
   disconnect: 'Odpojit od %source',
@@ -20,8 +19,7 @@ l10n.translations.cs = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Nahrát soubor z %source',
@@ -148,44 +146,6 @@ l10n.translations.cs = {
     },
     assets: {
       button: 'Zobrazit'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Redakční',
-      search: 'Hledat',
-      random: 'Náhodné'
-    },
-    search: {
-      placeholder: 'Hledat fotografie',
-      button: 'Hledat'
-    },
-    filters: {
-      orientation: {
-        any: 'Jakákoliv orientace',
-        landscape: 'Na šířku',
-        portrait: 'Na výšku',
-        squarish: 'Čtvercové'
-      },
-      content_safety: {
-        any: 'Výchozí bezpečnost obsahu',
-        low: 'Nízká',
-        high: 'Vysoká'
-      },
-      color: {
-        any: 'Jakákoliv barva',
-        black_and_white: 'Černobílá',
-        black: 'Černá',
-        white: 'Bílá',
-        yellow: 'Žlutá',
-        orange: 'Oranžová',
-        red: 'Červená',
-        purple: 'Fialová',
-        magenta: 'Purpurová',
-        green: 'Zelená',
-        teal: 'Tyrkysová',
-        blue: 'Modrá'
-      }
     }
   },
 

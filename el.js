@@ -19,8 +19,7 @@ l10n.translations.el = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Ανεβάστε ένα αρχείο από %source',
@@ -147,44 +146,6 @@ l10n.translations.el = {
     },
     assets: {
       button: 'Εμφάνιση'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Συντακτικό',
-      search: 'Αναζήτηση',
-      random: 'Τυχαίο'
-    },
-    search: {
-      placeholder: 'Αναζήτηση φωτογραφιών',
-      button: 'Αναζήτηση'
-    },
-    filters: {
-      orientation: {
-        any: 'Οποιοσδήποτε προσανατολισμός',
-        landscape: 'Οριζόντιος',
-        portrait: 'Κάθετος',
-        squarish: 'Τετράγωνος'
-      },
-      content_safety: {
-        any: 'Προεπιλεγμένη ασφάλεια περιεχομένου',
-        low: 'Χαμηλή',
-        high: 'Υψηλή'
-      },
-      color: {
-        any: 'Οποιοδήποτε χρώμα',
-        black_and_white: 'Μαύρο και άσπρο',
-        black: 'Μαύρο',
-        white: 'Άσπρο',
-        yellow: 'Κίτρινο',
-        orange: 'Πορτοκαλί',
-        red: 'Κόκκινο',
-        purple: 'Μωβ',
-        magenta: 'Ματζέντα',
-        green: 'Πράσινο',
-        teal: 'Τιρ��ουάζ',
-        blue: 'Μπλε'
-      }
     }
   },
 

@@ -19,8 +19,7 @@ l10n.translations.vi = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Tải lên tệp từ %source',
@@ -147,44 +146,6 @@ l10n.translations.vi = {
     },
     assets: {
       button: 'Hiển thị'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Biên tập',
-      search: 'Tìm kiếm',
-      random: 'Ngẫu nhiên'
-    },
-    search: {
-      placeholder: 'Tìm kiếm ảnh',
-      button: 'Tìm kiếm'
-    },
-    filters: {
-      orientation: {
-        any: 'Bất kỳ hướng nào',
-        landscape: 'Phong cảnh',
-        portrait: 'Chân dung',
-        squarish: 'Hình vuông'
-      },
-      content_safety: {
-        any: 'An toàn nội dung mặc định',
-        low: 'Thấp',
-        high: 'Cao'
-      },
-      color: {
-        any: 'Bất kỳ màu nào',
-        black_and_white: 'Đen trắng',
-        black: 'Đen',
-        white: 'Trắng',
-        yellow: 'Vàng',
-        orange: 'Cam',
-        red: 'Đỏ',
-        purple: 'Tím',
-        magenta: 'Đỏ tươi',
-        green: 'Xanh lá',
-        teal: 'Xanh lam',
-        blue: 'Xanh dương'
-      }
     }
   },
 

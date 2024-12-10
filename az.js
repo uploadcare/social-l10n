@@ -19,8 +19,7 @@ l10n.translations.az = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Şəkillər',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Faylı %source-dən yükləyin',
@@ -147,44 +146,6 @@ l10n.translations.az = {
     },
     assets: {
       button: 'Göstər'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Redaksiya',
-      search: 'Axtar',
-      random: 'Təsadüfi'
-    },
-    search: {
-      placeholder: 'Şəkilləri axtarın',
-      button: 'Axtar'
-    },
-    filters: {
-      orientation: {
-        any: 'Hər hansı oriyentasiya',
-        landscape: 'Landşaft',
-        portrait: 'Portret',
-        squarish: 'Kvadrat'
-      },
-      content_safety: {
-        any: 'Standart məzmun təhlükəsizliyi',
-        low: 'Aşağı',
-        high: 'Yüksək'
-      },
-      color: {
-        any: 'Hər hansı rəng',
-        black_and_white: 'Qara və ağ',
-        black: 'Qara',
-        white: 'Ağ',
-        yellow: 'Sarı',
-        orange: 'Narıncı',
-        red: 'Qırmızı',
-        purple: 'Bənövşəyi',
-        magenta: 'Magenta',
-        green: 'Yaşıl',
-        teal: 'Mavi-yaşıl',
-        blue: 'Mavi'
-      }
     }
   },
 

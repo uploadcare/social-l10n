@@ -18,8 +18,7 @@ l10n.translations.ru = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Выбор файлов из %source',
@@ -140,44 +139,6 @@ l10n.translations.ru = {
     },
     assets: {
       button: 'Показать'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Выбор редакции',
-      search: 'Поиск',
-      random: 'Случайная фотография'
-    },
-    search: {
-      placeholder: 'Искать фотографии',
-      button: 'Искать'
-    },
-    filters: {
-      orientation: {
-        any: 'Любая ориентация',
-        landscape: 'Альбомная',
-        portrait: 'Портретная',
-        squarish: 'Квадратная'
-      },
-      content_safety: {
-        any: 'Безопасность контента по умолчанию',
-        low: 'Низкая',
-        high: 'Высокая'
-      },
-      color: {
-        any: 'Любой цвет',
-        black_and_white: 'Черно-белый',
-        black: 'Черный',
-        white: 'Белый',
-        yellow: 'Желтый',
-        orange: 'Оранжевый',
-        red: 'Красный',
-        purple: 'Фиолетовый',
-        magenta: 'Пурпурный',
-        green: 'Зеленый',
-        teal: 'Бирюзовый',
-        blue: 'Синий'
-      }
     }
   },
   search: {

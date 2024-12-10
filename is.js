@@ -19,8 +19,7 @@ l10n.translations.is = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Hlaða upp skrá frá %source',
@@ -147,44 +146,6 @@ l10n.translations.is = {
     },
     assets: {
       button: 'Sýna'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Ritstjórn',
-      search: 'Leita',
-      random: 'Handahófskennt'
-    },
-    search: {
-      placeholder: 'Leita að myndum',
-      button: 'Leita'
-    },
-    filters: {
-      orientation: {
-        any: 'Hvaða stefna sem er',
-        landscape: 'Landslag',
-        portrait: 'Andlitsmynd',
-        squarish: 'Ferningur'
-      },
-      content_safety: {
-        any: 'Sjálfgefin öryggi efnis',
-        low: 'Lágt',
-        high: 'Hátt'
-      },
-      color: {
-        any: 'Hvaða litur sem er',
-        black_and_white: 'Svart og hvítt',
-        black: 'Svart',
-        white: 'Hvítt',
-        yellow: 'Gult',
-        orange: 'Appelsínugult',
-        red: 'Rautt',
-        purple: 'Fjólublátt',
-        magenta: 'Magenta',
-        green: 'Grænt',
-        teal: 'Blágrænt',
-        blue: 'Blátt'
-      }
     }
   },
 

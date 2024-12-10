@@ -19,8 +19,7 @@ l10n.translations.ca = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Fotos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Carrega un fitxer des de %source',
@@ -147,44 +146,6 @@ l10n.translations.ca = {
     },
     assets: {
       button: 'Mostra'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Editorial',
-      search: 'Cerca',
-      random: 'Aleatori'
-    },
-    search: {
-      placeholder: 'Cerca fotos',
-      button: 'Cerca'
-    },
-    filters: {
-      orientation: {
-        any: 'Qualsevol orientació',
-        landscape: 'Horitzontal',
-        portrait: 'Vertical',
-        squarish: 'Quadrat'
-      },
-      content_safety: {
-        any: 'Seguretat de contingut per defecte',
-        low: 'Baixa',
-        high: 'Alta'
-      },
-      color: {
-        any: 'Qualsevol color',
-        black_and_white: 'Blanc i negre',
-        black: 'Negre',
-        white: 'Blanc',
-        yellow: 'Groc',
-        orange: 'Taronja',
-        red: 'Vermell',
-        purple: 'Porpra',
-        magenta: 'Magenta',
-        green: 'Verd',
-        teal: 'Verd blavós',
-        blue: 'Blau'
-      }
     }
   },
 

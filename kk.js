@@ -19,8 +19,7 @@ l10n.translations.kk = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: '%source-дан файл жүктеу',
@@ -147,44 +146,6 @@ l10n.translations.kk = {
     },
     assets: {
       button: 'Көрсету'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Редакциялық',
-      search: 'Іздеу',
-      random: 'Кездейсоқ'
-    },
-    search: {
-      placeholder: 'Фотосуреттерді іздеу',
-      button: 'Іздеу'
-    },
-    filters: {
-      orientation: {
-        any: 'Кез келген бағдар',
-        landscape: 'Көлденең',
-        portrait: 'Тік',
-        squarish: 'Шаршы'
-      },
-      content_safety: {
-        any: 'Әдепкі мазмұн қауіпсіздігі',
-        low: 'Төмен',
-        high: 'Жоғары'
-      },
-      color: {
-        any: 'Кез келген түс',
-        black_and_white: 'Қара және ақ',
-        black: 'Қара',
-        white: 'Ақ',
-        yellow: 'Сары',
-        orange: 'Қызғылт сары',
-        red: 'Қызыл',
-        purple: 'Күлгін',
-        magenta: 'Мажента',
-        green: 'Жасыл',
-        teal: 'Көкшіл жасыл',
-        blue: 'Көк'
-      }
     }
   },
 

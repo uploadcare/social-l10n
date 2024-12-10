@@ -19,8 +19,7 @@ l10n.translations.da = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Fotos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Upload en fil fra %source',
@@ -147,44 +146,6 @@ l10n.translations.da = {
     },
     assets: {
       button: 'Vis'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Redaktionelt',
-      search: 'Søg',
-      random: 'Tilfældig'
-    },
-    search: {
-      placeholder: 'Søg fotos',
-      button: 'Søg'
-    },
-    filters: {
-      orientation: {
-        any: 'Enhver orientering',
-        landscape: 'Landskab',
-        portrait: 'Portræt',
-        squarish: 'Kvadratisk'
-      },
-      content_safety: {
-        any: 'Standard indholdssikkerhed',
-        low: 'Lav',
-        high: 'Høj'
-      },
-      color: {
-        any: 'Enhver farve',
-        black_and_white: 'Sort og hvid',
-        black: 'Sort',
-        white: 'Hvid',
-        yellow: 'Gul',
-        orange: 'Orange',
-        red: 'Rød',
-        purple: 'Lilla',
-        magenta: 'Magenta',
-        green: 'Grøn',
-        teal: 'Teal',
-        blue: 'Blå'
-      }
     }
   },
 

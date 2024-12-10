@@ -19,8 +19,7 @@ l10n.translations.ko = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google 포토',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: '%source에서 파일 업로드',
@@ -147,44 +146,6 @@ l10n.translations.ko = {
     },
     assets: {
       button: '보기'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: '에디토리얼',
-      search: '검색',
-      random: '무작위'
-    },
-    search: {
-      placeholder: '사진 검색',
-      button: '검색'
-    },
-    filters: {
-      orientation: {
-        any: '모든 방향',
-        landscape: '가로',
-        portrait: '세로',
-        squarish: '정사각형'
-      },
-      content_safety: {
-        any: '기본 콘텐츠 안전',
-        low: '낮음',
-        high: '높음'
-      },
-      color: {
-        any: '모든 색상',
-        black_and_white: '흑백',
-        black: '검정',
-        white: '흰색',
-        yellow: '노랑',
-        orange: '주황',
-        red: '빨강',
-        purple: '보라',
-        magenta: '마젠타',
-        green: '초록',
-        teal: '청록',
-        blue: '파랑'
-      }
     }
   },
 

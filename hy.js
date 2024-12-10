@@ -19,8 +19,7 @@ l10n.translations.hy = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Վերբեռնել ֆայլ %source-ից',
@@ -147,44 +146,6 @@ l10n.translations.hy = {
     },
     assets: {
       button: 'Ցույց տալ'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Խմբագրական',
-      search: 'Փնտրել',
-      random: 'Պատահական'
-    },
-    search: {
-      placeholder: 'Փնտրել լուսանկարներ',
-      button: 'Փնտրել'
-    },
-    filters: {
-      orientation: {
-        any: 'Ցանկացած կողմնորոշում',
-        landscape: 'Լանդշաֆտ',
-        portrait: 'Դիմանկար',
-        squarish: 'Քառակուսի'
-      },
-      content_safety: {
-        any: 'Բովանդակության անվտանգության լռելյայն կարգավորում',
-        low: 'Ցածր',
-        high: 'Բարձր'
-      },
-      color: {
-        any: 'Ցանկացած գույն',
-        black_and_white: 'Սև և սպիտակ',
-        black: 'Սև',
-        white: 'Սպիտակ',
-        yellow: 'Դեղին',
-        orange: 'Նարնջագույն',
-        red: 'Կարմիր',
-        purple: 'Մանուշակագույն',
-        magenta: 'Մագենտա',
-        green: 'Կանաչ',
-        teal: 'Թեյլ',
-        blue: 'Կապույտ'
-      }
     }
   },
 

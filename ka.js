@@ -19,8 +19,7 @@ l10n.translations.ka = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'ატვირთეთ ფაილი %source-დან',
@@ -147,44 +146,6 @@ l10n.translations.ka = {
     },
     assets: {
       button: 'ჩვენება'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'რედაქტორები',
-      search: 'ძიება',
-      random: 'შემთხვევითი'
-    },
-    search: {
-      placeholder: 'ფოტოების ძიება',
-      button: 'ძიება'
-    },
-    filters: {
-      orientation: {
-        any: 'ნებისმიერი ორიენტაცია',
-        landscape: 'ლანდშაფტი',
-        portrait: 'პორტრეტი',
-        squarish: 'კვადრატული'
-      },
-      content_safety: {
-        any: 'ნაგულისხმევი კონტენტის უსაფრთხოება',
-        low: 'დაბალი',
-        high: 'მაღალი'
-      },
-      color: {
-        any: 'ნებისმიერი ფერი',
-        black_and_white: 'შავ-თეთრი',
-        black: 'შავი',
-        white: 'თეთრი',
-        yellow: 'ყვითელი',
-        orange: 'ნარინჯისფერი',
-        red: 'წითელი',
-        purple: 'იისფერი',
-        magenta: 'მაჟენტა',
-        green: 'მწვანე',
-        teal: 'თურქული',
-        blue: 'ლურჯი'
-      }
     }
   },
 

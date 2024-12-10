@@ -19,8 +19,7 @@ l10n.translations.sr = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Fotografije',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Otpremite datoteku sa %source',
@@ -147,44 +146,6 @@ l10n.translations.sr = {
     },
     assets: {
       button: 'Prikaži'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Urednički',
-      search: 'Pretraži',
-      random: 'Nasumično'
-    },
-    search: {
-      placeholder: 'Pretraži fotografije',
-      button: 'Pretraži'
-    },
-    filters: {
-      orientation: {
-        any: 'Bilo koja orijentacija',
-        landscape: 'Pejzaž',
-        portrait: 'Portret',
-        squarish: 'Kvadratno'
-      },
-      content_safety: {
-        any: 'Podrazumevana sigurnost sadržaja',
-        low: 'Niska',
-        high: 'Visoka'
-      },
-      color: {
-        any: 'Bilo koja boja',
-        black_and_white: 'Crno-belo',
-        black: 'Crna',
-        white: 'Bela',
-        yellow: 'Žuta',
-        orange: 'Narandžasta',
-        red: 'Crvena',
-        purple: 'Ljubičasta',
-        magenta: 'Magenta',
-        green: 'Zelena',
-        teal: 'Tirkizna',
-        blue: 'Plava'
-      }
     }
   },
 

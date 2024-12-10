@@ -19,8 +19,7 @@ l10n.translations.et = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Laadige fail üles %source',
@@ -149,45 +148,6 @@ l10n.translations.et = {
       button: 'Näita'
     }
   },
-  unsplash: {
-    menu: {
-      editorial: 'Toimetus',
-      search: 'Otsi',
-      random: 'Juhuslik'
-    },
-    search: {
-      placeholder: 'Otsi fotosid',
-      button: 'Otsi'
-    },
-    filters: {
-      orientation: {
-        any: 'Mis tahes orientatsioon',
-        landscape: 'Horisontaalne',
-        portrait: 'Vertikaalne',
-        squarish: 'Ruut'
-      },
-      content_safety: {
-        any: 'Vaikimisi sisu turvalisus',
-        low: 'Madal',
-        high: 'Kõrge'
-      },
-      color: {
-        any: 'Mis tahes värv',
-        black_and_white: 'Must ja valge',
-        black: 'Must',
-        white: 'Valge',
-        yellow: 'Kollane',
-        orange: 'Oranž',
-        red: 'Punane',
-        purple: 'Lilla',
-        magenta: 'Magenta',
-        green: 'Roheline',
-        teal: 'Teal',
-        blue: 'Sinine'
-      }
-    }
-  },
-
   search: {
     empty: "Kaust on tühi",
     noResult: "Tulemusi ei leitud",

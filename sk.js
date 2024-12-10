@@ -19,8 +19,7 @@ l10n.translations.sk = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Fotky',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Nahrať súbor z %source',
@@ -147,44 +146,6 @@ l10n.translations.sk = {
     },
     assets: {
       button: 'Zobraziť'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Redakčné',
-      search: 'Hľadať',
-      random: 'Náhodné'
-    },
-    search: {
-      placeholder: 'Hľadať fotografie',
-      button: 'Hľadať'
-    },
-    filters: {
-      orientation: {
-        any: 'Ľubovoľná orientácia',
-        landscape: 'Na šírku',
-        portrait: 'Na výšku',
-        squarish: 'Štvorcové'
-      },
-      content_safety: {
-        any: 'Predvolená bezpečnosť obsahu',
-        low: 'Nízka',
-        high: 'Vysoká'
-      },
-      color: {
-        any: 'Ľubovoľná farba',
-        black_and_white: 'Čiernobiela',
-        black: 'Čierna',
-        white: 'Biela',
-        yellow: 'Žltá',
-        orange: 'Oranžová',
-        red: 'Červená',
-        purple: 'Fialová',
-        magenta: 'Purpurová',
-        green: 'Zelená',
-        teal: 'Tyrkysová',
-        blue: 'Modrá'
-      }
     }
   },
 

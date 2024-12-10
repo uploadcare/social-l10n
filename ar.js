@@ -19,8 +19,7 @@ l10n.translations.ar = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'تحميل ملف من %source',
@@ -149,45 +148,6 @@ l10n.translations.ar = {
       button: 'عرض'
     }
   },
-  unsplash: {
-    menu: {
-      editorial: 'تحريري',
-      search: 'بحث',
-      random: 'عشوائي'
-    },
-    search: {
-      placeholder: 'البحث عن الصور',
-      button: 'بحث'
-    },
-    filters: {
-      orientation: {
-        any: 'أي اتجاه',
-        landscape: 'أفقي',
-        portrait: 'عمودي',
-        squarish: 'مربع'
-      },
-      content_safety: {
-        any: 'سلامة المحتوى الافتراضية',
-        low: 'منخفض',
-        high: 'مرتفع'
-      },
-      color: {
-        any: 'أي لون',
-        black_and_white: 'أبيض وأسود',
-        black: 'أسود',
-        white: 'أبيض',
-        yellow: 'أصفر',
-        orange: 'برتقالي',
-        red: 'أحمر',
-        purple: 'أرجواني',
-        magenta: 'قرمزي',
-        green: 'أخضر',
-        teal: 'أزرق مخضر',
-        blue: 'أزرق'
-      }
-    }
-  },
-
   search: {
     empty: "المجلد فارغ",
     noResult: "لا توجد نتائج لـ",

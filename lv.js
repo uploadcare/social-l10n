@@ -19,8 +19,7 @@ l10n.translations.lv = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Augšupielādēt failu no %source',
@@ -147,44 +146,6 @@ l10n.translations.lv = {
     },
     assets: {
       button: 'Rādīt'
-    }
-  },
-  unsplash: {
-    menu: {
-      editorial: 'Redakcija',
-      search: 'Meklēt',
-      random: 'Nejauši'
-    },
-    search: {
-      placeholder: 'Meklēt fotogrāfijas',
-      button: 'Meklēt'
-    },
-    filters: {
-      orientation: {
-        any: 'Jebkura orientācija',
-        landscape: 'Ainava',
-        portrait: 'Portrets',
-        squarish: 'Kvadrāts'
-      },
-      content_safety: {
-        any: 'Noklusējuma satura drošība',
-        low: 'Zema',
-        high: 'Augsta'
-      },
-      color: {
-        any: 'Jebkura krāsa',
-        black_and_white: 'Melnbalts',
-        black: 'Melns',
-        white: 'Balts',
-        yellow: 'Dzeltens',
-        orange: 'Oranžs',
-        red: 'Sarkans',
-        purple: 'Violets',
-        magenta: 'Magenta',
-        green: 'Zaļš',
-        teal: 'Tirkīzs',
-        blue: 'Zils'
-      }
     }
   },
 
