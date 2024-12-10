@@ -64,7 +64,6 @@ l10n.translations.ar = {
     search: {
       placeholder: "البحث عن الملفات",
       button: "البحث عن الملفات",
-      clear: "مسح",
     },
   },
   instagram: {

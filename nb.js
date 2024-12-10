@@ -63,7 +63,6 @@ l10n.translations.nb = {
     search: {
       placeholder: "Søk filer",
       button: "Søk",
-      clear: "Tøm",
     },
   },
   instagram: {

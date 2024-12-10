@@ -63,7 +63,6 @@ l10n.translations.ka = {
     search: {
       placeholder: "ფაილების ძიება",
       button: "ძიება",
-      clear: "გასუფთავება",
     },
   },
   instagram: {

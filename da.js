@@ -63,7 +63,6 @@ l10n.translations.da = {
     search: {
       placeholder: "Søg filer",
       button: "Søg filer",
-      clear: "Ryd",
     },
   },
   instagram: {

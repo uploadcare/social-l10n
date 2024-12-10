@@ -63,7 +63,6 @@ l10n.translations.el = {
     search: {
       placeholder: "Αναζήτηση αρχείων",
       button: "Αναζήτηση αρχείων",
-      clear: "Κ��θαρισμός",
     },
   },
   instagram: {

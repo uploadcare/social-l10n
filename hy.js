@@ -63,7 +63,6 @@ l10n.translations.hy = {
     search: {
       placeholder: "Փնտրել ֆայլեր",
       button: "Փնտրել ֆայլեր",
-      clear: "Մաքրել",
     },
   },
   instagram: {

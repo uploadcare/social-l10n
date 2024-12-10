@@ -63,7 +63,6 @@ l10n.translations.ro = {
     search: {
       placeholder: "Căutați fișiere",
       button: "Căutați fișiere",
-      clear: "Ștergeți",
     },
   },
   instagram: {

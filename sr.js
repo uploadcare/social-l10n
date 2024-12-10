@@ -63,7 +63,6 @@ l10n.translations.sr = {
     search: {
       placeholder: "Pretraži datoteke",
       button: "Pretraži datoteke",
-      clear: "Očisti",
     },
   },
   instagram: {

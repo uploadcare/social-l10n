@@ -63,7 +63,6 @@ l10n.translations.ko = {
     search: {
       placeholder: "파일 검색",
       button: "검색",
-      clear: "지우기",
     },
   },
   instagram: {

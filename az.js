@@ -63,7 +63,6 @@ l10n.translations.az = {
     search: {
       placeholder: "Faylları axtarın",
       button: "Axtar",
-      clear: "Təmizlə",
     },
   },
   instagram: {

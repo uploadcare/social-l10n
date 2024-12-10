@@ -63,7 +63,6 @@ l10n.translations.cs = {
     search: {
       placeholder: "Hledat soubory",
       button: "Hledat soubory",
-      clear: "Vymazat",
     },
   },
   instagram: {

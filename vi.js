@@ -63,7 +63,6 @@ l10n.translations.vi = {
     search: {
       placeholder: "Tìm kiếm tệp",
       button: "Tìm kiếm tệp",
-      clear: "Xóa",
     },
   },
   instagram: {
