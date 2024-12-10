@@ -1,0 +1,12 @@
+{
+  "name": "social-l10n",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "format": "npx @biomejs/biome format --write ./",
+    "test": "node ./scripts/test.js"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
+}
