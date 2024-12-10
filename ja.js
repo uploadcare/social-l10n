@@ -1,5 +1,6 @@
 l10n.translations.ja = {
   logout: 'ログアウト',
+  disconnect: '%source から切断',
   error: {
     a: '処理できませんでした。',
     b: 'リロードしてください。',
