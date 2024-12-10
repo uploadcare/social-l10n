@@ -129,6 +129,13 @@ l10n.translations.fr = {
       workspaces: 'Workspaces'
     }
   },
+  search: {
+    empty: 'Le dossier est vide',
+    noResult: 'Aucun résultat pour',
+    retry: 'Veuillez entrer la requête de recherche',
+    placeholder: 'Rechercher',
+    clear: 'Effacer',
+  },
   files: {
     one: '%n fichier',
     other: '%n fichiers'

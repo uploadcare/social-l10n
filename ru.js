@@ -180,6 +180,13 @@ l10n.translations.ru = {
       }
     }
   },
+  search: {
+    empty: 'Папка пуста',
+    noResult: 'Нет результатов для',
+    retry: 'Пожалуйста, введите запрос для поиска',
+    placeholder: 'Поиск',
+    clear: 'Очистить',
+  },
   files: {
     one: '%n файл',
     few: '%n файла',

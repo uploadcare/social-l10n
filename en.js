@@ -186,6 +186,13 @@ l10n.translations.en = {
       }
     }
   },
+  search: {
+    empty: 'Folder is empty',
+    noResult: 'No results for',
+    retry: 'Please enter the search query',
+    placeholder: 'Search',
+    clear: 'Clear',
+  },
   // pluralization example
   files: {
     one: '%n file',

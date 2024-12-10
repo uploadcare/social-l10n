@@ -146,6 +146,13 @@ l10n.translations.he = {
       title: 'כותרת',
       size: 'גודל'
     }
+  },
+  search: {
+    empty: 'התיקייה ריקה',
+    noResult: 'אין תוצאות עבור',
+    retry: 'נא להזין את שאילתת החיפוש',
+    placeholder: 'חפש',
+    clear: 'נקה',
   }
 };
 
