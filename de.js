@@ -136,6 +136,13 @@ l10n.translations.de = {
       title: 'Name',
       size: 'Größe'
     }
+  },
+  search: {
+    empty: 'Ordner ist leer',
+    noResult: 'Keine Ergebnisse für',
+    retry: 'Bitte geben Sie die Suchanfrage ein',
+    placeholder: 'Suche',
+    clear: 'Löschen',
   }
 };
 

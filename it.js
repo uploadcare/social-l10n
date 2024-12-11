@@ -127,6 +127,13 @@ l10n.translations.it = {
       workspaces: 'Aree di lavoro'
     }
   },
+  search: {
+    empty: 'La cartella è vuota',
+    noResult: 'Nessun risultato per',
+    retry: 'Si prega di inserire la query di ricerca',
+    placeholder: 'Cerca',
+    clear: 'Cancella',
+  },
   files: {
     one: '%n file',
     other: '%n file'

@@ -136,7 +136,14 @@ l10n.translations.tr = {
       title: 'Başlık',
       size: 'Boyut'
     }
-  }
+  },
+  search: {
+    empty: 'Klasör boş',
+    noResult: 'Sonuç bulunamadı',
+    retry: 'Lütfen arama sorgusunu girin',
+    placeholder: 'Ara',
+    clear: 'Temizle',
+  },
 };
 
 

@@ -19,8 +19,7 @@ l10n.translations.en = {
     flickr: 'Flickr',
     huddle: 'Huddle',
     gphotos: 'Google Photos',
-    nft: 'NFT',
-    unsplash: 'Unsplash'
+    nft: 'NFT'
   },
   login: {
     title: 'Upload a file from %source',
@@ -148,43 +147,12 @@ l10n.translations.en = {
       button: 'Show'
     }
   },
-  unsplash: {
-    menu: {
-      editorial: 'Editorial',
-      search: 'Search',
-      random: 'Random'
-    },
-    search: {
-      placeholder: 'Search photos',
-      button: 'Search'
-    },
-    filters: {
-      orientation: {
-        any: 'Any orientation',
-        landscape: 'Landscape',
-        portrait: 'Portrait',
-        squarish: 'Squarish'
-      },
-      content_safety: {
-        any: 'Default content safety',
-        low: 'Low',
-        high: 'High'
-      },
-      color: {
-        any: 'Any color',
-        black_and_white: 'Black and white',
-        black: 'Black',
-        white: 'White',
-        yellow: 'Yellow',
-        orange: 'Orange',
-        red: 'Red',
-        purple: 'Purple',
-        magenta: 'Magenta',
-        green: 'Green',
-        teal: 'Teal',
-        blue: 'Blue'
-      }
-    }
+  search: {
+    empty: 'Folder is empty',
+    noResult: 'No results for',
+    retry: 'Please enter the search query',
+    placeholder: 'Search',
+    clear: 'Clear',
   },
   // pluralization example
   files: {

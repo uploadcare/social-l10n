@@ -127,6 +127,13 @@ l10n.translations.nl = {
       workspaces: 'Werkruimte'
     }
   },
+  search: {
+    empty: 'Map is leeg',
+    noResult: 'Geen resultaten voor',
+    retry: 'Voer de zoekopdracht in',
+    placeholder: 'Zoeken',
+    clear: 'Wissen',
+  },
   files: {
     one: '%n bestand',
     other: '%n bestanden'

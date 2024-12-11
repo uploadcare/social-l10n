@@ -139,6 +139,13 @@ l10n.translations.pl = {
       title: 'Tytuł',
       size: 'Rozmiar'
     }
+  },
+  search: {
+    empty: 'Folder jest pusty',
+    noResult: 'Brak wyników dla',
+    retry: 'Proszę wprowadzić zapytanie wyszukiwania',
+    placeholder: 'Szukaj',
+    clear: 'Wyczyść',
   }
 };
 

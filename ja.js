@@ -1,5 +1,6 @@
 l10n.translations.ja = {
   logout: 'ログアウト',
+  disconnect: '%source から切断',
   error: {
     a: '処理できませんでした。',
     b: 'リロードしてください。',
@@ -144,7 +145,15 @@ l10n.translations.ja = {
       title: 'タイトル',
       size: 'サイズ'
     }
-  }
+  },
+
+  search: {
+    empty: "フォルダは空です",
+    noResult: "結果がありません",
+    retry: "検索クエリを入力してください",
+    placeholder: "検索",
+    clear: "クリア",
+  },
 };
 
 // Pluralization rules taken from:

@@ -136,6 +136,13 @@ l10n.translations.es = {
       title: 'Título',
       size: 'Tamaño'
     }
+  },
+  search: {
+    empty: 'La carpeta está vacía',
+    noResult: 'No hay resultados para',
+    retry: 'Por favor, introduzca la consulta de búsqueda',
+    placeholder: 'Buscar',
+    clear: 'Limpiar',
   }
 };
 

@@ -103,6 +103,13 @@ l10n.translations.pt = {
       button: 'Buscar'
     }
   },
+  search: {
+    empty: 'A pasta está vazia',
+    noResult: 'Nenhum resultado para',
+    retry: 'Por favor, insira a consulta de pesquisa',
+    placeholder: 'Buscar',
+    clear: 'Limpar',
+  },
   files: { // pluralization example
     one: '1 arquivo',
     other: '%n arquivos'
