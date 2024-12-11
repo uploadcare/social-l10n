@@ -53,6 +53,7 @@ l10n.translations.es = {
     menu: {
       myFiles: "Mis archivos",
       team: "Mis archivos de equipo",
+      search: "Buscar",
     },
   },
   instagram: {
@@ -75,6 +76,7 @@ l10n.translations.es = {
       shared: "Compartidos conmigo",
       starred: "Favoritos",
       search: "Buscar",
+      teamDrives: "Unidades de equipo",
     },
     search: {
       placeholder: "Buscar archivos",
