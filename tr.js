@@ -53,6 +53,7 @@ l10n.translations.tr = {
     menu: {
       myFiles: "Dosyalarım",
       team: "Takım dosyaları",
+      search: "Arama",
     },
   },
   instagram: {
@@ -75,6 +76,7 @@ l10n.translations.tr = {
       shared: "Benimle paylaşılanlar",
       starred: "Favoriler",
       search: "Arama",
+      teamDrives: "Takım sürücüleri",
     },
     search: {
       placeholder: "Dosyaları ara",
