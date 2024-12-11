@@ -22,9 +22,89 @@ l10n.translations.uk = {
       b: "Спробувати ще",
     },
   },
+  dropbox: {
+    menu: {
+      myFiles: "Мої файли",
+      team: "Файли команди",
+      search: "Пошук файлів",
+    },
+    search: {
+      placeholder: "Пошук файлів",
+      button: "Пошук файлів",
+    },
+  },
   instagram: {
     menu: {
       myPhotos: "Мої фото",
+    },
+  },
+  onedrive: {
+    menu: {
+      myFiles: "Мої файли",
+      shared: "Спільно зі мною",
+      sharepoint: "SharePoint",
+      myDrives: "Мої диски",
+      groups: "Мої групи",
+    },
+  },
+  gdrive: {
+    menu: {
+      myFiles: "Мої файли",
+      shared: "Спільно зі мною",
+      starred: "Вибране",
+      search: "Пошук",
+      teamDrives: "Командні диски",
+    },
+    search: {
+      placeholder: "Пошук файлів",
+      button: "Пошук",
+    },
+  },
+  facebook: {
+    menu: {
+      myAlbums: "Мої альбоми",
+      likedPages: "Сторінки",
+    },
+  },
+  vk: {
+    menu: {
+      myAlbums: "Мої альбоми",
+      page: "Фотографії профілю",
+      withMe: "Фотографії зі мною",
+      saved: "Збережені фотографії",
+      myFriends: "Мої друзі",
+      docs: "Мої документи",
+    },
+  },
+  evernote: {
+    menu: {
+      allNotes: "Усі нотатки",
+      notebooks: "Записники",
+      tags: "Теги",
+      search: "Пошук",
+    },
+    search: {
+      placeholder: "Пошук нотаток",
+      button: "Пошук",
+    },
+  },
+  flickr: {
+    menu: {
+      myPhotostream: "Фотопотік",
+      myAlbums: "Альбоми",
+      myFavorites: "Вибране",
+      follows: "Підписки",
+    },
+  },
+  gphotos: {
+    menu: {
+      myAlbums: "Альбоми",
+      myPhotos: "Фотографії",
+    },
+  },
+  huddle: {
+    menu: {
+      workspaces: "Робочі простори",
     },
   },
   // pluralization example
@@ -51,11 +131,11 @@ l10n.translations.uk = {
 // Pluralization rules taken from:
 // http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
 l10n.pluralize.uk = function (n) {
-  return (((n / 10) % 10) | 0) == 1 || n % 10 == 0 || n % 10 > 4
+  return ((n / 10) % 10 | 0) == 1 || n % 10 == 0 || n % 10 > 4
     ? "many"
     : n % 10 == 1
-      ? "one"
-      : "few";
+    ? "one"
+    : "few";
 };
 
 l10n.date.uk = function (d) {
