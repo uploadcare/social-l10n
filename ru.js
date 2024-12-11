@@ -58,6 +58,7 @@ l10n.translations.ru = {
     menu: {
       myFiles: "Мои файлы",
       team: "Файлы команды",
+      search: "Поиск",
     },
   },
   instagram: {
