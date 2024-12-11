@@ -54,6 +54,7 @@ l10n.translations.nl = {
     menu: {
       myFiles: "Mijn bestanden",
       team: "Teambestanden",
+      search: "Zoeken",
     },
   },
   instagram: {
@@ -76,6 +77,7 @@ l10n.translations.nl = {
       shared: "Delt med mig",
       starred: "Met ster",
       search: "Zoeken",
+      teamDrives: "Team drives",
     },
     search: {
       placeholder: "Zoek naar bestanden",
