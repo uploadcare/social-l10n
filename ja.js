@@ -55,6 +55,7 @@ l10n.translations.ja = {
     menu: {
       myFiles: "ファイル",
       team: "チームのファイル",
+      search: "検索",
     },
   },
   instagram: {
@@ -76,6 +77,8 @@ l10n.translations.ja = {
     menu: {
       myFiles: "ファイル",
       shared: "共有",
+      sharepoint: "SharePoint",
+      groups: "グループ",
     },
   },
   gdrive: {
@@ -84,6 +87,7 @@ l10n.translations.ja = {
       shared: "共有",
       starred: "スター付き",
       search: "検索",
+      teamDrives: "チームドライブ",
     },
     search: {
       placeholder: "ファイル検索",
@@ -129,6 +133,7 @@ l10n.translations.ja = {
   gphotos: {
     menu: {
       myAlbums: "アルバム",
+      myPhotos: "写真",
     },
   },
   huddle: {
