@@ -54,6 +54,7 @@ l10n.translations.de = {
     menu: {
       myFiles: "Meine Dateien",
       team: "My team files",
+      search: "Suche",
     },
   },
   instagram: {
@@ -76,6 +77,7 @@ l10n.translations.de = {
       shared: "Für mich freigegeben",
       starred: "Favoriten",
       search: "Suche",
+      teamDrives: "Team-Laufwerke",
     },
     search: {
       placeholder: "Suchnotizen",
