@@ -54,6 +54,7 @@ l10n.translations.zh = {
     menu: {
       myFiles: "我的文件",
       team: "团队文件",
+      search: "搜索",
     },
   },
   instagram: {
@@ -76,6 +77,7 @@ l10n.translations.zh = {
       shared: "分享给我的文件",
       starred: "关注的文件",
       search: "搜索",
+      teamDrives: "团队驱动器",
     },
     search: {
       placeholder: "搜索文件",
