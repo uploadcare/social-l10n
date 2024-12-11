@@ -55,6 +55,7 @@ l10n.translations.pl = {
     menu: {
       myFiles: "Moje pliki",
       team: "Pliki drużyn",
+      search: "Szukaj",
     },
   },
   instagram: {
@@ -77,6 +78,7 @@ l10n.translations.pl = {
       shared: "Udostępnione",
       starred: "Wyróżnione",
       search: "Szukaj",
+      teamDrives: "Dyski zespołowe",
     },
     search: {
       placeholder: "Przeszukaj pliki",
