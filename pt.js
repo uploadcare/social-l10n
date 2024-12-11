@@ -43,6 +43,7 @@ l10n.translations.pt = {
     menu: {
       myFiles: "Meus Arquivos",
       team: "Arquivos da equipe",
+      search: "Pesquisar",
     },
   },
   instagram: {
@@ -57,6 +58,7 @@ l10n.translations.pt = {
       sharepoint: "SharePoint",
       myDrives: "Meus drives",
       groups: "Meus grupos",
+      teamDrives: "Drives da equipe",
     },
   },
   gdrive: {
@@ -65,10 +67,19 @@ l10n.translations.pt = {
       shared: "Compartilhados comigo",
       starred: "Com Estrela",
       search: "Busca",
+      teamDrives: "Drives da equipe",
     },
     search: {
       placeholder: "Procurar por arquivos",
       button: "Buscar",
+    },
+  },
+  flickr: {
+    menu: {
+      myPhotostream: "Fotostream",
+      myAlbums: "Álbuns",
+      myFavorites: "Favoritos",
+      follows: "Seguindo",
     },
   },
   gphotos: {
@@ -97,6 +108,7 @@ l10n.translations.pt = {
       notebooks: "Notebooks",
       tags: "Tags",
       search: "Busca",
+      allNotes: "Todas as Notas",
     },
     search: {
       placeholder: "Procurar arquivos em notas",
