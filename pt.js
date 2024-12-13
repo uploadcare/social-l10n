@@ -40,7 +40,8 @@ l10n.translations.pt = {
     button: "Conectar ao %source",
     facebookButton: "Continuar com o Facebook",
     note: "Nós abriremos uma nova página para conectar sua conta %source.",
-    cookieWarning: "Você bloqueou cookies de terceiros em seu navegador. A autorização requer cookies de terceiros, pelo menos para o domínio <code>social.uploadcare.com</code>.",
+    cookieWarning:
+      "Você bloqueou cookies de terceiros em seu navegador. A autorização requer cookies de terceiros, pelo menos para o domínio <code>social.uploadcare.com</code>.",
     cookieRetry: "Desbloqueei os cookies e quero tentar novamente.",
   },
   pagination: {
