@@ -1,5 +1,6 @@
 l10n.translations.he = {
   logout: "להתנתק",
+  disconnect: "להתנתק מ- %source",
   error: {
     a: "משהו השתבש נא",
     b: "טען מחדש",
@@ -18,6 +19,7 @@ l10n.translations.he = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "העלו את תמונתכם %source",
@@ -28,11 +30,11 @@ l10n.translations.he = {
       box: "קבל קבצים מחשבון Box שלך.",
       evernote: "קבל קבצים מחשבון Evernote שלך",
       instagram: "קבל את התמונות שלך.",
-      instagram_graph_api: "קבל את התמונות שלך.",
       flickr: "קבל קבצים מחשבון Flickr שלך.",
       facebook: "קבל תמונות מהאלבומים שלך.",
       vk: "קבל קבצים מחשבון VK שלך.",
       gphotos: "קבל קבצים מחשבון Google Photos שלך.",
+      nft: "קבל קבצים מהנכסים הדיגיטליים שלך.",
     },
     lineB: "רק נשאר להתחבר למשתמש שלכם.",
     button: "התחבר ל %source",
@@ -135,6 +137,15 @@ l10n.translations.he = {
   huddle: {
     menu: {
       workspaces: "Workspaces",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "הנכסים שלי",
+      owner: "כתובת הבעלים",
+    },
+    assets: {
+      button: "הצג",
     },
   },
   // pluralization example

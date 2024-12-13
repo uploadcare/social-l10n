@@ -63,7 +63,6 @@ l10n.translations.lv = {
     search: {
       placeholder: "Meklēt failus",
       button: "Meklēt",
-      clear: "Notīrīt",
     },
   },
   instagram: {

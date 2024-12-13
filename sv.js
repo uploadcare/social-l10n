@@ -63,7 +63,6 @@ l10n.translations.sv = {
     search: {
       placeholder: "Sök filer",
       button: "Sök filer",
-      clear: "Rensa",
     },
   },
   instagram: {

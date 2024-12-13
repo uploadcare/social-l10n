@@ -1,4 +1,5 @@
 l10n.translations.de = {
+  disconnect: "Trennen von %source",
   logout: "Abmelden",
   error: {
     a: "Ein Fehler ist aufgetreten. Bitte",
@@ -18,6 +19,7 @@ l10n.translations.de = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "Hochladen einer Datei von %source",
@@ -31,7 +33,8 @@ l10n.translations.de = {
       flickr: "Holen Sie Ihre Fotos oder die Ihrer Freunde.",
       facebook: "Holen Sie Bilder aus Ihren Alben.",
       vk: "Holen Sie Fotos und Dokumente aus Ihrem Konto.",
-      gphotos: "Holen Fotos aus Ihrem Google Photos-Konto.",
+      gphotos: "Holen Fotos aus Ihrem Google Fotos-Konto.",
+      nft: "Holen Sie Dateien aus Ihren NFT-Vermögenswerten.",
     },
     lineB: "Wir machen es Ihnen einfach. Sie brauchen sich nur anzumelden.",
     button: "Verbinden mit %source",
@@ -54,6 +57,11 @@ l10n.translations.de = {
     menu: {
       myFiles: "Meine Dateien",
       team: "My team files",
+      search: "Suche",
+    },
+    search: {
+      placeholder: "Dateien suchen",
+      button: "Dateien suchen",
     },
   },
   instagram: {
@@ -76,6 +84,7 @@ l10n.translations.de = {
       shared: "Für mich freigegeben",
       starred: "Favoriten",
       search: "Suche",
+      teamDrives: "Team-Laufwerke",
     },
     search: {
       placeholder: "Suchnotizen",
@@ -127,6 +136,15 @@ l10n.translations.de = {
   huddle: {
     menu: {
       workspaces: "Workspaces",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Meine Vermögenswerte",
+      owner: "Eigentümeradresse",
+    },
+    assets: {
+      button: "Anzeigen",
     },
   },
   files: {

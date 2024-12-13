@@ -64,7 +64,6 @@ l10n.translations.et = {
     search: {
       placeholder: "Otsi faile",
       button: "Otsi faile",
-      clear: "Tühjenda",
     },
   },
   instagram: {

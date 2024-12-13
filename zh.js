@@ -1,5 +1,6 @@
 l10n.translations.zh = {
   logout: "退出",
+  disconnect: "从%source断开连接",
   error: {
     a: "发生错误，请",
     b: "重新载入",
@@ -18,6 +19,7 @@ l10n.translations.zh = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "从%source上传文件",
@@ -32,6 +34,7 @@ l10n.translations.zh = {
       facebook: "从自己相册里上传照片",
       vk: "从VK账号上传照片和文件",
       gphotos: "从Google Photos账号上传照片",
+      nft: "从NFT账号获取文件并上传",
     },
     lineB: "您只需要登录",
     button: "链接%source",
@@ -54,6 +57,11 @@ l10n.translations.zh = {
     menu: {
       myFiles: "我的文件",
       team: "团队文件",
+      search: "搜索",
+    },
+    search: {
+      placeholder: "搜索文件",
+      button: "搜索文件",
     },
   },
   instagram: {
@@ -76,6 +84,7 @@ l10n.translations.zh = {
       shared: "分享给我的文件",
       starred: "关注的文件",
       search: "搜索",
+      teamDrives: "团队驱动器",
     },
     search: {
       placeholder: "搜索文件",
@@ -127,6 +136,15 @@ l10n.translations.zh = {
   huddle: {
     menu: {
       workspaces: "Workspaces",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "我的资产",
+      owner: "所有者地址",
+    },
+    assets: {
+      button: "显示",
     },
   },
   // pluralization example

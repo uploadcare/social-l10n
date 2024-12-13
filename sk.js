@@ -63,7 +63,6 @@ l10n.translations.sk = {
     search: {
       placeholder: "Hľadať súbory",
       button: "Hľadať súbory",
-      clear: "Vymazať",
     },
   },
   instagram: {

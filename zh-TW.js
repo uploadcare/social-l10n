@@ -1,5 +1,6 @@
 l10n.translations.zhTW = {
   logout: "登出",
+  disconnect: "從 %source 斷開連接",
   error: {
     a: "發生了一些問題，請",
     b: "重新載入",
@@ -18,6 +19,7 @@ l10n.translations.zhTW = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "從我的 %source 上傳",
@@ -32,6 +34,7 @@ l10n.translations.zhTW = {
       facebook: "從自己相簿上傳照片",
       vk: "從自己的帳號上傳照片",
       gphotos: "從自己的 Google Photos雲端硬碟帳號取得檔案並上傳",
+      nft: "從自己的 NFT 帳號取得檔案並上傳",
     },
     lineB: "您只需要登入並連接您的帳號",
     button: "連接 %source",
@@ -55,6 +58,11 @@ l10n.translations.zhTW = {
     menu: {
       myFiles: "我的文件",
       team: "团队文件",
+      search: "搜索文件",
+    },
+    search: {
+      placeholder: "搜索文件",
+      button: "搜索文件",
     },
   },
   instagram: {
@@ -77,6 +85,7 @@ l10n.translations.zhTW = {
       shared: "與我共用",
       starred: "已加星號",
       search: "尋找",
+      teamDrives: "团队驱动器",
     },
     search: {
       placeholder: "搜索文件",
@@ -128,6 +137,15 @@ l10n.translations.zhTW = {
   huddle: {
     menu: {
       workspaces: "Workspaces",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "我的資產",
+      owner: "擁有者地址",
+    },
+    assets: {
+      button: "顯示",
     },
   },
   // pluralization example

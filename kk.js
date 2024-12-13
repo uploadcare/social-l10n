@@ -64,7 +64,6 @@ l10n.translations.kk = {
     search: {
       placeholder: "Файлдарды іздеу",
       button: "Іздеу",
-      clear: "Тазалау",
     },
   },
   instagram: {

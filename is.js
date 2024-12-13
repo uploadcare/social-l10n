@@ -63,7 +63,6 @@ l10n.translations.is = {
     search: {
       placeholder: "Leita að skrám",
       button: "Leita að skrám",
-      clear: "Hreinsa",
     },
   },
   instagram: {

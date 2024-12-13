@@ -63,7 +63,6 @@ l10n.translations.ca = {
     search: {
       placeholder: "Cerca fitxers",
       button: "Cerca fitxers",
-      clear: "Esborra",
     },
   },
   instagram: {
