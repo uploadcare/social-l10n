@@ -1,5 +1,6 @@
 l10n.translations.ru = {
   logout: "Выйти",
+  disconnect: "Выйти из %source",
   error: {
     a: "Что-то пошло не так. Пожалуйста",
     b: "перезагрузите",
@@ -59,6 +60,10 @@ l10n.translations.ru = {
       myFiles: "Мои файлы",
       team: "Файлы команды",
       search: "Поиск",
+    },
+    search: {
+      placeholder: "Искать файлы",
+      button: "Искать файлы",
     },
   },
   instagram: {

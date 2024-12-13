@@ -1,5 +1,6 @@
 l10n.translations.pt = {
   logout: "Sair",
+  disconnect: "Desconectar do %source",
   error: {
     a: "Alguma coisa deu errado. Por favor",
     b: "recarregue", // not sure about this one
@@ -13,6 +14,12 @@ l10n.translations.pt = {
     vk: "VK",
     evernote: "Evernote",
     gphotos: "Google Photos",
+    nft: "NFT",
+    box: "Box",
+    skydrive: "OneDrive",
+    onedrive: "OneDrive",
+    flickr: "Flickr",
+    huddle: "Huddle",
   },
   login: {
     title: "Faça upload de um arquivo do %source",
@@ -26,14 +33,19 @@ l10n.translations.pt = {
       vk: "Acesse fotos e documentos da sua conta.",
       evernote: "Acesse arquivos da sua conta do Evernote",
       gphotos: "Acesse imagens dos sua conta do Google Photos.",
+      nft: "Acesse arquivos dos seus ativos NFT.",
+      flickr: "Acesse fotos dos seus álbuns.",
     },
     lineB: "Nós jogamos limpo. Você só precisa fazer login.",
     button: "Conectar ao %source",
     facebookButton: "Continuar com o Facebook",
     note: "Nós abriremos uma nova página para conectar sua conta %source.",
+    cookieWarning: "Você bloqueou cookies de terceiros em seu navegador. A autorização requer cookies de terceiros, pelo menos para o domínio <code>social.uploadcare.com</code>.",
+    cookieRetry: "Desbloqueei os cookies e quero tentar novamente.",
   },
   pagination: {
     loading: "Carregando mais itens...",
+    loadMore: "Carregar mais",
     failed: {
       a: "Não foi possível carregar.",
       b: "Por favor, tente novamente",
@@ -44,6 +56,10 @@ l10n.translations.pt = {
       myFiles: "Meus Arquivos",
       team: "Arquivos da equipe",
       search: "Pesquisar",
+    },
+    search: {
+      placeholder: "Procurar arquivos",
+      button: "Buscar",
     },
   },
   instagram: {
@@ -58,7 +74,6 @@ l10n.translations.pt = {
       sharepoint: "SharePoint",
       myDrives: "Meus drives",
       groups: "Meus grupos",
-      teamDrives: "Drives da equipe",
     },
   },
   gdrive: {
@@ -88,9 +103,15 @@ l10n.translations.pt = {
       myPhotos: "Fotos",
     },
   },
+  huddle: {
+    menu: {
+      workspaces: "Espaços de Trabalho",
+    },
+  },
   facebook: {
     menu: {
       myAlbums: "Meus Álbuns",
+      likedPages: "Páginas",
     },
   },
   vk: {
@@ -113,6 +134,15 @@ l10n.translations.pt = {
     search: {
       placeholder: "Procurar arquivos em notas",
       button: "Buscar",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Meus Ativos",
+      owner: "Endereço do proprietário",
+    },
+    assets: {
+      button: "Mostrar",
     },
   },
   search: {

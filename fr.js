@@ -1,5 +1,6 @@
 l10n.translations.fr = {
   logout: "Déconnexion",
+  disconnect: "Déconnecter de %source",
   error: {
     a: "Il y a eu un petit soucis. Merci de",
     b: "recharger",
@@ -18,6 +19,7 @@ l10n.translations.fr = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "Envoyer un fichier depuis %source",
@@ -32,6 +34,7 @@ l10n.translations.fr = {
       facebook: "Récupérez des images à partir de vos albums.",
       vk: "Récupérez vos photos et vos documents depuis votre compte.",
       gphotos: "Récupérez vos photos depuis votre compte Google Photos.",
+      nft: "Récupérez des fichiers à partir de vos actifs NFT.",
     },
     lineB: "On s'occupe de tout. Vous n'avez qu'à vous connecter.",
     button: "Se connecter à %source",
@@ -56,6 +59,10 @@ l10n.translations.fr = {
       myFiles: "Mes fichiers",
       team: "Fichiers d‘équipe",
       search: "Recherche",
+    },
+    search: {
+      placeholder: "Rechercher des fichiers",
+      button: "Rechercher des fichiers",
     },
   },
   instagram: {
@@ -130,6 +137,15 @@ l10n.translations.fr = {
   huddle: {
     menu: {
       workspaces: "Workspaces",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Mes actifs",
+      owner: "Adresse du propriétaire",
+    },
+    assets: {
+      button: "Afficher",
     },
   },
   search: {

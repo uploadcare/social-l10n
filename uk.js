@@ -1,18 +1,50 @@
 l10n.translations.uk = {
   logout: "Вийти",
+  disconnect: "Відключитися від %source",
   error: {
     a: "Щось пішло не так. Будь ласка",
     b: "перезавантажити",
     c: "Технічні подробиці:",
   },
+  sourceName: {
+    gdrive: "Google Drive",
+    dropbox: "Dropbox",
+    facebook: "Facebook",
+    instagram: "Instagram",
+    vk: "VK",
+    box: "Box",
+    evernote: "Evernote",
+    skydrive: "OneDrive",
+    onedrive: "OneDrive",
+    flickr: "Flickr",
+    huddle: "Huddle",
+    gphotos: "Google Photos",
+    nft: "NFT",
+  },
   login: {
     title: "Завантажити файли з %source",
     lineA: {
       instagram: "Виберіть фото з вашого акаунту.",
+      onedrive: "Отримайте файли з вашого акаунту OneDrive.",
+      gdrive: "Отримайте файли з вашого акаунту Google.",
+      dropbox: "Отримайте файли з вашого акаунту Dropbox.",
+      box: "Отримайте файли з вашого акаунту Box.",
+      evernote: "Отримайте файли з вашого акаунту Evernote.",
+      flickr: "Отримайте ваші або фото ваших друзів.",
+      facebook: "Отримайте зображення з ваших альбомів.",
+      vk: "Отримайте фото та документи з вашого акаунту.",
+      gphotos: "Отримайте фото з вашого акаунту Google Photos.",
+      nft: "Отримайте файли з ваших NFT активів.",
     },
     lineB: "Ми про все подбаємо.<br> Вам достатньо лише увійти до системи.",
     note: "Сторінка входу відкриється у новому вікні.",
     button: "Увійти через %source",
+    facebookButton: "Продовжити з Facebook",
+    cookieWarning:
+      "Ви заблокували сторонні файли cookie у своєму браузері. " +
+      "Авторизація вимагає сторонніх файлів cookie принаймні для " +
+      "<code>social.uploadcare.com</code> домену.",
+    cookieRetry: "Я розблокував файли cookie і хочу спробувати ще раз.",
   },
   pagination: {
     loading: "Завантаження...",
@@ -105,6 +137,15 @@ l10n.translations.uk = {
   huddle: {
     menu: {
       workspaces: "Робочі простори",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Мої активи",
+      owner: "Адреса власника",
+    },
+    assets: {
+      button: "Показати",
     },
   },
   // pluralization example

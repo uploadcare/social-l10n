@@ -1,5 +1,6 @@
 l10n.translations.pl = {
   logout: "Wyloguj",
+  disconnect: "Rozłącz z %source",
   error: {
     a: "Ups. Coś poszło nie tak. Proszę,",
     b: "przeładuj stronę.",
@@ -18,6 +19,7 @@ l10n.translations.pl = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "Skorzystaj z konta %source",
@@ -32,6 +34,7 @@ l10n.translations.pl = {
       facebook: "Wybierz zdjęcie ze swojego albumu.",
       vk: "Wybierz zdjęcie lub pliki ze swojego konta.",
       gphotos: "Wybierz zdjęcie ze swojego konta Google Photos.",
+      nft: "Wybierz pliki ze swojego konta NFT.",
     },
     lineB: "To proste. Wystarczy, że się zalogujesz.",
     button: "Połącz z kontem %source",
@@ -56,6 +59,10 @@ l10n.translations.pl = {
       myFiles: "Moje pliki",
       team: "Pliki drużyn",
       search: "Szukaj",
+    },
+    search: {
+      placeholder: "Szukaj plików",
+      button: "Szukaj plików",
     },
   },
   instagram: {
@@ -130,6 +137,15 @@ l10n.translations.pl = {
   huddle: {
     menu: {
       workspaces: "Obszary robocze",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Moje zasoby",
+      owner: "Adres właściciela",
+    },
+    assets: {
+      button: "Pokaż",
     },
   },
   // pluralization example

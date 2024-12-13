@@ -1,5 +1,6 @@
 l10n.translations.tr = {
   logout: "Oturumu kapat",
+  disconnect: "%source'dan bağlantıyı kes",
   error: {
     a: "Bir sorun oluştu. Lütfen",
     b: "yeniden yükleyin",
@@ -18,6 +19,7 @@ l10n.translations.tr = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "%source kaynağından bir dosya yükleyin",
@@ -32,6 +34,7 @@ l10n.translations.tr = {
       facebook: "Kendinizin albümlerinden resim alın.",
       vk: "Hesabınızdan fotoğraf veya belge alın.",
       gphotos: "Google Photos fotoğraflarını dosya alın.",
+      nft: "NFT varlıklarınızdan dosya alın.",
     },
     lineB: "İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.",
     button: "%source'a bağlan",
@@ -54,6 +57,10 @@ l10n.translations.tr = {
       myFiles: "Dosyalarım",
       team: "Takım dosyaları",
       search: "Arama",
+    },
+    search: {
+      placeholder: "Dosyaları ara",
+      button: "Dosyaları ara",
     },
   },
   instagram: {
@@ -128,6 +135,15 @@ l10n.translations.tr = {
   huddle: {
     menu: {
       workspaces: "Çalışma alanları",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Varlıklarım",
+      owner: "Sahip adresi",
+    },
+    assets: {
+      button: "Göster",
     },
   },
   files: {

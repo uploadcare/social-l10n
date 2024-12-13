@@ -1,5 +1,6 @@
 l10n.translations.nl = {
   logout: "Uitloggen",
+  disconnect: "Verbinding verbreken met %source",
   error: {
     a: "Er ging iets mis.",
     b: "ververs",
@@ -18,6 +19,7 @@ l10n.translations.nl = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "Upload een bestand van %source",
@@ -32,6 +34,7 @@ l10n.translations.nl = {
       facebook: "Upload vanuit je Facebook foto's",
       vk: "Upload vanuit vKontakte",
       gphotos: "Upload vanuit je Google Photos",
+      nft: "Upload vanuit je NFT assets",
     },
     lineB: "Login om je bestanden te kunnen zien.",
     button: "Maak verbinding met %source",
@@ -55,6 +58,10 @@ l10n.translations.nl = {
       myFiles: "Mijn bestanden",
       team: "Teambestanden",
       search: "Zoeken",
+    },
+    search: {
+      placeholder: "Zoek naar bestanden",
+      button: "Zoeken",
     },
   },
   instagram: {
@@ -129,6 +136,15 @@ l10n.translations.nl = {
   huddle: {
     menu: {
       workspaces: "Werkruimte",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "Mijn bezittingen",
+      owner: "Eigenaar adres",
+    },
+    assets: {
+      button: "Toon",
     },
   },
   search: {

@@ -19,11 +19,12 @@ l10n.translations.ja = {
     flickr: "Flickr",
     huddle: "Huddle",
     gphotos: "Google Photos",
+    nft: "NFT",
   },
   login: {
     title: "%sourceからファイルをアップロード",
     lineA: {
-      oneDrive: "OneDriveアカウントからファイルを読み込む。",
+      onedrive: "OneDriveアカウントからファイルを読み込む。",
       gdrive: "Googleアカウントからファイルを読み込む。",
       dropbox: "Dropboxアカウントからファイルを読み込む。",
       box: "Boxアカウントからファイルを読み込む。",
@@ -33,6 +34,7 @@ l10n.translations.ja = {
       facebook: "アルバムから画像を読み込む。",
       vk: "アカウントから画像、書類を読み込む。",
       gphotos: "Google Photosアカウントからファイルを読み込む。",
+      nft: "NFTアセットからファイルを読み込む。",
     },
     lineB: "ログインしてください。",
     button: "%sourceに接続",
@@ -57,20 +59,14 @@ l10n.translations.ja = {
       team: "チームのファイル",
       search: "検索",
     },
+    search: {
+      placeholder: "ファイル検索",
+      button: "ファイル検索",
+    },
   },
   instagram: {
     menu: {
       myPhotos: "フォト",
-      myLikes: "お気に入り",
-      myFollowings: "フォロー",
-      search: "検索",
-    },
-    search: {
-      placeholder: "ハッシュタグで画像を検索",
-      button: "検索",
-    },
-    errors: {
-      account_is_private: "プライベートフィード",
     },
   },
   onedrive: {
@@ -79,6 +75,7 @@ l10n.translations.ja = {
       shared: "共有",
       sharepoint: "SharePoint",
       groups: "グループ",
+      myDrives: "ドライブ",
     },
   },
   gdrive: {
@@ -139,6 +136,15 @@ l10n.translations.ja = {
   huddle: {
     menu: {
       workspaces: "ワークスペース",
+    },
+  },
+  nft: {
+    menu: {
+      myAssets: "アセット",
+      owner: "所有者のアドレス",
+    },
+    assets: {
+      button: "表示",
     },
   },
   // pluralization example
