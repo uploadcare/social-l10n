@@ -1,154 +1,166 @@
 l10n.translations.tr = {
-  logout: 'Oturumu kapat',
+  logout: "Oturumu kapat",
   error: {
-    a: 'Bir sorun oluştu. Lütfen',
-    b: 'yeniden yükleyin',
-    c: 'Bazı teknik ayrıntılar şunlardır:'
+    a: "Bir sorun oluştu. Lütfen",
+    b: "yeniden yükleyin",
+    c: "Bazı teknik ayrıntılar şunlardır:",
   },
   sourceName: {
-    gdrive: 'Google Drive',
-    dropbox: 'Dropbox',
-    facebook: 'Facebook',
-    instagram: 'Instagram',
-    vk: 'VK',
-    box: 'Box',
-    evernote: 'Evernote',
-    onedrive: 'OneDrive',
-    skydrive: 'OneDrive',
-    flickr: 'Flickr',
-    huddle: 'Huddle',
-    gphotos: 'Google Photos'
+    gdrive: "Google Drive",
+    dropbox: "Dropbox",
+    facebook: "Facebook",
+    instagram: "Instagram",
+    vk: "VK",
+    box: "Box",
+    evernote: "Evernote",
+    onedrive: "OneDrive",
+    skydrive: "OneDrive",
+    flickr: "Flickr",
+    huddle: "Huddle",
+    gphotos: "Google Photos",
   },
   login: {
-    title: '%source kaynağından bir dosya yükleyin',
+    title: "%source kaynağından bir dosya yükleyin",
     lineA: {
-      onedrive: 'OneDrive hesabınızdan dosya alın.',
-      gdrive: 'Google hesabınızdan dosya alın.',
-      dropbox: 'Dropbox hesabınızdan dosya alın.',
-      box: 'Box hesabınızdan dosya alın.',
-      evernote: 'Evernote hesabınızdan dosya alın.',
-      instagram: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
-      flickr: 'Kendinizin veya arkadaşlarınızın fotoğraflarını alın.',
-      facebook: 'Kendinizin albümlerinden resim alın.',
-      vk: 'Hesabınızdan fotoğraf veya belge alın.',
-      gphotos: 'Google Photos fotoğraflarını dosya alın.'
+      onedrive: "OneDrive hesabınızdan dosya alın.",
+      gdrive: "Google hesabınızdan dosya alın.",
+      dropbox: "Dropbox hesabınızdan dosya alın.",
+      box: "Box hesabınızdan dosya alın.",
+      evernote: "Evernote hesabınızdan dosya alın.",
+      instagram: "Kendinizin veya arkadaşlarınızın fotoğraflarını alın.",
+      flickr: "Kendinizin veya arkadaşlarınızın fotoğraflarını alın.",
+      facebook: "Kendinizin albümlerinden resim alın.",
+      vk: "Hesabınızdan fotoğraf veya belge alın.",
+      gphotos: "Google Photos fotoğraflarını dosya alın.",
     },
-    lineB: 'İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.',
-    button: '%source\'a bağlan',
-    facebookButton: 'Facebook ile Devam Et',
-    note: '%source hesabınıza bağlanmak için yeni bir sayfa açacağız.',
-    cookieWarning: 'Tarayıcınızdaki üçüncü taraf çerezleri engellediniz. En azından <code>social.uploadcare.com</code> alanı için üçüncü taraf çerezlerine izin vermeniz gerekiyor.',
-    cookieRetry: 'Çerezlerin engelini kaldırdım ve tekrar denemek istiyorum.'
+    lineB: "İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.",
+    button: "%source'a bağlan",
+    facebookButton: "Facebook ile Devam Et",
+    note: "%source hesabınıza bağlanmak için yeni bir sayfa açacağız.",
+    cookieWarning:
+      "Tarayıcınızdaki üçüncü taraf çerezleri engellediniz. En azından <code>social.uploadcare.com</code> alanı için üçüncü taraf çerezlerine izin vermeniz gerekiyor.",
+    cookieRetry: "Çerezlerin engelini kaldırdım ve tekrar denemek istiyorum.",
   },
   pagination: {
-    loading: 'Daha fazla öğe yükleniyor…',
-    loadMore: 'Daha fazla yükleyin',
+    loading: "Daha fazla öğe yükleniyor…",
+    loadMore: "Daha fazla yükleyin",
     failed: {
-      a: 'Yükleme başarısız oldu.',
-      b: 'Tekrar deneyin'
-    }
+      a: "Yükleme başarısız oldu.",
+      b: "Tekrar deneyin",
+    },
   },
   dropbox: {
     menu: {
-      myFiles: 'Dosyalarım',
-      team: 'Takım dosyaları'
-    }
+      myFiles: "Dosyalarım",
+      team: "Takım dosyaları",
+    },
   },
   instagram: {
     menu: {
-      myPhotos: 'Fotoğraflarım',
+      myPhotos: "Fotoğraflarım",
     },
   },
   onedrive: {
     menu: {
-      myFiles: 'Dosyalarım',
-      shared: 'Benimle paylaşılanlar',
-      sharepoint: 'SharePoint',
-      myDrives: 'Sürücülerim',
-      groups: 'Benim grupları'
-    }
+      myFiles: "Dosyalarım",
+      shared: "Benimle paylaşılanlar",
+      sharepoint: "SharePoint",
+      myDrives: "Sürücülerim",
+      groups: "Benim grupları",
+    },
   },
   gdrive: {
     menu: {
-      myFiles: 'Dosyalarım',
-      shared: 'Benimle paylaşılanlar',
-      starred: 'Favoriler',
-      search: 'Arama'
+      myFiles: "Dosyalarım",
+      shared: "Benimle paylaşılanlar",
+      starred: "Favoriler",
+      search: "Arama",
     },
     search: {
-      placeholder: 'Dosyaları ara',
-      button: 'Arama'
-    }
+      placeholder: "Dosyaları ara",
+      button: "Arama",
+    },
   },
   facebook: {
     menu: {
-      myAlbums: 'Albümlerim',
-      likedPages: 'Sayfalar'
-    }
+      myAlbums: "Albümlerim",
+      likedPages: "Sayfalar",
+    },
   },
   vk: {
     menu: {
-      myAlbums: 'Albümlerim',
-      page: 'Profil Resimleri',
-      withMe: 'Benim Olduğum Fotoğraflar',
-      saved: 'Kaydedilen Fotoğraflar',
-      myFriends: 'Arkadaşlarım',
-      docs: 'Belgelerim'
-    }
+      myAlbums: "Albümlerim",
+      page: "Profil Resimleri",
+      withMe: "Benim Olduğum Fotoğraflar",
+      saved: "Kaydedilen Fotoğraflar",
+      myFriends: "Arkadaşlarım",
+      docs: "Belgelerim",
+    },
   },
   evernote: {
     menu: {
-      allNotes: 'Tüm Notlar',
-      notebooks: 'Not Defterleri',
-      tags: 'Etiketler',
-      search: 'Arama'
+      allNotes: "Tüm Notlar",
+      notebooks: "Not Defterleri",
+      tags: "Etiketler",
+      search: "Arama",
     },
     search: {
-      placeholder: 'Arama notları',
-      button: 'Arama'
-    }
+      placeholder: "Arama notları",
+      button: "Arama",
+    },
   },
   flickr: {
     menu: {
-      myPhotostream: 'Fotoğraf akışı',
-      myAlbums: 'Albümler',
-      myFavorites: 'Favoriler',
-      follows: 'Takip Edilenler'
-    }
+      myPhotostream: "Fotoğraf akışı",
+      myAlbums: "Albümler",
+      myFavorites: "Favoriler",
+      follows: "Takip Edilenler",
+    },
   },
   gphotos: {
     menu: {
-      myAlbums: 'Albümler',
-      myPhotos: 'Fotoğraflar'
-    }
+      myAlbums: "Albümler",
+      myPhotos: "Fotoğraflar",
+    },
   },
   huddle: {
     menu: {
-      workspaces: 'Çalışma alanları'
-    }
+      workspaces: "Çalışma alanları",
+    },
   },
   files: {
-    one: '%n dosya',
-    other: '%n dosyalar'
+    one: "%n dosya",
+    other: "%n dosyalar",
   },
   list: {
     table: {
-      title: 'Başlık',
-      size: 'Boyut'
-    }
+      title: "Başlık",
+      size: "Boyut",
+    },
   },
   search: {
-    empty: 'Klasör boş',
-    noResult: 'Sonuç bulunamadı',
-    retry: 'Lütfen arama sorgusunu girin',
-    placeholder: 'Ara',
-    clear: 'Temizle',
+    empty: "Klasör boş",
+    noResult: "Sonuç bulunamadı",
+    retry: "Lütfen arama sorgusunu girin",
+    placeholder: "Ara",
+    clear: "Temizle",
   },
 };
 
-
-l10n.date.tr = function(d) {
-  var months = ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz',
-                'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara' ];
+l10n.date.tr = function (d) {
+  var months = [
+    "Oca",
+    "Şub",
+    "Mar",
+    "Nis",
+    "May",
+    "Haz",
+    "Tem",
+    "Ağu",
+    "Eyl",
+    "Eki",
+    "Kas",
+    "Ara",
+  ];
   return "" + d.getDate() + " " + months[d.getMonth()] + " " + d.getFullYear();
 };
