@@ -67,6 +67,11 @@ l10n.translations.tr = {
     menu: {
       myPhotos: "Fotoğraflarım",
     },
+    deprecated: {
+      title: "%source artık mevcut değil",
+      description:
+        "Meta, üçüncü taraf uygulamalar için %source erişimini durdurdu.",
+    },
   },
   onedrive: {
     menu: {

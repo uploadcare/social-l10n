@@ -72,7 +72,7 @@ l10n.translations.en = {
     deprecated: {
       title: "%source is no longer available",
       description:
-        "Meta has discontinued access to Instagram for third-party apps.",
+        "Meta has discontinued access to %source for third-party apps.",
     },
   },
   onedrive: {

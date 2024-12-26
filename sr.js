@@ -69,6 +69,11 @@ l10n.translations.sr = {
     menu: {
       myPhotos: "Moje fotografije",
     },
+    deprecated: {
+      title: "%source više nije dostupan",
+      description:
+        "Meta je prekinula pristup %source za aplikacije trećih strana.",
+    },
   },
   onedrive: {
     menu: {

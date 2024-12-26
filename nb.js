@@ -69,6 +69,11 @@ l10n.translations.nb = {
     menu: {
       myPhotos: "Mine bilder",
     },
+    deprecated: {
+      title: "%source er ikke lenger tilgjengelig",
+      description:
+        "Meta har avbrutt tilgangen til %source for tredjepartsapper.",
+    },
   },
   onedrive: {
     menu: {

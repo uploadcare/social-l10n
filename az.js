@@ -69,6 +69,11 @@ l10n.translations.az = {
     menu: {
       myPhotos: "Mənim Şəkillərim",
     },
+    deprecated: {
+      title: "%source artıq mövcud deyil",
+      description:
+        "Meta, üçüncü tərəf tətbiqləri üçün %source-a girişi dayandırdı.",
+    },
   },
   onedrive: {
     menu: {

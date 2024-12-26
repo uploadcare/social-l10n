@@ -69,6 +69,11 @@ l10n.translations.sk = {
     menu: {
       myPhotos: "Moje fotografie",
     },
+    deprecated: {
+      title: "%source už nie je k dispozícii",
+      description:
+        "Meta ukončila prístup k %source pre aplikácie tretích strán.",
+    },
   },
   onedrive: {
     menu: {

@@ -69,6 +69,11 @@ l10n.translations.cs = {
     menu: {
       myPhotos: "Moje fotografie",
     },
+    deprecated: {
+      title: "%source již není k dispozici",
+      description:
+        "Meta ukončila přístup k %source pro aplikace třetích stran.",
+    },
   },
   onedrive: {
     menu: {

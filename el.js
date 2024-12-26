@@ -69,6 +69,11 @@ l10n.translations.el = {
     menu: {
       myPhotos: "Οι φωτογραφίες μου",
     },
+    deprecated: {
+      title: "Το %source δεν είναι πλέον διαθέσιμο",
+      description:
+        "Η Meta διέκοψε την πρόσβαση στο %source για εφαρμογές τρίτων.",
+    },
   },
   onedrive: {
     menu: {

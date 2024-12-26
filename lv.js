@@ -69,6 +69,10 @@ l10n.translations.lv = {
     menu: {
       myPhotos: "Manas fotogrāfijas",
     },
+    deprecated: {
+      title: "%source vairs nav pieejams",
+      description: "Meta ir pārtraukusi piekļuvi %source trešo pušu lietotnēm.",
+    },
   },
   onedrive: {
     menu: {

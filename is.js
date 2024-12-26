@@ -69,6 +69,11 @@ l10n.translations.is = {
     menu: {
       myPhotos: "Myndirnar mínar",
     },
+    deprecated: {
+      title: "%source er ekki lengur í boði",
+      description:
+        "Meta hefur hætt aðgangi að %source fyrir forrit frá þriðja aðila.",
+    },
   },
   onedrive: {
     menu: {

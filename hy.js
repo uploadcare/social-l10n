@@ -69,6 +69,11 @@ l10n.translations.hy = {
     menu: {
       myPhotos: "Իմ լուսանկարները",
     },
+    deprecated: {
+      title: "%source այլևս հասանելի չէ",
+      description:
+        "Meta-ն դադարեցրել է %source-ի հասանելիությունը երրորդ կողմի հավելվածների համար:",
+    },
   },
   onedrive: {
     menu: {

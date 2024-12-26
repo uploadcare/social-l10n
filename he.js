@@ -69,6 +69,10 @@ l10n.translations.he = {
     menu: {
       myPhotos: "התמונות שלי",
     },
+    deprecated: {
+      title: "%source אינו זמין עוד",
+      description: "Meta הפסיקה את הגישה ל-%source עבור אפליקציות צד שלישי.",
+    },
   },
   onedrive: {
     menu: {
