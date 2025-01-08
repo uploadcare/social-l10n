@@ -69,6 +69,11 @@ l10n.translations.sv = {
     menu: {
       myPhotos: "Mina foton",
     },
+    deprecated: {
+      title: "%source är inte längre tillgänglig",
+      description:
+        "Meta har avbrutit åtkomsten till %source för tredjepartsappar.",
+    },
   },
   onedrive: {
     menu: {

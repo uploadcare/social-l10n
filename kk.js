@@ -70,6 +70,11 @@ l10n.translations.kk = {
     menu: {
       myPhotos: "Менің фотосуреттерім",
     },
+    deprecated: {
+      title: "%source енді қол жетімді емес",
+      description:
+        "Meta үшінші тарап қолданбалары үшін %source-ке қол жетімділікті тоқтатты.",
+    },
   },
   onedrive: {
     menu: {

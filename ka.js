@@ -69,6 +69,11 @@ l10n.translations.ka = {
     menu: {
       myPhotos: "ჩემი ფოტოები",
     },
+    deprecated: {
+      title: "%source აღარ არის ხელმისაწვდომი",
+      description:
+        "Meta-მ შეწყვიტა %source-ზე წვდომა მესამე მხარის აპებისთვის.",
+    },
   },
   onedrive: {
     menu: {

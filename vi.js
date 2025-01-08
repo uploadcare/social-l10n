@@ -69,6 +69,11 @@ l10n.translations.vi = {
     menu: {
       myPhotos: "Ảnh của tôi",
     },
+    deprecated: {
+      title: "%source không còn khả dụng",
+      description:
+        "Meta đã ngừng truy cập %source cho các ứng dụng của bên thứ ba.",
+    },
   },
   onedrive: {
     menu: {

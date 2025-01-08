@@ -69,6 +69,10 @@ l10n.translations.uk = {
     menu: {
       myPhotos: "Мої фото",
     },
+    deprecated: {
+      title: "%source більше недоступний",
+      description: "Meta припинила доступ до %source для сторонніх додатків.",
+    },
   },
   onedrive: {
     menu: {
@@ -172,11 +176,11 @@ l10n.translations.uk = {
 // Pluralization rules taken from:
 // http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
 l10n.pluralize.uk = function (n) {
-  return (((n / 10) % 10) | 0) == 1 || n % 10 == 0 || n % 10 > 4
+  return ((n / 10) % 10 | 0) == 1 || n % 10 == 0 || n % 10 > 4
     ? "many"
     : n % 10 == 1
-      ? "one"
-      : "few";
+    ? "one"
+    : "few";
 };
 
 l10n.date.uk = function (d) {

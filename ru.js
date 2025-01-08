@@ -70,6 +70,10 @@ l10n.translations.ru = {
     menu: {
       myPhotos: "Мои фото",
     },
+    deprecated: {
+      title: "%source больше недоступен",
+      description: "Meta прекратила доступ к %source для сторонних приложений.",
+    },
   },
   onedrive: {
     menu: {
@@ -170,11 +174,11 @@ l10n.translations.ru = {
 };
 
 l10n.pluralize.ru = function (n) {
-  return (((n / 10) % 10) | 0) == 1 || n % 10 == 0 || n % 10 > 4
+  return ((n / 10) % 10 | 0) == 1 || n % 10 == 0 || n % 10 > 4
     ? "many"
     : n % 10 == 1
-      ? "one"
-      : "few";
+    ? "one"
+    : "few";
 };
 
 l10n.date.ru = function (d) {

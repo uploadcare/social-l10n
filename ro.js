@@ -69,6 +69,11 @@ l10n.translations.ro = {
     menu: {
       myPhotos: "Fotografiile mele",
     },
+    deprecated: {
+      title: "%source nu mai este disponibil",
+      description:
+        "Meta a întrerupt accesul la %source pentru aplicațiile terțe.",
+    },
   },
   onedrive: {
     menu: {

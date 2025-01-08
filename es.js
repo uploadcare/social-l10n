@@ -67,6 +67,11 @@ l10n.translations.es = {
     menu: {
       myPhotos: "Mis fotos",
     },
+    deprecated: {
+      title: "%source ya no está disponible",
+      description:
+        "Meta ha descontinuado el acceso a %source para aplicaciones de terceros.",
+    },
   },
   onedrive: {
     menu: {

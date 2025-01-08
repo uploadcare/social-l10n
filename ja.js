@@ -68,6 +68,11 @@ l10n.translations.ja = {
     menu: {
       myPhotos: "フォト",
     },
+    deprecated: {
+      title: "%sourceは利用できなくなりました",
+      description:
+        "Metaはサードパーティアプリへの%sourceのアクセスを中止しました。",
+    },
   },
   onedrive: {
     menu: {

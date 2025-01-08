@@ -70,6 +70,10 @@ l10n.translations.ar = {
     menu: {
       myPhotos: "صوري",
     },
+    deprecated: {
+      title: "لم يعد %source متاحًا",
+      description: "أوقفت Meta الوصول إلى %source لتطبيقات الطرف الثالث.",
+    },
   },
   onedrive: {
     menu: {

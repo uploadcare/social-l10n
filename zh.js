@@ -68,6 +68,10 @@ l10n.translations.zh = {
     menu: {
       myPhotos: "我的照片",
     },
+    deprecated: {
+      title: "%source 不再可用",
+      description: "Meta 已停止第三方应用程序对 %source 的访问。",
+    },
   },
   onedrive: {
     menu: {

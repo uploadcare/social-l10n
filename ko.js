@@ -69,6 +69,10 @@ l10n.translations.ko = {
     menu: {
       myPhotos: "내 사진",
     },
+    deprecated: {
+      title: "%source 더 이상 사용할 수 없습니다",
+      description: "Meta는 타사 앱에 대한 %source 액세스를 중단했습니다.",
+    },
   },
   onedrive: {
     menu: {

@@ -68,6 +68,11 @@ l10n.translations.nl = {
     menu: {
       myPhotos: "Mijn foto's",
     },
+    deprecated: {
+      title: "%source is niet langer beschikbaar",
+      description:
+        "Meta heeft de toegang tot %source voor apps van derden beëindigd.",
+    },
   },
   onedrive: {
     menu: {

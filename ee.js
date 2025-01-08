@@ -70,6 +70,11 @@ l10n.translations.ee = {
     menu: {
       myPhotos: "Minu fotod",
     },
+    deprecated: {
+      title: "%source ei ole enam saadaval",
+      description:
+        "Meta on lõpetanud juurdepääsu %source-le kolmanda osapoole rakenduste jaoks.",
+    },
   },
   onedrive: {
     menu: {
