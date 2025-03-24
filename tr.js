@@ -136,6 +136,8 @@ l10n.translations.tr = {
       myAlbums: "Albümler",
       myPhotos: "Fotoğraflar",
     },
+    openPicker: "Google Fotoğraflar'ı Aç",
+    waitSession: "Google Fotoğraflar Bekleniyor",
   },
   huddle: {
     menu: {

@@ -138,6 +138,8 @@ l10n.translations.sk = {
       myAlbums: "Albumy",
       myPhotos: "Fotografie",
     },
+    openPicker: "Otvoriť Google Fotky",
+    waitSession: "Čaká sa na Google Fotky",
   },
   huddle: {
     menu: {

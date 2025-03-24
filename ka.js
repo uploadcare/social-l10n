@@ -138,6 +138,8 @@ l10n.translations.ka = {
       myAlbums: "ალბომები",
       myPhotos: "ფოტოები",
     },
+    openPicker: "გახსენით Google Photos",
+    waitSession: "ელოდება Google Photos-ს",
   },
   huddle: {
     menu: {

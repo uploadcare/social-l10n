@@ -138,6 +138,8 @@ l10n.translations.vi = {
       myAlbums: "Album",
       myPhotos: "Ảnh",
     },
+    openPicker: "Mở Google Photos",
+    waitSession: "Đang chờ Google Photos",
   },
   huddle: {
     menu: {

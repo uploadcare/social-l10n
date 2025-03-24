@@ -138,6 +138,8 @@ l10n.translations.ca = {
       myAlbums: "Àlbums",
       myPhotos: "Fotos",
     },
+    openPicker: "Obre Google Fotos",
+    waitSession: "Esperant Google Fotos",
   },
   huddle: {
     menu: {

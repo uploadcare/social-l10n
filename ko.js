@@ -137,6 +137,8 @@ l10n.translations.ko = {
       myAlbums: "앨범",
       myPhotos: "사진",
     },
+    openPicker: "Google 포토 열기",
+    waitSession: "Google 포토 대기 중",
   },
   huddle: {
     menu: {

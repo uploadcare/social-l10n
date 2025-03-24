@@ -137,6 +137,8 @@ l10n.translations.lv = {
       myAlbums: "Albumi",
       myPhotos: "Fotogrāfijas",
     },
+    openPicker: "Atvērt Google fotoattēlus",
+    waitSession: "Gaida Google fotoattēlus",
   },
   huddle: {
     menu: {

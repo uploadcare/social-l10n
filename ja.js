@@ -137,6 +137,8 @@ l10n.translations.ja = {
       myAlbums: "アルバム",
       myPhotos: "写真",
     },
+    openPicker: "Google フォトを開く",
+    waitSession: "Google フォトを待機中",
   },
   huddle: {
     menu: {

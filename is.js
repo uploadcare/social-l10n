@@ -138,6 +138,8 @@ l10n.translations.is = {
       myAlbums: "Albúm",
       myPhotos: "Myndir",
     },
+    openPicker: "Opnaðu Google Myndir",
+    waitSession: "Bíð eftir Google Myndir",
   },
   huddle: {
     menu: {

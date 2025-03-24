@@ -139,6 +139,8 @@ l10n.translations.ee = {
       myAlbums: "Albumid",
       myPhotos: "Fotod",
     },
+    openPicker: "Ava Google Photos",
+    waitSession: "Ootan Google Photos",
   },
   huddle: {
     menu: {

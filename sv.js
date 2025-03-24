@@ -138,6 +138,8 @@ l10n.translations.sv = {
       myAlbums: "Album",
       myPhotos: "Foton",
     },
+    openPicker: "Öppna Google Foto",
+    waitSession: "Väntar på Google Foto",
   },
   huddle: {
     menu: {

@@ -138,6 +138,8 @@ l10n.translations.nb = {
       myAlbums: "Album",
       myPhotos: "Bilder",
     },
+    openPicker: "Åpne Google Bilder",
+    waitSession: "Venter på Google Bilder",
   },
   huddle: {
     menu: {

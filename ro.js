@@ -138,6 +138,8 @@ l10n.translations.ro = {
       myAlbums: "Albume",
       myPhotos: "Fotografii",
     },
+    openPicker: "Deschideți Google Photos",
+    waitSession: "Așteptare Google Photos",
   },
   huddle: {
     menu: {

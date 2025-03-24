@@ -137,6 +137,8 @@ l10n.translations.uk = {
       myAlbums: "Альбоми",
       myPhotos: "Фотографії",
     },
+    openPicker: "Відкрити Google Photos",
+    waitSession: "Очікування Google Photos",
   },
   huddle: {
     menu: {
