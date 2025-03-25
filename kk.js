@@ -139,6 +139,8 @@ l10n.translations.kk = {
       myAlbums: "Альбомдар",
       myPhotos: "Фотосуреттер",
     },
+    openPicker: "Google Photos ашу",
+    waitSession: "Google Photos күту",
   },
   huddle: {
     menu: {

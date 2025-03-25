@@ -137,6 +137,8 @@ l10n.translations.da = {
       myAlbums: "Albums",
       myPhotos: "Fotos",
     },
+    openPicker: "Åbn Google Fotos",
+    waitSession: "Venter på Google Fotos",
   },
   huddle: {
     menu: {

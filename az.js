@@ -138,6 +138,8 @@ l10n.translations.az = {
       myAlbums: "Albomlar",
       myPhotos: "Şəkillər",
     },
+    openPicker: "Google Photos-u açın",
+    waitSession: "Google Photos-u gözləyir",
   },
   huddle: {
     menu: {

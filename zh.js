@@ -136,6 +136,8 @@ l10n.translations.zh = {
       myAlbums: "相册",
       myPhotos: "我的照片",
     },
+    openPicker: "打开 Google 相册",
+    waitSession: "等待 Google 相册",
   },
   huddle: {
     menu: {

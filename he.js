@@ -137,6 +137,8 @@ l10n.translations.he = {
       myAlbums: "אלבומים",
       myPhotos: "תמונות",
     },
+    openPicker: "פתח את Google Photos",
+    waitSession: "ממתין ל-Google Photos",
   },
   huddle: {
     menu: {

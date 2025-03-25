@@ -138,6 +138,8 @@ l10n.translations.cs = {
       myAlbums: "Alba",
       myPhotos: "Fotografie",
     },
+    openPicker: "Otevřít Google Fotky",
+    waitSession: "Čekání na Google Fotky",
   },
   huddle: {
     menu: {

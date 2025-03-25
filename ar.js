@@ -138,6 +138,8 @@ l10n.translations.ar = {
       myAlbums: "الألبومات",
       myPhotos: "الصور",
     },
+    openPicker: "افتح صور Google",
+    waitSession: "في انتظار صور Google",
   },
   huddle: {
     menu: {

@@ -138,6 +138,8 @@ l10n.translations.el = {
       myAlbums: "Άλμπουμ",
       myPhotos: "Φωτογραφίες",
     },
+    openPicker: "Άνοιγμα Google Photos",
+    waitSession: "Αναμονή για Google Photos",
   },
   huddle: {
     menu: {

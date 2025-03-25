@@ -137,6 +137,8 @@ l10n.translations.nl = {
       myAlbums: "Albums",
       myPhotos: "Foto's",
     },
+    openPicker: "Open Google Foto's",
+    waitSession: "Wachten op Google Foto's",
   },
   huddle: {
     menu: {

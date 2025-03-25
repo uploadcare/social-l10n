@@ -138,6 +138,8 @@ l10n.translations.sr = {
       myAlbums: "Albumi",
       myPhotos: "Fotografije",
     },
+    openPicker: "Отворите Google Photos",
+    waitSession: "Чекање на Google Photos",
   },
   huddle: {
     menu: {

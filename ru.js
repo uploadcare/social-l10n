@@ -138,6 +138,8 @@ l10n.translations.ru = {
       myAlbums: "Альбомы",
       myPhotos: "Фотографии",
     },
+    openPicker: "Открыть Google Фото",
+    waitSession: "Ожидание Google Фото",
   },
   huddle: {
     menu: {

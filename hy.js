@@ -138,6 +138,8 @@ l10n.translations.hy = {
       myAlbums: "Ալբոմներ",
       myPhotos: "Լուսանկարներ",
     },
+    openPicker: "Բացեք Google Photos-ը",
+    waitSession: "Սպասում է Google Photos-ին",
   },
   huddle: {
     menu: {
