@@ -138,6 +138,8 @@ l10n.translations.es = {
     },
     openPicker: "Abrir Google Photos",
     waitSession: "Esperando Google Photos",
+    reVerificationMessagePart1: "Estamos en proceso de volver a verificar debido a los cambios en la política de Google. Si desea conectarse a Google Photos, en la página que se abre, haga clic en",
+    reVerificationMessagePart2: "Avanzado → Ir a Uploadcare (no seguro)",
   },
   huddle: {
     menu: {

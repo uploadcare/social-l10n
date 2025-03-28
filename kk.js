@@ -141,6 +141,8 @@ l10n.translations.kk = {
     },
     openPicker: "Google Photos ашу",
     waitSession: "Google Photos күту",
+    reVerificationMessagePart1: "Google саясатының өзгеруіне байланысты қайта тексеруден өтудеміз. Google Photos-қа қосылғыңыз келсе, ашылған бетте",
+    reVerificationMessagePart2: "Қосымша → Uploadcare-ге өту (қауіпсіз емес) түймесін басыңыз.",
   },
   huddle: {
     menu: {

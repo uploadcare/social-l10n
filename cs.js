@@ -140,6 +140,8 @@ l10n.translations.cs = {
     },
     openPicker: "Otevřít Google Fotky",
     waitSession: "Čekání na Google Fotky",
+    reVerificationMessagePart1: "Jsme v procesu opětovného ověření kvůli změnám v zásadách Google. Pokud se chcete připojit ke Google Fotkám, na otevřené stránce klikněte na",
+    reVerificationMessagePart2: "Pokročilé → Přejít na Uploadcare (nebezpečné)",
   },
   huddle: {
     menu: {

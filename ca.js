@@ -140,6 +140,8 @@ l10n.translations.ca = {
     },
     openPicker: "Obre Google Fotos",
     waitSession: "Esperant Google Fotos",
+    reVerificationMessagePart1: "Estem en procés de tornar a verificar a causa dels canvis en la política de Google. Si voleu connectar-vos a Google Fotos, a la pàgina que s'obre, feu clic a",
+    reVerificationMessagePart2: "Avançat → Anar a Uploadcare (no segur)",
   },
   huddle: {
     menu: {

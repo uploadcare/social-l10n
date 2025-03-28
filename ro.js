@@ -140,6 +140,8 @@ l10n.translations.ro = {
     },
     openPicker: "Deschideți Google Photos",
     waitSession: "Așteptare Google Photos",
+    reVerificationMessagePart1: "Suntem în proces de reverificare din cauza modificărilor politicii Google. Dacă doriți să vă conectați la Google Photos, pe pagina care se deschide, faceți clic pe",
+    reVerificationMessagePart2: "Avansat → Accesați Uploadcare (nesigur)",
   },
   huddle: {
     menu: {

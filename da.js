@@ -139,6 +139,8 @@ l10n.translations.da = {
     },
     openPicker: "Åbn Google Fotos",
     waitSession: "Venter på Google Fotos",
+    reVerificationMessagePart1: "Vi er i gang med at genbekræfte på grund af ændringer i Googles politik. Hvis du vil oprette forbindelse til Google Fotos, skal du på den side, der åbnes, klikke på",
+    reVerificationMessagePart2: "Avanceret → Gå til Uploadcare (usikkert)",
   },
   huddle: {
     menu: {

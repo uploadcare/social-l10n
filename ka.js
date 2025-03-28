@@ -140,6 +140,8 @@ l10n.translations.ka = {
     },
     openPicker: "გახსენით Google Photos",
     waitSession: "ელოდება Google Photos-ს",
+    reVerificationMessagePart1: "ჩვენ ვახორციელებთ გადამოწმებას Google-ის პოლიტიკის ცვლილებების გამო. თუ გსურთ Google Photos-თან დაკავშირება, გახსნილ გვერდზე დააწკაპუნეთ",
+    reVerificationMessagePart2: "Advanced → გადადით Uploadcare-ზე (არასაიმედო)",
   },
   huddle: {
     menu: {

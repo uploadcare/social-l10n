@@ -140,6 +140,8 @@ l10n.translations.vi = {
     },
     openPicker: "Mở Google Photos",
     waitSession: "Đang chờ Google Photos",
+    reVerificationMessagePart1: "Chúng tôi đang xác minh lại do thay đổi chính sách của Google. Nếu bạn muốn kết nối với Google Photos, trên trang mở ra, hãy nhấp vào",
+    reVerificationMessagePart2: "Nâng cao → Đi tới Uploadcare (không an toàn)",
   },
   huddle: {
     menu: {

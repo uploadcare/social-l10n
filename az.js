@@ -140,6 +140,8 @@ l10n.translations.az = {
     },
     openPicker: "Google Photos-u açın",
     waitSession: "Google Photos-u gözləyir",
+    reVerificationMessagePart1: "Google siyasətindəki dəyişikliklər səbəbindən yenidən yoxlama prosesindəyik. Google Photos-a qoşulmaq istəyirsinizsə, açılan səhifədə klikləyin",
+    reVerificationMessagePart2: "Ətraflı → Uploadcare-ə keçin (təhlükəsiz deyil)",
   },
   huddle: {
     menu: {

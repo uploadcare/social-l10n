@@ -139,6 +139,8 @@ l10n.translations.uk = {
     },
     openPicker: "Відкрити Google Photos",
     waitSession: "Очікування Google Photos",
+    reVerificationMessagePart1: "Ми повторно перевіряємо через зміни політики Google. Якщо ви хочете підключитися до Google Photos, на відкритій сторінці натисніть",
+    reVerificationMessagePart2: "Додатково → Перейти до Uploadcare (небезпечний)",
   },
   huddle: {
     menu: {

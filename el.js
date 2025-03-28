@@ -50,7 +50,7 @@ l10n.translations.el = {
     loading: "Φόρτωση περισσότερων στοιχείων...",
     loadMore: "Φόρτωση περισσότερων",
     failed: {
-      a: "Η φόρτωση απέ��υχε.",
+      a: "Η φόρτωση απέτυχε.",
       b: "Δοκιμάστε ξανά",
     },
   },
@@ -110,7 +110,7 @@ l10n.translations.el = {
       withMe: "Φωτογραφίες με εμένα",
       saved: "Αποθηκευμένες φωτογραφίες",
       myFriends: "Οι φίλοι μου",
-      docs: "Τα έγγρα��ά μου",
+      docs: "Τα έγγραφα μου",
     },
   },
   evernote: {
@@ -140,6 +140,8 @@ l10n.translations.el = {
     },
     openPicker: "Άνοιγμα Google Photos",
     waitSession: "Αναμονή για Google Photos",
+    reVerificationMessagePart1: "Είμαστε στη διαδικασία επανεπαλήθευσης λόγω αλλαγών στην πολιτική της Google. Εάν θέλετε να συνδεθείτε με το Google Photos, στη σελίδα που ανοίγει, κάντε κλικ στο",
+    reVerificationMessagePart2: "Για προχωρημένους → Μετάβαση στο Uploadcare (μη ασφαλές)",
   },
   huddle: {
     menu: {

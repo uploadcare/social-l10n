@@ -139,6 +139,8 @@ l10n.translations.he = {
     },
     openPicker: "פתח את Google Photos",
     waitSession: "ממתין ל-Google Photos",
+    reVerificationMessagePart1: "אנו בתהליך של אימות מחדש עקב שינויים במדיניות Google. אם ברצונך להתחבר ל-Google Photos, בדף שנפתח, לחץ על",
+    reVerificationMessagePart2: "מתקדם → עבור ל-Uploadcare (לא בטוח)",
   },
   huddle: {
     menu: {

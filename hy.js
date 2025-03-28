@@ -140,6 +140,8 @@ l10n.translations.hy = {
     },
     openPicker: "Բացեք Google Photos-ը",
     waitSession: "Սպասում է Google Photos-ին",
+    reVerificationMessagePart1: "Մենք վերանայում ենք Google-ի քաղաքականության փոփոխությունների պատճառով։ Եթե ցանկանում եք միանալ Google Photos-ին, բացված էջում սեղմեք",
+    reVerificationMessagePart2: "Ընդլայնված → Գնալ Uploadcare (անվտանգ չէ)",
   },
   huddle: {
     menu: {

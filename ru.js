@@ -140,6 +140,8 @@ l10n.translations.ru = {
     },
     openPicker: "Открыть Google Фото",
     waitSession: "Ожидание Google Фото",
+    reVerificationMessagePart1: "Мы повторно проверяем из-за изменений в политике Google. Если вы хотите подключиться к Google Photos, на открывшейся странице нажмите",
+    reVerificationMessagePart2: "Дополнительно → Перейти на Uploadcare (небезопасно)",
   },
   huddle: {
     menu: {

@@ -140,6 +140,8 @@ l10n.translations.sv = {
     },
     openPicker: "Öppna Google Foto",
     waitSession: "Väntar på Google Foto",
+    reVerificationMessagePart1: "Vi genomför en omverifiering på grund av ändringar i Googles policy. Om du vill ansluta till Google Photos, klicka på sidan som öppnas",
+    reVerificationMessagePart2: "Avancerat → Gå till Uploadcare (osäkert)",
   },
   huddle: {
     menu: {

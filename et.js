@@ -141,6 +141,8 @@ l10n.translations.et = {
     },
     openPicker: "Ava Google Photos",
     waitSession: "Ootan Google Photos",
+    reVerificationMessagePart1: "Oleme Google'i poliitika muudatuste tõttu uuesti kinnitamas. Kui soovite Google Photosiga ühendust luua, klõpsake avaneval lehel",
+    reVerificationMessagePart2: "Täpsem → Mine Uploadcare'i (ebaturvaline)",
   },
   huddle: {
     menu: {
