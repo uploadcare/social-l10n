@@ -96,6 +96,7 @@ l10n.translations.ro = {
       placeholder: "Căutați fișiere",
       button: "Căutați",
     },
+    openPicker: "Deschideți Google Drive",
   },
   facebook: {
     menu: {

@@ -96,6 +96,7 @@ l10n.translations.sk = {
       placeholder: "Hľadať súbory",
       button: "Hľadať",
     },
+    openPicker: "Otvoriť Google Drive",
   },
   facebook: {
     menu: {

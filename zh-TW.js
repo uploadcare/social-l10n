@@ -95,6 +95,7 @@ l10n.translations.zhTW = {
       placeholder: "搜索文件",
       button: "尋找",
     },
+    openPicker: "打開 Google 雲端硬碟",
   },
   facebook: {
     menu: {

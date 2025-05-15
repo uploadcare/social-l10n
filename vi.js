@@ -96,6 +96,7 @@ l10n.translations.vi = {
       placeholder: "Tìm kiếm tệp",
       button: "Tìm kiếm",
     },
+    openPicker: "Mở Google Drive",
   },
   facebook: {
     menu: {

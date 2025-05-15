@@ -94,6 +94,7 @@ l10n.translations.it = {
       placeholder: "Cerca i file",
       button: "Cerca",
     },
+    openPicker: "Apri Google Drive",
   },
   facebook: {
     menu: {

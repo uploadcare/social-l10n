@@ -96,6 +96,7 @@ l10n.translations.ar = {
       placeholder: "البحث عن الملفات",
       button: "بحث",
     },
+    openPicker: "افتح Google Drive",
   },
   facebook: {
     menu: {

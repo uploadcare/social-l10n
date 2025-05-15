@@ -96,6 +96,7 @@ l10n.translations.is = {
       placeholder: "Leita að skrám",
       button: "Leita",
     },
+    openPicker: "Opnaðu Google Drive",
   },
   facebook: {
     menu: {

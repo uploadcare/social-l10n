@@ -95,6 +95,7 @@ l10n.translations.nl = {
       placeholder: "Zoek naar bestanden",
       button: "Zoeken",
     },
+    openPicker: "Open Google Drive",
   },
   facebook: {
     menu: {

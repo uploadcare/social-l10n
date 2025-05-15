@@ -96,6 +96,7 @@ l10n.translations.ca = {
       placeholder: "Cerca fitxers",
       button: "Cerca",
     },
+    openPicker: "Obre Google Drive",
   },
   facebook: {
     menu: {

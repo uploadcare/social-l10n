@@ -95,6 +95,7 @@ l10n.translations.ko = {
       placeholder: "파일 검색",
       button: "검색",
     },
+    openPicker: "Google 드라이브 열기",
   },
   facebook: {
     menu: {
