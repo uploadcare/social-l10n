@@ -95,6 +95,7 @@ l10n.translations.he = {
       placeholder: "לחפש קבצים",
       button: "חפש קבצים",
     },
+    openPicker: "פתח את Google Drive",
   },
   facebook: {
     menu: {

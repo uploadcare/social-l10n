@@ -94,6 +94,7 @@ l10n.translations.tr = {
       placeholder: "Dosyaları ara",
       button: "Arama",
     },
+    openPicker: "Google Drive'ı Aç",
   },
   facebook: {
     menu: {

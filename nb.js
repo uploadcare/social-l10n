@@ -96,6 +96,7 @@ l10n.translations.nb = {
       placeholder: "Søk filer",
       button: "Søk",
     },
+    openPicker: "Åpne Google Disk",
   },
   facebook: {
     menu: {

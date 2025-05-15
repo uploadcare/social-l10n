@@ -95,6 +95,7 @@ l10n.translations.lv = {
       placeholder: "Meklēt failus",
       button: "Meklēt",
     },
+    openPicker: "Atvērt Google Drive",
   },
   facebook: {
     menu: {

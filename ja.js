@@ -95,6 +95,7 @@ l10n.translations.ja = {
       placeholder: "ファイル検索",
       button: "検索",
     },
+    openPicker: "Google ドライブを開く",
   },
   facebook: {
     menu: {

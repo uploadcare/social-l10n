@@ -96,6 +96,7 @@ l10n.translations.sr = {
       placeholder: "Pretraži datoteke",
       button: "Pretraži",
     },
+    openPicker: "Otvorite Google Drive",
   },
   facebook: {
     menu: {

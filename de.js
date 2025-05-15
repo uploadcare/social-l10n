@@ -95,6 +95,7 @@ l10n.translations.de = {
       placeholder: "Suchnotizen",
       button: "Suche",
     },
+    openPicker: "Google Drive öffnen",
   },
   facebook: {
     menu: {

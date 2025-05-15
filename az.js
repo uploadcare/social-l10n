@@ -96,6 +96,7 @@ l10n.translations.az = {
       placeholder: "Faylları axtarın",
       button: "Axtar",
     },
+    openPicker: "Google Drive-i açın",
   },
   facebook: {
     menu: {

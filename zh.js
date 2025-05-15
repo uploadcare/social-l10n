@@ -94,6 +94,7 @@ l10n.translations.zh = {
       placeholder: "搜索文件",
       button: "搜索",
     },
+    openPicker: "打开 Google Drive",
   },
   facebook: {
     menu: {

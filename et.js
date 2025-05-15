@@ -97,6 +97,7 @@ l10n.translations.et = {
       placeholder: "Otsi faile",
       button: "Otsi",
     },
+    openPicker: "Ava Google Drive",
   },
   facebook: {
     menu: {

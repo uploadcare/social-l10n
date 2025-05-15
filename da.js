@@ -95,6 +95,7 @@ l10n.translations.da = {
       placeholder: "Søg filer",
       button: "Søg",
     },
+    openPicker: "Åbn Google Drev",
   },
   facebook: {
     menu: {

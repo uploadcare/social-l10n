@@ -96,6 +96,7 @@ l10n.translations.ka = {
       placeholder: "ფაილების ძიება",
       button: "ძიება",
     },
+    openPicker: "გახსენით Google Drive",
   },
   facebook: {
     menu: {

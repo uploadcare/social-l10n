@@ -94,6 +94,7 @@ l10n.translations.pt = {
       placeholder: "Procurar por arquivos",
       button: "Buscar",
     },
+    openPicker: "Abrir Google Drive",
   },
   flickr: {
     menu: {

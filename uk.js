@@ -95,6 +95,7 @@ l10n.translations.uk = {
       placeholder: "Пошук файлів",
       button: "Пошук",
     },
+    openPicker: "Відкрити Google Drive",
   },
   facebook: {
     menu: {

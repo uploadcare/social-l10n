@@ -50,7 +50,7 @@ l10n.translations.el = {
     loading: "Φόρτωση περισσότερων στοιχείων...",
     loadMore: "Φόρτωση περισσότερων",
     failed: {
-      a: "Η φόρτωση απέ��υχε.",
+      a: "Η φόρτωση απέτυχε.",
       b: "Δοκιμάστε ξανά",
     },
   },
@@ -96,6 +96,7 @@ l10n.translations.el = {
       placeholder: "Αναζήτηση αρχείων",
       button: "Αναζήτηση",
     },
+    openPicker: "Άνοιγμα Google Drive",
   },
   facebook: {
     menu: {
@@ -110,7 +111,7 @@ l10n.translations.el = {
       withMe: "Φωτογραφίες με εμένα",
       saved: "Αποθηκευμένες φωτογραφίες",
       myFriends: "Οι φίλοι μου",
-      docs: "Τα έγγρα��ά μου",
+      docs: "Τα έγγραφα μου",
     },
   },
   evernote: {

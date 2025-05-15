@@ -96,6 +96,7 @@ l10n.translations.cs = {
       placeholder: "Hledat soubory",
       button: "Hledat",
     },
+    openPicker: "Otevřít Google Drive",
   },
   facebook: {
     menu: {

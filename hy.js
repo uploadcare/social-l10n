@@ -96,6 +96,7 @@ l10n.translations.hy = {
       placeholder: "Փնտրել ֆայլեր",
       button: "Փնտրել",
     },
+    openPicker: "Բացեք Google Drive-ը",
   },
   facebook: {
     menu: {
