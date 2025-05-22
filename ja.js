@@ -8,6 +8,7 @@ l10n.translations.ja = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ja = {
     lineA: {
       onedrive: "OneDriveアカウントからファイルを読み込む。",
       gdrive: "Googleアカウントからファイルを読み込む。",
+      ngdrive: "Googleアカウントからファイルを読み込む。",
       dropbox: "Dropboxアカウントからファイルを読み込む。",
       box: "Boxアカウントからファイルを読み込む。",
       evernote: "Evernoteアカウントからファイルを読み込む。",
@@ -84,6 +86,19 @@ l10n.translations.ja = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "ファイル",
+      shared: "共有",
+      starred: "スター付き",
+      search: "検索",
+      teamDrives: "チームドライブ",
+    },
+    search: {
+      placeholder: "ファイル検索",
+      button: "検索",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "ファイル",
       shared: "共有",

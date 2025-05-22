@@ -8,6 +8,7 @@ l10n.translations.ka = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ka = {
     lineA: {
       onedrive: "მიიღეთ ფაილები თქვენი OneDrive ანგარიშიდან.",
       gdrive: "მიიღეთ ფაილები თქვენი Google ანგარიშიდან.",
+      ngdrive: "მიიღეთ ფაილები თქვენი Google ანგარიშიდან.",
       dropbox: "მიიღეთ ფაილები თქვენი Dropbox ანგარიშიდან.",
       box: "მიიღეთ ფაილები თქვენი Box ანგარიშიდან.",
       evernote: "მიიღეთ ფაილები თქვენი Evernote ანგარიშიდან.",
@@ -85,6 +87,19 @@ l10n.translations.ka = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "ჩემი ფაილები",
+      shared: "გაზიარებული ჩემთან",
+      starred: "ვარსკვლავიანი",
+      search: "ძიება",
+      teamDrives: "გუნდის დრაივები",
+    },
+    search: {
+      placeholder: "ფაილების ძიება",
+      button: "ძიება",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "ჩემი ფაილები",
       shared: "გაზიარებული ჩემთან",

@@ -8,6 +8,7 @@ l10n.translations.uk = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -27,6 +28,7 @@ l10n.translations.uk = {
       instagram: "Виберіть фото з вашого акаунту.",
       onedrive: "Отримайте файли з вашого акаунту OneDrive.",
       gdrive: "Отримайте файли з вашого акаунту Google.",
+      ngdrive: "Отримайте файли з вашого акаунту Google.",
       dropbox: "Отримайте файли з вашого акаунту Dropbox.",
       box: "Отримайте файли з вашого акаунту Box.",
       evernote: "Отримайте файли з вашого акаунту Evernote.",
@@ -84,6 +86,19 @@ l10n.translations.uk = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Мої файли",
+      shared: "Спільно зі мною",
+      starred: "Вибране",
+      search: "Пошук",
+      teamDrives: "Командні диски",
+    },
+    search: {
+      placeholder: "Пошук файлів",
+      button: "Пошук",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Мої файли",
       shared: "Спільно зі мною",

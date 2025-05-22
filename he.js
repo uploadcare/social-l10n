@@ -8,6 +8,7 @@ l10n.translations.he = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.he = {
     lineA: {
       onedrive: "קבל קבצים מחשבון OneDrive שלך.",
       gdrive: "קבל קבצים מחשבון גוגל.",
+      ngdrive: "קבל קבצים מחשבון גוגל.",
       dropbox: "קבל קבצים מחשבון דרופבוקס.",
       box: "קבל קבצים מחשבון Box שלך.",
       evernote: "קבל קבצים מחשבון Evernote שלך",
@@ -84,6 +86,19 @@ l10n.translations.he = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "הקבצים שלי",
+      shared: "שתף איתי",
+      starred: "מסומן בכוכב",
+      search: "לחפש",
+      teamDrives: "צוות נוהג",
+    },
+    search: {
+      placeholder: "לחפש קבצים",
+      button: "חפש קבצים",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "הקבצים שלי",
       shared: "שתף איתי",

@@ -8,6 +8,7 @@ l10n.translations.kk = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.kk = {
     lineA: {
       onedrive: "OneDrive аккаунтыңыздан файлдарды алыңыз.",
       gdrive: "Google аккаунтыңыздан файлдарды алыңыз.",
+      ngdrive: "Google аккаунтыңыздан файлдарды алыңыз.",
       dropbox: "Dropbox аккаунтыңыздан файлдарды алыңыз.",
       box: "Box аккаунтыңыздан файлдарды алыңыз.",
       evernote: "Evernote аккаунтыңыздан файлдарды алыңыз.",
@@ -86,6 +88,19 @@ l10n.translations.kk = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Менің файлдарым",
+      shared: "Менімен бөліскен",
+      starred: "Жұлдызшалы",
+      search: "Іздеу",
+      teamDrives: "Командалық дискілер",
+    },
+    search: {
+      placeholder: "Файлдарды іздеу",
+      button: "Іздеу",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Менің файлдарым",
       shared: "Менімен бөліскен",

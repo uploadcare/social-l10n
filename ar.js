@@ -8,6 +8,7 @@ l10n.translations.ar = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ar = {
     lineA: {
       onedrive: "احصل على الملفات من حساب OneDrive الخاص بك.",
       gdrive: "احصل على الملفات من حساب Google الخاص بك.",
+      ngdrive: "احصل على الملفات من حساب Google الخاص بك.",
       dropbox: "احصل على الملفات من حساب Dropbox الخاص بك.",
       box: "احصل على الملفات من حساب Box الخاص بك.",
       evernote: "احصل على الملفات من حساب Evernote الخاص بك.",
@@ -85,6 +87,19 @@ l10n.translations.ar = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "ملفاتي",
+      shared: "مشتركة معي",
+      starred: "المميزة بنجمة",
+      search: "بحث",
+      teamDrives: "محركات الأقراص الخاصة بالفريق",
+    },
+    search: {
+      placeholder: "البحث عن الملفات",
+      button: "بحث",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "ملفاتي",
       shared: "مشتركة معي",

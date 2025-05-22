@@ -8,6 +8,7 @@ l10n.translations.da = {
   },
   sourceName: {
     gdrive: "Google Drev",
+    ngdrive: "Google Drev",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.da = {
     lineA: {
       onedrive: "Hent filer fra din OneDrive-konto.",
       gdrive: "Hent filer fra din Google-konto.",
+      ngdrive: "Hent filer fra din Google-konto.",
       dropbox: "Hent filer fra din Dropbox-konto.",
       box: "Hent filer fra din Box-konto.",
       evernote: "Hent filer fra din Evernote-konto.",
@@ -84,6 +86,19 @@ l10n.translations.da = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Mine filer",
+      shared: "Delt med mig",
+      starred: "Stjernemarkeret",
+      search: "Søg",
+      teamDrives: "Teamdrev",
+    },
+    search: {
+      placeholder: "Søg filer",
+      button: "Søg",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Mine filer",
       shared: "Delt med mig",

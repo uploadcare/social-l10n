@@ -8,6 +8,7 @@ l10n.translations.ko = {
   },
   sourceName: {
     gdrive: "Google 드라이브",
+    ngdrive: "Google 드라이브",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ko = {
     lineA: {
       onedrive: "OneDrive 계정에서 파일을 가져옵니다.",
       gdrive: "Google 계정에서 파일을 가져옵니다.",
+      ngdrive: "Google 계정에서 파일을 가져옵니다.",
       dropbox: "Dropbox 계정에서 파일을 가져옵니다.",
       box: "Box 계정에서 파일을 가져옵니다.",
       evernote: "Evernote 계정에서 파일을 가져옵니다.",
@@ -84,6 +86,19 @@ l10n.translations.ko = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "내 파일",
+      shared: "공유된 파일",
+      starred: "별표 표시됨",
+      search: "검색",
+      teamDrives: "팀 드라이브",
+    },
+    search: {
+      placeholder: "파일 검색",
+      button: "검색",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "내 파일",
       shared: "공유된 파일",

@@ -8,6 +8,7 @@ l10n.translations.az = {
   },
   sourceName: {
     gdrive: "Google Disk",
+    ngdrive: "Google Disk",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.az = {
     lineA: {
       onedrive: "Faylları OneDrive hesabınızdan əldə edin.",
       gdrive: "Faylları Google hesabınızdan əldə edin.",
+      ngdrive: "Faylları Google hesabınızdan əldə edin.",
       dropbox: "Faylları Dropbox hesabınızdan əldə edin.",
       box: "Faylları Box hesabınızdan əldə edin.",
       evernote: "Faylları Evernote hesabınızdan əldə edin.",
@@ -85,6 +87,19 @@ l10n.translations.az = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Mənim Fayllarım",
+      shared: "Mənimlə paylaşılanlar",
+      starred: "Ulduzlu",
+      search: "Axtar",
+      teamDrives: "Komanda sürücüləri",
+    },
+    search: {
+      placeholder: "Faylları axtarın",
+      button: "Axtar",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Mənim Fayllarım",
       shared: "Mənimlə paylaşılanlar",

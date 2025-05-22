@@ -8,6 +8,7 @@ l10n.translations.tr = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.tr = {
     lineA: {
       onedrive: "OneDrive hesabınızdan dosya alın.",
       gdrive: "Google hesabınızdan dosya alın.",
+      ngdrive: "Google hesabınızdan dosya alın.",
       dropbox: "Dropbox hesabınızdan dosya alın.",
       box: "Box hesabınızdan dosya alın.",
       evernote: "Evernote hesabınızdan dosya alın.",
@@ -83,6 +85,19 @@ l10n.translations.tr = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Dosyalarım",
+      shared: "Benimle paylaşılanlar",
+      starred: "Favoriler",
+      search: "Arama",
+      teamDrives: "Takım sürücüleri",
+    },
+    search: {
+      placeholder: "Dosyaları ara",
+      button: "Arama",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Dosyalarım",
       shared: "Benimle paylaşılanlar",

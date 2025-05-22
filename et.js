@@ -8,6 +8,7 @@ l10n.translations.et = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.et = {
     lineA: {
       onedrive: "Hankige failid oma OneDrive kontolt.",
       gdrive: "Hankige failid oma Google kontolt.",
+      ngdrive: "Hankige failid oma Google kontolt.",
       dropbox: "Hankige failid oma Dropbox kontolt.",
       box: "Hankige failid oma Box kontolt.",
       evernote: "Hankige failid oma Evernote kontolt.",
@@ -86,6 +88,19 @@ l10n.translations.et = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Minu failid",
+      shared: "Jagatud minuga",
+      starred: "Tärniga märgitud",
+      search: "Otsi",
+      teamDrives: "Meeskonna kettad",
+    },
+    search: {
+      placeholder: "Otsi faile",
+      button: "Otsi",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Minu failid",
       shared: "Jagatud minuga",
