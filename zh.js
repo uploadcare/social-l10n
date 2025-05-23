@@ -8,6 +8,7 @@ l10n.translations.zh = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.zh = {
     lineA: {
       onedrive: "从OneDrive账号获取文件并上传",
       gdrive: "从Google账号获取文件并上传",
+      ngdrive: "从Google账号获取文件并上传",
       dropbox: "从Dropbox账号获取文件并上传",
       box: "从Box账号获取文件并上传",
       evernote: "从Evernote账号获取文件并上传",
@@ -83,6 +85,19 @@ l10n.translations.zh = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "我的文件",
+      shared: "分享给我的文件",
+      starred: "关注的文件",
+      search: "搜索",
+      teamDrives: "团队驱动器",
+    },
+    search: {
+      placeholder: "搜索文件",
+      button: "搜索",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "我的文件",
       shared: "分享给我的文件",

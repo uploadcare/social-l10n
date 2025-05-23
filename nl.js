@@ -8,6 +8,7 @@ l10n.translations.nl = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.nl = {
     lineA: {
       onedrive: "Upload vanuit je OneDrive",
       gdrive: "Upload vanuit je Google Drive",
+      ngdrive: "Upload vanuit je Google Drive",
       dropbox: "Upload vanuit je Dropbox",
       box: "Upload vanuit je Box account",
       evernote: "Upload vanuit Evernote",
@@ -84,6 +86,19 @@ l10n.translations.nl = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Mijn bestanden",
+      shared: "Delt med mig",
+      starred: "Met ster",
+      search: "Zoeken",
+      teamDrives: "Team drives",
+    },
+    search: {
+      placeholder: "Zoek naar bestanden",
+      button: "Zoeken",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Mijn bestanden",
       shared: "Delt med mig",

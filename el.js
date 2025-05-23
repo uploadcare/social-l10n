@@ -8,6 +8,7 @@ l10n.translations.el = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.el = {
     lineA: {
       onedrive: "Λάβετε αρχεία από τον λογαριασμό σας στο OneDrive.",
       gdrive: "Λάβετε αρχεία από τον λογαριασμό σας στο Google.",
+      ngdrive: "Λάβετε αρχεία από τον λογαριασμό σας στο Google.",
       dropbox: "Λάβετε αρχεία από τον λογαριασμό σας στο Dropbox.",
       box: "Λάβετε αρχεία από τον λογαριασμό σας στο Box.",
       evernote: "Λάβετε αρχεία από τον λογαριασμό σας στο Evernote.",
@@ -85,6 +87,19 @@ l10n.translations.el = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Τα αρχεία μου",
+      shared: "Κοινόχρηστα με εμένα",
+      starred: "Αγαπημένα",
+      search: "Αναζήτηση",
+      teamDrives: "Ομαδικοί δίσκοι",
+    },
+    search: {
+      placeholder: "Αναζήτηση αρχείων",
+      button: "Αναζήτηση",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Τα αρχεία μου",
       shared: "Κοινόχρηστα με εμένα",

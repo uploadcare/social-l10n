@@ -8,6 +8,7 @@ l10n.translations.ro = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ro = {
     lineA: {
       onedrive: "Obțineți fișiere din contul dvs. OneDrive.",
       gdrive: "Obțineți fișiere din contul dvs. Google.",
+      ngdrive: "Obțineți fișiere din contul dvs. Google.",
       dropbox: "Obțineți fișiere din contul dvs. Dropbox.",
       box: "Obțineți fișiere din contul dvs. Box.",
       evernote: "Obțineți fișiere din contul dvs. Evernote.",
@@ -85,6 +87,19 @@ l10n.translations.ro = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Fișierele mele",
+      shared: "Partajat cu mine",
+      starred: "Favorite",
+      search: "Căutați",
+      teamDrives: "Unități de echipă",
+    },
+    search: {
+      placeholder: "Căutați fișiere",
+      button: "Căutați",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Fișierele mele",
       shared: "Partajat cu mine",

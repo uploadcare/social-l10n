@@ -8,6 +8,7 @@ l10n.translations.sk = {
   },
   sourceName: {
     gdrive: "Google Disk",
+    ngdrive: "Google Disk",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.sk = {
     lineA: {
       onedrive: "Získajte súbory z vášho účtu OneDrive.",
       gdrive: "Získajte súbory z vášho účtu Google.",
+      ngdrive: "Získajte súbory z vášho účtu Google.",
       dropbox: "Získajte súbory z vášho účtu Dropbox.",
       box: "Získajte súbory z vášho účtu Box.",
       evernote: "Získajte súbory z vášho účtu Evernote.",
@@ -85,6 +87,19 @@ l10n.translations.sk = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Moje súbory",
+      shared: "Zdieľané so mnou",
+      starred: "Obľúbené",
+      search: "Hľadať",
+      teamDrives: "Tímové disky",
+    },
+    search: {
+      placeholder: "Hľadať súbory",
+      button: "Hľadať",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Moje súbory",
       shared: "Zdieľané so mnou",

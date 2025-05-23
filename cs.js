@@ -8,6 +8,7 @@ l10n.translations.cs = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.cs = {
     lineA: {
       onedrive: "Získejte soubory z vašeho účtu OneDrive.",
       gdrive: "Získejte soubory z vašeho účtu Google.",
+      ngdrive: "Získejte soubory z vašeho účtu Google.",
       dropbox: "Získejte soubory z vašeho účtu Dropbox.",
       box: "Získejte soubory z vašeho účtu Box.",
       evernote: "Získejte soubory z vašeho účtu Evernote.",
@@ -85,6 +87,19 @@ l10n.translations.cs = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Moje soubory",
+      shared: "Sdíleno se mnou",
+      starred: "S hvězdičkou",
+      search: "Hledat",
+      teamDrives: "Týmové disky",
+    },
+    search: {
+      placeholder: "Hledat soubory",
+      button: "Hledat",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Moje soubory",
       shared: "Sdíleno se mnou",

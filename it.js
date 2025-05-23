@@ -8,6 +8,7 @@ l10n.translations.it = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.it = {
     lineA: {
       onedrive: "Ottieni file dal tuo account OneDrive.",
       gdrive: "Ottieni file dal tuo account Google.",
+      ngdrive: "Ottieni file dal tuo account Google.",
       dropbox: "Ottieni file dal tuo account Dropbox.",
       box: "Ottieni file dal tuo account Dropbox.",
       evernote: "Ottieni file dal tuo account Evernote.",
@@ -83,6 +85,19 @@ l10n.translations.it = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "I miei file",
+      shared: "Condivisi con me",
+      starred: "Stellato",
+      search: "Cerca",
+      teamDrives: "Team Drives",
+    },
+    search: {
+      placeholder: "Cerca i file",
+      button: "Cerca",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "I miei file",
       shared: "Condivisi con me",

@@ -8,6 +8,7 @@ l10n.translations.lv = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.lv = {
     lineA: {
       onedrive: "Iegūstiet failus no sava OneDrive konta.",
       gdrive: "Iegūstiet failus no sava Google konta.",
+      ngdrive: "Iegūstiet failus no sava Google konta.",
       dropbox: "Iegūstiet failus no sava Dropbox konta.",
       box: "Iegūstiet failus no sava Box konta.",
       evernote: "Iegūstiet failus no sava Evernote konta.",
@@ -84,6 +86,19 @@ l10n.translations.lv = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Mani faili",
+      shared: "Kopīgoti ar mani",
+      starred: "Zvaigznītes",
+      search: "Meklēt",
+      teamDrives: "Komandas diski",
+    },
+    search: {
+      placeholder: "Meklēt failus",
+      button: "Meklēt",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Mani faili",
       shared: "Kopīgoti ar mani",

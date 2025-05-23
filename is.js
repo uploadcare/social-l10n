@@ -8,6 +8,7 @@ l10n.translations.is = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.is = {
     lineA: {
       onedrive: "Sækja skrár frá OneDrive reikningnum þínum.",
       gdrive: "Sækja skrár frá Google reikningnum þínum.",
+      ngdrive: "Sækja skrár frá Google reikningnum þínum.",
       dropbox: "Sækja skrár frá Dropbox reikningnum þínum.",
       box: "Sækja skrár frá Box reikningnum þínum.",
       evernote: "Sækja skrár frá Evernote reikningnum þínum.",
@@ -85,6 +87,19 @@ l10n.translations.is = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Skrárnar mínar",
+      shared: "Deilt með mér",
+      starred: "Stjörnumerkt",
+      search: "Leita",
+      teamDrives: "Liðsdrif",
+    },
+    search: {
+      placeholder: "Leita að skrám",
+      button: "Leita",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Skrárnar mínar",
       shared: "Deilt með mér",

@@ -8,6 +8,7 @@ l10n.translations.zhTW = {
   },
   sourceName: {
     gdrive: "Google雲端硬碟",
+    ngdrive: "Google雲端硬碟",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.zhTW = {
     lineA: {
       onedrive: "從自己的 OneDrive 雲端硬碟帳號取得檔案並上傳",
       gdrive: "從自己的 Google雲端硬碟帳號取得檔案並上傳",
+      ngdrive: "從自己的 Google雲端硬碟帳號取得檔案並上傳",
       dropbox: "從自己的 Dropbox 帳號取得檔案並上傳",
       box: "從自己的 Box 帳號取得檔案並上傳",
       evernote: "從自己的 Evernote 帳號取得檔案並上傳",
@@ -84,6 +86,19 @@ l10n.translations.zhTW = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "我的文件",
+      shared: "與我共用",
+      starred: "已加星號",
+      search: "尋找",
+      teamDrives: "团队驱动器",
+    },
+    search: {
+      placeholder: "搜索文件",
+      button: "尋找",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "我的文件",
       shared: "與我共用",

@@ -8,6 +8,7 @@ l10n.translations.sr = {
   },
   sourceName: {
     gdrive: "Google Disk",
+    ngdrive: "Google Disk",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.sr = {
     lineA: {
       onedrive: "Preuzmite datoteke sa vašeg OneDrive naloga.",
       gdrive: "Preuzmite datoteke sa vašeg Google naloga.",
+      ngdrive: "Preuzmite datoteke sa vašeg Google naloga.",
       dropbox: "Preuzmite datoteke sa vašeg Dropbox naloga.",
       box: "Preuzmite datoteke sa vašeg Box naloga.",
       evernote: "Preuzmite datoteke sa vašeg Evernote naloga.",
@@ -85,6 +87,19 @@ l10n.translations.sr = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Moje datoteke",
+      shared: "Deljeno sa mnom",
+      starred: "Zvezdano",
+      search: "Pretraži",
+      teamDrives: "Tim diskovi",
+    },
+    search: {
+      placeholder: "Pretraži datoteke",
+      button: "Pretraži",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Moje datoteke",
       shared: "Deljeno sa mnom",

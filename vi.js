@@ -8,6 +8,7 @@ l10n.translations.vi = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.vi = {
     lineA: {
       onedrive: "Lấy tệp từ tài khoản OneDrive của bạn.",
       gdrive: "Lấy tệp từ tài khoản Google của bạn.",
+      ngdrive: "Lấy tệp từ tài khoản Google của bạn.",
       dropbox: "Lấy tệp từ tài khoản Dropbox của bạn.",
       box: "Lấy tệp từ tài khoản Box của bạn.",
       evernote: "Lấy tệp từ tài khoản Evernote của bạn.",
@@ -85,6 +87,19 @@ l10n.translations.vi = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Tệp của tôi",
+      shared: "Chia sẻ với tôi",
+      starred: "Đánh dấu sao",
+      search: "Tìm kiếm",
+      teamDrives: "Ổ đĩa nhóm",
+    },
+    search: {
+      placeholder: "Tìm kiếm tệp",
+      button: "Tìm kiếm",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Tệp của tôi",
       shared: "Chia sẻ với tôi",

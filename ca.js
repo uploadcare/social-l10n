@@ -8,6 +8,7 @@ l10n.translations.ca = {
   },
   sourceName: {
     gdrive: "Google Drive",
+    ngdrive: "Google Drive",
     dropbox: "Dropbox",
     facebook: "Facebook",
     instagram: "Instagram",
@@ -26,6 +27,7 @@ l10n.translations.ca = {
     lineA: {
       onedrive: "Obteniu fitxers del vostre compte de OneDrive.",
       gdrive: "Obteniu fitxers del vostre compte de Google.",
+      ngdrive: "Obteniu fitxers del vostre compte de Google.",
       dropbox: "Obteniu fitxers del vostre compte de Dropbox.",
       box: "Obteniu fitxers del vostre compte de Box.",
       evernote: "Obteniu fitxers del vostre compte de Evernote.",
@@ -85,6 +87,19 @@ l10n.translations.ca = {
     },
   },
   gdrive: {
+    menu: {
+      myFiles: "Els meus fitxers",
+      shared: "Compartit amb mi",
+      starred: "Destacats",
+      search: "Cerca",
+      teamDrives: "Discs de l'equip",
+    },
+    search: {
+      placeholder: "Cerca fitxers",
+      button: "Cerca",
+    },
+  },
+  ngdrive: {
     menu: {
       myFiles: "Els meus fitxers",
       shared: "Compartit amb mi",
