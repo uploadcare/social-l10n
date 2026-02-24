@@ -41,6 +41,8 @@ l10n.translations.uk = {
     lineB: "Ми про все подбаємо.<br> Вам достатньо лише увійти до системи.",
     note: "Сторінка входу відкриється у новому вікні.",
     button: "Увійти через %source",
+    somethingWentWrong: "Щось пішло не так?",
+    retry: "Повторити",
     facebookButton: "Продовжити з Facebook",
     cookieWarning:
       "Ви заблокували сторонні файли cookie у своєму браузері. " +

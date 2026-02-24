@@ -40,6 +40,8 @@ l10n.translations.ja = {
     },
     lineB: "ログインしてください。",
     button: "%sourceに接続",
+    somethingWentWrong: "問題が発生しましたか？",
+    retry: "再試行",
     facebookButton: "Facebookに接続",
     note: "%sourceに接続するため、新しい画面が開きます。",
     cookieWarning:

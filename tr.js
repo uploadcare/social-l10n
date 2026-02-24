@@ -40,6 +40,8 @@ l10n.translations.tr = {
     },
     lineB: "İşinizi kolaylaştırıyoruz. Sadece oturum açmanız gerekiyor.",
     button: "%source'a bağlan",
+    somethingWentWrong: "Bir şeyler yanlış mı gitti?",
+    retry: "Tekrar dene",
     facebookButton: "Facebook ile Devam Et",
     note: "%source hesabınıza bağlanmak için yeni bir sayfa açacağız.",
     cookieWarning:

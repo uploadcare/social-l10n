@@ -40,6 +40,8 @@ l10n.translations.ru = {
     },
     lineB: "Всё просто. Вам нужно только войти.",
     button: "Подключиться к %source",
+    somethingWentWrong: "Что-то пошло не так?",
+    retry: "Повторить",
     facebookButton: "Продолжить с Facebook",
     note: "Мы откроем новую страницу для подключения вашего аккаунта %source.",
     cookieWarning:

@@ -40,6 +40,8 @@ l10n.translations.cs = {
     },
     lineB: "Hrajeme fér. Stačí se přihlásit.",
     button: "Připojit k %source",
+    somethingWentWrong: "Něco se pokazilo?",
+    retry: "Zkusit znovu",
     facebookButton: "Pokračovat s Facebookem",
     note: "Otevřeme novou stránku pro připojení vašeho účtu %source.",
     cookieWarning:

@@ -40,6 +40,8 @@ l10n.translations.az = {
     },
     lineB: "Biz dostuq. Sadəcə daxil olmalısınız.",
     button: "%source-ə qoşulun",
+    somethingWentWrong: "Nəsə səhv getdi?",
+    retry: "Yenidən cəhd edin",
     facebookButton: "Facebook ilə davam edin",
     note: "Hesabınızı %source ilə əlaqələndirmək üçün yeni səhifə açacağıq.",
     cookieWarning:

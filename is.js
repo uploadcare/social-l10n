@@ -40,6 +40,8 @@ l10n.translations.is = {
     },
     lineB: "Við spilum vel. Þú þarft bara að skrá þig inn.",
     button: "Tengjast %source",
+    somethingWentWrong: "Eitthvað fór úrskeiðis?",
+    retry: "Reyna aftur",
     facebookButton: "Halda áfram með Facebook",
     note: "Við opnum nýja síðu til að tengja %source reikninginn þinn.",
     cookieWarning:

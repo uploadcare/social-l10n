@@ -40,6 +40,8 @@ l10n.translations.ca = {
     },
     lineB: "Ens portem bé. Només cal que inicieu sessió.",
     button: "Connecta a %source",
+    somethingWentWrong: "Alguna cosa ha anat malament?",
+    retry: "Torna-ho a intentar",
     facebookButton: "Continua amb Facebook",
     note: "Obrirem una nova pàgina per connectar el vostre compte de %source.",
     cookieWarning:

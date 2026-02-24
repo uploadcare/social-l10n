@@ -40,6 +40,8 @@ l10n.translations.ro = {
     },
     lineB: "Noi jucăm corect. Trebuie doar să vă conectați.",
     button: "Conectați-vă la %source",
+    somethingWentWrong: "Ceva a mers prost?",
+    retry: "Reîncercați",
     facebookButton: "Continuați cu Facebook",
     note: "Vom deschide o pagină nouă pentru a vă conecta contul %source.",
     cookieWarning:

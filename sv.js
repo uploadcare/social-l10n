@@ -40,6 +40,8 @@ l10n.translations.sv = {
     },
     lineB: "Vi spelar schysst. Du behöver bara logga in.",
     button: "Anslut till %source",
+    somethingWentWrong: "Något gick fel?",
+    retry: "Försök igen",
     facebookButton: "Fortsätt med Facebook",
     note: "Vi kommer att öppna en ny sida för att ansluta ditt %source-konto.",
     cookieWarning:

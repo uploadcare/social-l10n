@@ -40,6 +40,8 @@ l10n.translations.ar = {
     },
     lineB: "نحن نعمل بشكل جيد. فقط تحتاج إلى تسجيل الدخول.",
     button: "الاتصال بـ %source",
+    somethingWentWrong: "هل حدث خطأ ما؟",
+    retry: "إعادة المحاولة",
     facebookButton: "تابع مع Facebook",
     note: "سنفتح صفحة جديدة لتوصيل حساب %source الخاص بك.",
     cookieWarning:

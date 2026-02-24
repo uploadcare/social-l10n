@@ -40,6 +40,8 @@ l10n.translations.da = {
     },
     lineB: "Vi spiller pænt. Du skal bare logge ind.",
     button: "Forbind til %source",
+    somethingWentWrong: "Noget gik galt?",
+    retry: "Prøv igen",
     facebookButton: "Fortsæt med Facebook",
     note: "Vi åbner en ny side for at forbinde din %source-konto.",
     cookieWarning:

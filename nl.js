@@ -40,6 +40,8 @@ l10n.translations.nl = {
     },
     lineB: "Login om je bestanden te kunnen zien.",
     button: "Maak verbinding met %source",
+    somethingWentWrong: "Er is iets misgegaan?",
+    retry: "Opnieuw proberen",
     facebookButton: "Doorgaan met Facebook",
     note: "Er wordt een verbinding gelegd met je %source account.",
     cookieWarning:

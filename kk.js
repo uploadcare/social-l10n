@@ -40,6 +40,8 @@ l10n.translations.kk = {
     },
     lineB: "Біз жақсы ойнаймыз. Сізге тек кіру керек.",
     button: "%source-қа қосылу",
+    somethingWentWrong: "Бірдеңе дұрыс болмады?",
+    retry: "Қайтадан көріңіз",
     facebookButton: "Facebook арқылы жалғастыру",
     note: "Біз сіздің %source аккаунтыңызды қосу үшін жаңа бет ашамыз.",
     cookieWarning:

@@ -40,6 +40,8 @@ l10n.translations.hy = {
     },
     lineB: "Մենք լավ ենք խաղում։ Դուք պարզապես պետք է մուտք գործեք։",
     button: "Միացեք %source-ին",
+    somethingWentWrong: "Ի՞նչ-որ բան սխալ է?",
+    retry: "Կրկնել",
     facebookButton: "Շարունակել Facebook-ով",
     note: "Մենք կբացենք նոր էջ՝ ձեր %source հաշիվը միացնելու համար։",
     cookieWarning:

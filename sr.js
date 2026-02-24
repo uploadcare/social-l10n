@@ -40,6 +40,8 @@ l10n.translations.sr = {
     },
     lineB: "Igramo pošteno. Samo se trebate prijaviti.",
     button: "Poveži se sa %source",
+    somethingWentWrong: "Nešto je pošlo naopako?",
+    retry: "Pokušaj ponovo",
     facebookButton: "Nastavi sa Facebookom",
     note: "Otvorit ćemo novu stranicu za povezivanje vašeg %source naloga.",
     cookieWarning:

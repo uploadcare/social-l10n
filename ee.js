@@ -40,6 +40,8 @@ l10n.translations.ee = {
     },
     lineB: "Me mängime kenasti. Sa pead lihtsalt sisse logima.",
     button: "Ühenda %source",
+    somethingWentWrong: "Midagi läks valesti?",
+    retry: "Proovi uuesti",
     facebookButton: "Jätka Facebookiga",
     note: "Avame uue lehe, et ühendada oma %source konto.",
     cookieWarning:

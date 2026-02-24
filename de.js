@@ -40,6 +40,8 @@ l10n.translations.de = {
     },
     lineB: "Wir machen es Ihnen einfach. Sie brauchen sich nur anzumelden.",
     button: "Verbinden mit %source",
+    somethingWentWrong: "Etwas ist schiefgelaufen?",
+    retry: "Erneut versuchen",
     facebookButton: "Weiter mit Facebook",
     note: "Wir öffnen eine neue Seite für die Verbindung mit Ihrem %source-Konto.",
     cookieWarning:

@@ -40,6 +40,8 @@ l10n.translations.el = {
     },
     lineB: "Παίζουμε δίκαια. Απλά πρέπει να συνδεθείτε.",
     button: "Συνδεθείτε με %source",
+    somethingWentWrong: "Κάτι πήγε στραβά;",
+    retry: "Δοκιμάστε ξανά",
     facebookButton: "Συνεχίστε με το Facebook",
     note: "Θα ανοίξουμε μια νέα σελίδα για να συνδέσετε τον λογαριασμό σας στο %source.",
     cookieWarning:

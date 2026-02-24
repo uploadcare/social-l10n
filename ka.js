@@ -40,6 +40,8 @@ l10n.translations.ka = {
     },
     lineB: "ჩვენ კარგად ვთამაშობთ. თქვენ უბრალოდ უნდა შეხვიდეთ.",
     button: "დაკავშირება %source-თან",
+    somethingWentWrong: "რაღაც შეცდომა მოხდა?",
+    retry: "კვლავ სცადეთ",
     facebookButton: "გაგრძელება Facebook-ით",
     note: "ჩვენ გავხსნით ახალ გვერდს თქვენი %source ანგარიშის დასაკავშირებლად.",
     cookieWarning:

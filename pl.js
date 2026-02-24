@@ -40,6 +40,8 @@ l10n.translations.pl = {
     },
     lineB: "To proste. Wystarczy, że się zalogujesz.",
     button: "Połącz z kontem %source",
+    somethingWentWrong: "Coś poszło nie tak?",
+    retry: "Spróbuj ponownie",
     facebookButton: "Kontynuuj logowanie za pośrednictwem Facebooka",
     note: "Strona otworzy się w nowej karcie.",
     cookieWarning:

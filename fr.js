@@ -40,6 +40,8 @@ l10n.translations.fr = {
     },
     lineB: "On s'occupe de tout. Vous n'avez qu'à vous connecter.",
     button: "Se connecter à %source",
+    somethingWentWrong: "Quelque chose s'est mal passé ?",
+    retry: "Réessayer",
     facebookButton: "Continuer avec Facebook",
     note: "Nous allons ouvrir une nouvelle page pour vous connecter à votre compte %source.",
     cookieWarning:

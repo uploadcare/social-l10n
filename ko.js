@@ -40,6 +40,8 @@ l10n.translations.ko = {
     },
     lineB: "우리는 잘 지냅니다. 로그인만 하면 됩니다.",
     button: "%source에 연결",
+    somethingWentWrong: "문제가 발생했나요?",
+    retry: "다시 시도",
     facebookButton: "Facebook으로 계속",
     note: "%source 계정을 연결하기 위해 새 페이지를 엽니다.",
     cookieWarning:

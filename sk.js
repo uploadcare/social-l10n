@@ -40,6 +40,8 @@ l10n.translations.sk = {
     },
     lineB: "Hráme fér. Stačí sa prihlásiť.",
     button: "Pripojiť sa k %source",
+    somethingWentWrong: "Niečo sa pokazilo?",
+    retry: "Skúsiť znovu",
     facebookButton: "Pokračovať s Facebookom",
     note: "Otvoríme novú stránku na pripojenie vášho účtu %source.",
     cookieWarning:

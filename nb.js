@@ -40,6 +40,8 @@ l10n.translations.nb = {
     },
     lineB: "Vi spiller fair. Du trenger bare å logge inn.",
     button: "Koble til %source",
+    somethingWentWrong: "Noe gikk galt?",
+    retry: "Prøv igjen",
     facebookButton: "Fortsett med Facebook",
     note: "Vi åpner en ny side for å koble til din %source-konto.",
     cookieWarning:

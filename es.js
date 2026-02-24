@@ -40,6 +40,8 @@ l10n.translations.es = {
     },
     lineB: "Le facilitamos las cosas, solo tiene que iniciar sesión.",
     button: "Conectarse a la %source",
+    somethingWentWrong: "¿Algo salió mal?",
+    retry: "Reintentar",
     facebookButton: "Continuar con Facebook",
     note: "Abriremos una nueva página para que se conecte a su cuenta %source.",
     cookieWarning:

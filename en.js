@@ -40,6 +40,8 @@ l10n.translations.en = {
     },
     lineB: "We play nice. You just need to login.",
     button: "Connect to %source",
+    somethingWentWrong: "Something went wrong?",
+    retry: "Retry",
     facebookButton: "Continue with Facebook",
     note: "We will open a new page to connect your %source account.",
     cookieWarning:

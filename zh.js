@@ -40,6 +40,8 @@ l10n.translations.zh = {
     },
     lineB: "您只需要登录",
     button: "链接%source",
+    somethingWentWrong: "出了问题？",
+    retry: "重试",
     facebookButton: "继续使用 Facebook 登录",
     note: "我们将新开页面来链接您的%source账号",
     cookieWarning:

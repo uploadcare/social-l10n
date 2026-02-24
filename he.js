@@ -40,6 +40,8 @@ l10n.translations.he = {
     },
     lineB: "רק נשאר להתחבר למשתמש שלכם.",
     button: "התחבר ל %source",
+    somethingWentWrong: "משהו השתבש?",
+    retry: "נסה שוב",
     facebookButton: "להמשיך עם פייסבוק",
     note: "אנו נפתח דף חדש לחיבור חשבון ה- %source שלך.",
     cookieWarning:

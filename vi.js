@@ -40,6 +40,8 @@ l10n.translations.vi = {
     },
     lineB: "Chúng tôi hoạt động tốt. Bạn chỉ cần đăng nhập.",
     button: "Kết nối với %source",
+    somethingWentWrong: "Có điều gì đó không ổn?",
+    retry: "Thử lại",
     facebookButton: "Tiếp tục với Facebook",
     note: "Chúng tôi sẽ mở một trang mới để kết nối tài khoản %source của bạn.",
     cookieWarning:

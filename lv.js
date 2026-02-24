@@ -40,6 +40,8 @@ l10n.translations.lv = {
     },
     lineB: "Mēs spēlējam godīgi. Jums tikai jāielogojas.",
     button: "Pievienoties %source",
+    somethingWentWrong: "Kaut kas nogāja greizi?",
+    retry: "Mēģināt vēlreiz",
     facebookButton: "Turpināt ar Facebook",
     note: "Mēs atvērsim jaunu lapu, lai pievienotu jūsu %source kontu.",
     cookieWarning:
