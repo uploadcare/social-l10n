@@ -157,6 +157,8 @@ l10n.translations.ar = {
     },
     openPicker: "افتح صور Google",
     waitSession: "في انتظار صور Google",
+    reVerificationMessagePart1: "نحن في عملية إعادة التحقق بسبب تغييرات سياسة Google. إذا كنت تريد الاتصال بـ Google Photos، في الصفحة التي تفتح، انقر على",
+    reVerificationMessagePart2: "خيارات متقدمة → الانتقال إلى Uploadcare (غير آمن)",
   },
   huddle: {
     menu: {

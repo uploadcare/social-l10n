@@ -157,6 +157,8 @@ l10n.translations.is = {
     },
     openPicker: "Opnaðu Google Myndir",
     waitSession: "Bíð eftir Google Myndir",
+    reVerificationMessagePart1: "Við erum að endurskoða vegna breytinga á stefnu Google. Ef þú vilt tengjast Google Photos, smelltu á opna síðuna",
+    reVerificationMessagePart2: "Ítarlegt → Fara á Uploadcare (óöruggt)",
   },
   huddle: {
     menu: {

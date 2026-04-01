@@ -156,6 +156,8 @@ l10n.translations.nl = {
     },
     openPicker: "Open Google Foto's",
     waitSession: "Wachten op Google Foto's",
+    reVerificationMessagePart1: "We zijn bezig met een herverificatie vanwege wijzigingen in het Google-beleid. Als je verbinding wilt maken met Google Foto's, klik dan op de geopende pagina op",
+    reVerificationMessagePart2: "Geavanceerd → Ga naar Uploadcare (onveilig)",
   },
   huddle: {
     menu: {

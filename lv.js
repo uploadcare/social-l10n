@@ -156,6 +156,8 @@ l10n.translations.lv = {
     },
     openPicker: "Atvērt Google fotoattēlus",
     waitSession: "Gaida Google fotoattēlus",
+    reVerificationMessagePart1: "Mēs veicam atkārtotu pārbaudi saistībā ar Google politikas izmaiņām. Ja vēlaties izveidot savienojumu ar Google fotoattēliem, atvērtajā lapā noklikšķiniet uz",
+    reVerificationMessagePart2: "Papildu → Dodieties uz Uploadcare (nedrošs)",
   },
   huddle: {
     menu: {

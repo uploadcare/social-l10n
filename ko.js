@@ -156,6 +156,8 @@ l10n.translations.ko = {
     },
     openPicker: "Google 포토 열기",
     waitSession: "Google 포토 대기 중",
+    reVerificationMessagePart1: "Google 정책 변경으로 인해 다시 확인 중입니다. Google 포토에 연결하려면 열리는 페이지에서",
+    reVerificationMessagePart2: "고급 → Uploadcare로 이동(안전하지 않음)을 클릭하세요.",
   },
   huddle: {
     menu: {

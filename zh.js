@@ -155,6 +155,8 @@ l10n.translations.zh = {
     },
     openPicker: "打开 Google 相册",
     waitSession: "等待 Google 相册",
+    reVerificationMessagePart1: "由于 Google 政策更改，我们正在重新验证。如果您想连接到 Google 照片，在打开的页面上点击",
+    reVerificationMessagePart2: "高级 → 转到 Uploadcare（不安全）",
   },
   huddle: {
     menu: {

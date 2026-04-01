@@ -156,6 +156,8 @@ l10n.translations.de = {
     },
     openPicker: "Google Fotos öffnen",
     waitSession: "Warten auf Google Fotos",
+    reVerificationMessagePart1: "Wir befinden uns aufgrund von Änderungen der Google-Richtlinien im Prozess der erneuten Überprüfung. Wenn Sie eine Verbindung zu Google Fotos herstellen möchten, klicken Sie auf der geöffneten Seite auf",
+    reVerificationMessagePart2: "Erweitert → Zu Uploadcare gehen (unsicher)",
   },
   huddle: {
     menu: {

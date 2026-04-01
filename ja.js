@@ -156,6 +156,8 @@ l10n.translations.ja = {
     },
     openPicker: "Google フォトを開く",
     waitSession: "Google フォトを待機中",
+    reVerificationMessagePart1: "Googleポリシーの変更により、再確認を行っています。Googleフォトに接続するには、開いたページで",
+    reVerificationMessagePart2: "詳細 → Uploadcareに移動（安全ではありません）をクリックしてください。",
   },
   huddle: {
     menu: {

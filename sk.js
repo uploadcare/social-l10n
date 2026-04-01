@@ -157,6 +157,8 @@ l10n.translations.sk = {
     },
     openPicker: "Otvoriť Google Fotky",
     waitSession: "Čaká sa na Google Fotky",
+    reVerificationMessagePart1: "Znovu overujeme kvôli zmenám v politike Google. Ak sa chcete pripojiť k Google Photos, na otvorenej stránke kliknite",
+    reVerificationMessagePart2: "Rozšírené → Prejsť na Uploadcare (nebezpečné)",
   },
   huddle: {
     menu: {

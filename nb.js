@@ -157,6 +157,8 @@ l10n.translations.nb = {
     },
     openPicker: "Åpne Google Bilder",
     waitSession: "Venter på Google Bilder",
+    reVerificationMessagePart1: "Vi gjennomfører en ny bekreftelse på grunn av endringer i Googles policy. Hvis du vil koble til Google Foto, klikker du på siden som åpnes",
+    reVerificationMessagePart2: "Avansert → Gå til Uploadcare (usikkert)",
   },
   huddle: {
     menu: {

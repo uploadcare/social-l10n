@@ -157,6 +157,8 @@ l10n.translations.el = {
     },
     openPicker: "Άνοιγμα Google Photos",
     waitSession: "Αναμονή για Google Photos",
+    reVerificationMessagePart1: "Είμαστε στη διαδικασία επανεπαλήθευσης λόγω αλλαγών στην πολιτική της Google. Εάν θέλετε να συνδεθείτε με το Google Photos, στη σελίδα που ανοίγει, κάντε κλικ στο",
+    reVerificationMessagePart2: "Για προχωρημένους → Μετάβαση στο Uploadcare (μη ασφαλές)",
   },
   huddle: {
     menu: {

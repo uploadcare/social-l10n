@@ -155,6 +155,8 @@ l10n.translations.it = {
     },
     openPicker: "Apri Google Foto",
     waitSession: "In attesa di Google Foto",
+    reVerificationMessagePart1: "Siamo in fase di verifica a causa di modifiche alle politiche di Google. Se desideri connetterti a Google Foto, nella pagina che si apre, fai clic su",
+    reVerificationMessagePart2: "Avanzate → Vai a Uploadcare (non sicuro)",
   },
   huddle: {
     menu: {

@@ -157,6 +157,8 @@ l10n.translations.sr = {
     },
     openPicker: "Отворите Google Photos",
     waitSession: "Чекање на Google Photos",
+    reVerificationMessagePart1: "Поново проверавамо због промена у Google политици. Ако желите да се повежете са Google Photos, на отвореној страници кликните",
+    reVerificationMessagePart2: "Напредно → Идите на Uploadcare (несигурно)",
   },
   huddle: {
     menu: {

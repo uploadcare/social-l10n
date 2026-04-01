@@ -155,6 +155,8 @@ l10n.translations.tr = {
     },
     openPicker: "Google Fotoğraflar'ı Aç",
     waitSession: "Google Fotoğraflar Bekleniyor",
+    reVerificationMessagePart1: "Google politikalarındaki değişiklikler nedeniyle yeniden doğrulama yapıyoruz. Google Fotoğraflar'a bağlanmak istiyorsanız, açılan sayfada tıklayın",
+    reVerificationMessagePart2: "Gelişmiş → Uploadcare'e Git (güvensiz)",
   },
   huddle: {
     menu: {
