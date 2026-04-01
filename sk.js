@@ -66,6 +66,7 @@ l10n.translations.sk = {
       placeholder: "Hľadať súbory",
       button: "Hľadať súbory",
     },
+    openChooser: "Otvoriť Dropbox",
   },
   instagram: {
     menu: {

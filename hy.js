@@ -66,6 +66,7 @@ l10n.translations.hy = {
       placeholder: "Փնտրել ֆայլեր",
       button: "Փնտրել ֆայլեր",
     },
+    openChooser: "Բացեք Dropbox-ը",
   },
   instagram: {
     menu: {

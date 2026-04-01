@@ -66,6 +66,7 @@ l10n.translations.he = {
       placeholder: "לחפש קבצים",
       button: "חפש קבצים",
     },
+    openChooser: "פתח את Dropbox",
   },
   instagram: {
     menu: {

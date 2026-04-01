@@ -66,6 +66,7 @@ l10n.translations.ko = {
       placeholder: "파일 검색",
       button: "검색",
     },
+    openChooser: "Dropbox 열기",
   },
   instagram: {
     menu: {

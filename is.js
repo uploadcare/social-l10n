@@ -66,6 +66,7 @@ l10n.translations.is = {
       placeholder: "Leita að skrám",
       button: "Leita að skrám",
     },
+    openChooser: "Opnaðu Dropbox",
   },
   instagram: {
     menu: {

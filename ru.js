@@ -66,6 +66,7 @@ l10n.translations.ru = {
       placeholder: "Искать файлы",
       button: "Искать файлы",
     },
+    openChooser: "Открыть Dropbox",
   },
   instagram: {
     menu: {

@@ -66,6 +66,7 @@ l10n.translations.sv = {
       placeholder: "Sök filer",
       button: "Sök filer",
     },
+    openChooser: "Öppna Dropbox",
   },
   instagram: {
     menu: {

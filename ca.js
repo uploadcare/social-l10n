@@ -66,6 +66,7 @@ l10n.translations.ca = {
       placeholder: "Cerca fitxers",
       button: "Cerca fitxers",
     },
+    openChooser: "Obre Dropbox",
   },
   instagram: {
     menu: {

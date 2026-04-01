@@ -67,6 +67,7 @@ l10n.translations.et = {
       placeholder: "Otsi faile",
       button: "Otsi faile",
     },
+    openChooser: "Ava Dropbox",
   },
   instagram: {
     menu: {

@@ -64,6 +64,7 @@ l10n.translations.tr = {
       placeholder: "Dosyaları ara",
       button: "Dosyaları ara",
     },
+    openChooser: "Dropbox'ı Aç",
   },
   instagram: {
     menu: {

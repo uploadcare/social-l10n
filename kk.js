@@ -67,6 +67,7 @@ l10n.translations.kk = {
       placeholder: "Файлдарды іздеу",
       button: "Іздеу",
     },
+    openChooser: "Dropbox ашу",
   },
   instagram: {
     menu: {

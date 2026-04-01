@@ -65,6 +65,7 @@ l10n.translations.zh = {
       placeholder: "搜索文件",
       button: "搜索文件",
     },
+    openChooser: "打开 Dropbox",
   },
   instagram: {
     menu: {
