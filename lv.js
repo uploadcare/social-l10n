@@ -66,6 +66,7 @@ l10n.translations.lv = {
       placeholder: "Meklēt failus",
       button: "Meklēt",
     },
+    openChooser: "Atvērt Dropbox",
   },
   instagram: {
     menu: {

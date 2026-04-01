@@ -66,6 +66,7 @@ l10n.translations.cs = {
       placeholder: "Hledat soubory",
       button: "Hledat soubory",
     },
+    openChooser: "Otevřít Dropbox",
   },
   instagram: {
     menu: {

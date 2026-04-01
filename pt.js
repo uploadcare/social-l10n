@@ -64,6 +64,7 @@ l10n.translations.pt = {
       placeholder: "Procurar arquivos",
       button: "Buscar",
     },
+    openChooser: "Abrir Dropbox",
   },
   instagram: {
     menu: {

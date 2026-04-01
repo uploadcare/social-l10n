@@ -65,6 +65,7 @@ l10n.translations.ja = {
       placeholder: "ファイル検索",
       button: "ファイル検索",
     },
+    openChooser: "Dropboxを開く",
   },
   instagram: {
     menu: {

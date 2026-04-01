@@ -65,6 +65,7 @@ l10n.translations.de = {
       placeholder: "Dateien suchen",
       button: "Dateien suchen",
     },
+    openChooser: "Dropbox öffnen",
   },
   instagram: {
     menu: {

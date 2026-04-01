@@ -66,6 +66,7 @@ l10n.translations.az = {
       placeholder: "Faylları axtarın",
       button: "Axtar",
     },
+    openChooser: "Dropbox-u açın",
   },
   instagram: {
     menu: {

@@ -67,6 +67,7 @@ l10n.translations.ar = {
       placeholder: "البحث عن الملفات",
       button: "البحث عن الملفات",
     },
+    openChooser: "افتح Dropbox",
   },
   instagram: {
     menu: {

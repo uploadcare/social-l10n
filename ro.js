@@ -66,6 +66,7 @@ l10n.translations.ro = {
       placeholder: "Căutați fișiere",
       button: "Căutați fișiere",
     },
+    openChooser: "Deschideți Dropbox",
   },
   instagram: {
     menu: {

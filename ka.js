@@ -66,6 +66,7 @@ l10n.translations.ka = {
       placeholder: "ფაილების ძიება",
       button: "ძიება",
     },
+    openChooser: "გახსენით Dropbox",
   },
   instagram: {
     menu: {

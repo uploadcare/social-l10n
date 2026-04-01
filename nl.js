@@ -65,6 +65,7 @@ l10n.translations.nl = {
       placeholder: "Zoek naar bestanden",
       button: "Zoeken",
     },
+    openChooser: "Open Dropbox",
   },
   instagram: {
     menu: {
