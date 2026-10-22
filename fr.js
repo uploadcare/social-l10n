@@ -113,7 +113,6 @@ l10n.translations.fr = {
       button: "Rechercher",
     },
     openPicker: "Ouvrir Google Drive",
-    skippedFiles: "Certains fichiers sont inaccessibles et ont été ignorés:",
     fileUnavailable: "Impossible d'accéder à ce fichier",
   },
   facebook: {

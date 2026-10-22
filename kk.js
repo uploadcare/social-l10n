@@ -114,7 +114,6 @@ l10n.translations.kk = {
       button: "Іздеу",
     },
     openPicker: "Google Drive ашу",
-    skippedFiles: "Кейбір файлдарға қол жеткізу мүмкін болмады, олар өткізіп жіберілді:",
     fileUnavailable: "Бұл файлға қол жеткізу мүмкін емес",
   },
   facebook: {

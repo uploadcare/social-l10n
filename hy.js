@@ -113,7 +113,6 @@ l10n.translations.hy = {
       button: "Փնտրել",
     },
     openPicker: "Բացեք Google Drive-ը",
-    skippedFiles: "Որոշ ֆայլեր հասանելի չէին և բաց թողնվեցին:",
     fileUnavailable: "Այս ֆայլը հասանելի չէ",
   },
   facebook: {

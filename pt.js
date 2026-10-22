@@ -111,7 +111,6 @@ l10n.translations.pt = {
       button: "Buscar",
     },
     openPicker: "Abrir Google Drive",
-    skippedFiles: "Não foi possível acessar alguns arquivos, e eles foram ignorados:",
     fileUnavailable: "Não é possível acessar este arquivo",
   },
   flickr: {

@@ -112,7 +112,6 @@ l10n.translations.he = {
       button: "חפש קבצים",
     },
     openPicker: "פתח את Google Drive",
-    skippedFiles: "לא ניתן היה לגשת לחלק מהקבצים והם דולגו:",
     fileUnavailable: "לא ניתן לגשת לקובץ זה",
   },
   facebook: {

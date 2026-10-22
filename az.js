@@ -113,7 +113,6 @@ l10n.translations.az = {
       button: "Axtar",
     },
     openPicker: "Google Drive-i açın",
-    skippedFiles: "Bəzi fayllara giriş mümkün olmadı və onlar ötürüldü:",
     fileUnavailable: "Bu fayla giriş mümkün deyil",
   },
   facebook: {

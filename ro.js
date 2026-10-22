@@ -113,7 +113,6 @@ l10n.translations.ro = {
       button: "Căutați",
     },
     openPicker: "Deschideți Google Drive",
-    skippedFiles: "Unele fișiere nu au putut fi accesate și au fost omise:",
     fileUnavailable: "Acest fișier nu poate fi accesat",
   },
   facebook: {

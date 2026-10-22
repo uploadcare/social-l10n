@@ -113,7 +113,6 @@ l10n.translations.sk = {
       button: "Hľadať",
     },
     openPicker: "Otvoriť Google Drive",
-    skippedFiles: "K niektorým súborom sa nepodarilo získať prístup a boli preskočené:",
     fileUnavailable: "K tomuto súboru nemožno získať prístup",
   },
   facebook: {

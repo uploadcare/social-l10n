@@ -114,7 +114,6 @@ l10n.translations.ee = {
       button: "Otsi",
     },
     openPicker: "Ava Google Drive",
-    skippedFiles: "Mõnele failile ei pääsenud ligi ja need jäeti vahele:",
     fileUnavailable: "Sellele failile ei pääse ligi",
   },
   facebook: {
