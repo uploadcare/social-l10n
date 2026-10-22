@@ -114,6 +114,7 @@ l10n.translations.kk = {
       button: "Іздеу",
     },
     openPicker: "Google Drive ашу",
+    fileUnavailable: "Бұл файлға қол жеткізу мүмкін емес",
   },
   facebook: {
     menu: {

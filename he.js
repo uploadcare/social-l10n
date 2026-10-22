@@ -112,6 +112,7 @@ l10n.translations.he = {
       button: "חפש קבצים",
     },
     openPicker: "פתח את Google Drive",
+    fileUnavailable: "לא ניתן לגשת לקובץ זה",
   },
   facebook: {
     menu: {

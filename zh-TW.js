@@ -112,6 +112,7 @@ l10n.translations.zhTW = {
       button: "尋找",
     },
     openPicker: "打開 Google 雲端硬碟",
+    fileUnavailable: "無法存取此檔案",
   },
   facebook: {
     menu: {

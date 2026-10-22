@@ -113,6 +113,7 @@ l10n.translations.az = {
       button: "Axtar",
     },
     openPicker: "Google Drive-i açın",
+    fileUnavailable: "Bu fayla giriş mümkün deyil",
   },
   facebook: {
     menu: {

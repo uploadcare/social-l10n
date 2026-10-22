@@ -112,6 +112,7 @@ l10n.translations.nl = {
       button: "Zoeken",
     },
     openPicker: "Open Google Drive",
+    fileUnavailable: "Dit bestand is niet toegankelijk",
   },
   facebook: {
     menu: {

@@ -112,6 +112,7 @@ l10n.translations.uk = {
       button: "Пошук",
     },
     openPicker: "Відкрити Google Drive",
+    fileUnavailable: "Немає доступу до цього файлу",
   },
   facebook: {
     menu: {

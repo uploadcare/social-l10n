@@ -113,6 +113,7 @@ l10n.translations.is = {
       button: "Leita",
     },
     openPicker: "Opnaðu Google Drive",
+    fileUnavailable: "Ekki er hægt að opna þessa skrá",
   },
   facebook: {
     menu: {

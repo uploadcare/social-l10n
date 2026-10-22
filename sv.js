@@ -113,6 +113,7 @@ l10n.translations.sv = {
       button: "Sök",
     },
     openPicker: "Öppna Google Drive",
+    fileUnavailable: "Det går inte att komma åt den här filen",
   },
   facebook: {
     menu: {

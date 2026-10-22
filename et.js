@@ -114,6 +114,7 @@ l10n.translations.et = {
       button: "Otsi",
     },
     openPicker: "Ava Google Drive",
+    fileUnavailable: "Sellele failile ei pääse ligi",
   },
   facebook: {
     menu: {

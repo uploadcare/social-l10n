@@ -113,6 +113,7 @@ l10n.translations.ka = {
       button: "ძიება",
     },
     openPicker: "გახსენით Google Drive",
+    fileUnavailable: "ამ ფაილზე წვდომა შეუძლებელია",
   },
   facebook: {
     menu: {

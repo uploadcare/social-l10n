@@ -111,6 +111,7 @@ l10n.translations.es = {
       button: "Buscar",
     },
     openPicker: "Abrir Google Drive",
+    fileUnavailable: "No se puede acceder a este archivo",
   },
   facebook: {
     menu: {

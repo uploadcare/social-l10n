@@ -113,6 +113,7 @@ l10n.translations.nb = {
       button: "Søk",
     },
     openPicker: "Åpne Google Disk",
+    fileUnavailable: "Du har ikke tilgang til denne filen",
   },
   facebook: {
     menu: {
