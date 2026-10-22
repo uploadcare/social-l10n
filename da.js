@@ -112,6 +112,8 @@ l10n.translations.da = {
       button: "Søg",
     },
     openPicker: "Åbn Google Drev",
+    skippedFiles: "Nogle filer kunne ikke tilgås og blev sprunget over:",
+    fileUnavailable: "Der er ikke adgang til denne fil",
   },
   facebook: {
     menu: {

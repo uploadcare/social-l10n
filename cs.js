@@ -113,6 +113,8 @@ l10n.translations.cs = {
       button: "Hledat",
     },
     openPicker: "Otevřít Google Drive",
+    skippedFiles: "K některým souborům se nepodařilo získat přístup a byly přeskočeny:",
+    fileUnavailable: "K tomuto souboru nelze získat přístup",
   },
   facebook: {
     menu: {

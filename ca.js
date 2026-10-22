@@ -113,6 +113,8 @@ l10n.translations.ca = {
       button: "Cerca",
     },
     openPicker: "Obre Google Drive",
+    skippedFiles: "No s'ha pogut accedir a alguns fitxers i s'han omès:",
+    fileUnavailable: "No es pot accedir a aquest fitxer",
   },
   facebook: {
     menu: {

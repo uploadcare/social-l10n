@@ -113,6 +113,8 @@ l10n.translations.sv = {
       button: "Sök",
     },
     openPicker: "Öppna Google Drive",
+    skippedFiles: "Vissa filer kunde inte nås och hoppades över:",
+    fileUnavailable: "Det går inte att komma åt den här filen",
   },
   facebook: {
     menu: {

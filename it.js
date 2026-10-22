@@ -111,6 +111,8 @@ l10n.translations.it = {
       button: "Cerca",
     },
     openPicker: "Apri Google Drive",
+    skippedFiles: "Non è stato possibile accedere ad alcuni file, che sono stati saltati:",
+    fileUnavailable: "Impossibile accedere a questo file",
   },
   facebook: {
     menu: {

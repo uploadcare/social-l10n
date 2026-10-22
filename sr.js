@@ -113,6 +113,8 @@ l10n.translations.sr = {
       button: "Pretraži",
     },
     openPicker: "Otvorite Google Drive",
+    skippedFiles: "Nekim datotekama nije moguće pristupiti, pa su preskočene:",
+    fileUnavailable: "Nije moguće pristupiti ovoj datoteci",
   },
   facebook: {
     menu: {

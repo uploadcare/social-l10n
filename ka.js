@@ -113,6 +113,8 @@ l10n.translations.ka = {
       button: "ძიება",
     },
     openPicker: "გახსენით Google Drive",
+    skippedFiles: "ზოგიერთ ფაილზე წვდომა ვერ მოხერხდა და ისინი გამოტოვებულია:",
+    fileUnavailable: "ამ ფაილზე წვდომა შეუძლებელია",
   },
   facebook: {
     menu: {

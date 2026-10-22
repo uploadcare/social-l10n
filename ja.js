@@ -112,6 +112,8 @@ l10n.translations.ja = {
       button: "検索",
     },
     openPicker: "Google ドライブを開く",
+    skippedFiles: "一部のファイルにアクセスできなかったため、スキップしました:",
+    fileUnavailable: "このファイルにアクセスできません",
   },
   facebook: {
     menu: {

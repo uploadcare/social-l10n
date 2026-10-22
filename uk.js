@@ -112,6 +112,8 @@ l10n.translations.uk = {
       button: "Пошук",
     },
     openPicker: "Відкрити Google Drive",
+    skippedFiles: "Не вдалося отримати доступ до деяких файлів, їх пропущено:",
+    fileUnavailable: "Немає доступу до цього файлу",
   },
   facebook: {
     menu: {

@@ -113,6 +113,8 @@ l10n.translations.pl = {
       button: "Szukaj",
     },
     openPicker: "Otwórz Google Drive",
+    skippedFiles: "Nie udało się uzyskać dostępu do niektórych plików, więc zostały pominięte:",
+    fileUnavailable: "Brak dostępu do tego pliku",
   },
   facebook: {
     menu: {

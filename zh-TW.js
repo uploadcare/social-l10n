@@ -112,6 +112,8 @@ l10n.translations.zhTW = {
       button: "尋找",
     },
     openPicker: "打開 Google 雲端硬碟",
+    skippedFiles: "部分檔案無法存取，已略過:",
+    fileUnavailable: "無法存取此檔案",
   },
   facebook: {
     menu: {

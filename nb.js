@@ -113,6 +113,8 @@ l10n.translations.nb = {
       button: "Søk",
     },
     openPicker: "Åpne Google Disk",
+    skippedFiles: "Noen filer var utilgjengelige og ble hoppet over:",
+    fileUnavailable: "Du har ikke tilgang til denne filen",
   },
   facebook: {
     menu: {

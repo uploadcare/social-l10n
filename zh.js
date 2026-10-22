@@ -111,6 +111,8 @@ l10n.translations.zh = {
       button: "搜索",
     },
     openPicker: "打开 Google Drive",
+    skippedFiles: "部分文件无法访问，已跳过:",
+    fileUnavailable: "无法访问此文件",
   },
   facebook: {
     menu: {

@@ -113,6 +113,8 @@ l10n.translations.vi = {
       button: "Tìm kiếm",
     },
     openPicker: "Mở Google Drive",
+    skippedFiles: "Không thể truy cập một số tệp nên chúng đã bị bỏ qua:",
+    fileUnavailable: "Không thể truy cập tệp này",
   },
   facebook: {
     menu: {

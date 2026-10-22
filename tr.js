@@ -111,6 +111,8 @@ l10n.translations.tr = {
       button: "Arama",
     },
     openPicker: "Google Drive'ı Aç",
+    skippedFiles: "Bazı dosyalara erişilemedi ve atlandı:",
+    fileUnavailable: "Bu dosyaya erişilemiyor",
   },
   facebook: {
     menu: {
