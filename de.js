@@ -112,6 +112,7 @@ l10n.translations.de = {
       button: "Suche",
     },
     openPicker: "Google Drive öffnen",
+    fileUnavailable: "Kein Zugriff auf diese Datei",
   },
   facebook: {
     menu: {

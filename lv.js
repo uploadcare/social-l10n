@@ -112,6 +112,7 @@ l10n.translations.lv = {
       button: "Meklēt",
     },
     openPicker: "Atvērt Google Drive",
+    fileUnavailable: "Šim failam nevar piekļūt",
   },
   facebook: {
     menu: {

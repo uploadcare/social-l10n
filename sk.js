@@ -113,6 +113,7 @@ l10n.translations.sk = {
       button: "Hľadať",
     },
     openPicker: "Otvoriť Google Drive",
+    fileUnavailable: "K tomuto súboru nemožno získať prístup",
   },
   facebook: {
     menu: {

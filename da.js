@@ -112,6 +112,7 @@ l10n.translations.da = {
       button: "Søg",
     },
     openPicker: "Åbn Google Drev",
+    fileUnavailable: "Der er ikke adgang til denne fil",
   },
   facebook: {
     menu: {

@@ -113,6 +113,7 @@ l10n.translations.ar = {
       button: "بحث",
     },
     openPicker: "افتح Google Drive",
+    fileUnavailable: "لا يمكن الوصول إلى هذا الملف",
   },
   facebook: {
     menu: {

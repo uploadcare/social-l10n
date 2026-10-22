@@ -113,6 +113,7 @@ l10n.translations.ca = {
       button: "Cerca",
     },
     openPicker: "Obre Google Drive",
+    fileUnavailable: "No es pot accedir a aquest fitxer",
   },
   facebook: {
     menu: {

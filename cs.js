@@ -113,6 +113,7 @@ l10n.translations.cs = {
       button: "Hledat",
     },
     openPicker: "Otevřít Google Drive",
+    fileUnavailable: "K tomuto souboru nelze získat přístup",
   },
   facebook: {
     menu: {

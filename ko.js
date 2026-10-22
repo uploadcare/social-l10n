@@ -112,6 +112,7 @@ l10n.translations.ko = {
       button: "검색",
     },
     openPicker: "Google 드라이브 열기",
+    fileUnavailable: "이 파일에 액세스할 수 없습니다",
   },
   facebook: {
     menu: {

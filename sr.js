@@ -113,6 +113,7 @@ l10n.translations.sr = {
       button: "Pretraži",
     },
     openPicker: "Otvorite Google Drive",
+    fileUnavailable: "Nije moguće pristupiti ovoj datoteci",
   },
   facebook: {
     menu: {

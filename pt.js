@@ -111,6 +111,7 @@ l10n.translations.pt = {
       button: "Buscar",
     },
     openPicker: "Abrir Google Drive",
+    fileUnavailable: "Não é possível acessar este arquivo",
   },
   flickr: {
     menu: {

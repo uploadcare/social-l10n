@@ -113,6 +113,7 @@ l10n.translations.pl = {
       button: "Szukaj",
     },
     openPicker: "Otwórz Google Drive",
+    fileUnavailable: "Brak dostępu do tego pliku",
   },
   facebook: {
     menu: {

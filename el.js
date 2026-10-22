@@ -113,6 +113,7 @@ l10n.translations.el = {
       button: "Αναζήτηση",
     },
     openPicker: "Άνοιγμα Google Drive",
+    fileUnavailable: "Δεν είναι δυνατή η πρόσβαση σε αυτό το αρχείο",
   },
   facebook: {
     menu: {

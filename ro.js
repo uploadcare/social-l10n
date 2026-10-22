@@ -113,6 +113,7 @@ l10n.translations.ro = {
       button: "Căutați",
     },
     openPicker: "Deschideți Google Drive",
+    fileUnavailable: "Acest fișier nu poate fi accesat",
   },
   facebook: {
     menu: {
